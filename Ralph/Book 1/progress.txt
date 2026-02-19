@@ -1850,3 +1850,188 @@ Continuity checks:
   - Timeline: Day 4, Phase 5 (Part Four: The Break) ✓
 
 Phase 5 COMPLETE. All four Day 4 chapters (Ch.14-17) finished. Ready for Phase 6.
+
+[2026-02-19 11:30] CHAPTER 18 — THE GHOST DISTRICT — Phase 6, Task 1
+
+Wrote: Book 1/Chapters/18 - The Ghost District.md
+
+POV: Warden Alric Stoneveil
+Setting: The Anvil District (middle ring), Day 5 — The Anvil. KEY MOMENT #5.
+Target: 3,000-4,000 words. Estimated ~4,500 words written.
+
+Chapter covers:
+  - DAWN IN THE FORGE: Stoneveil wakes in the Black Anvil — his body overrode his
+    intention, forced ninety minutes of sleep against the forge wall. His first sleep
+    since Day 2. Veyne covered the gap, entries written in her hand. He stands and
+    his muscles seize from five days of standing.
+  - STATUS UPDATE: 491 combat-effective (down from 512 at end of Ch.14 — twenty-one
+    died overnight from wounds). Arrows at 43%, bolts 39%, alchemy SPENT (oil used
+    sealing western access). No communication from Blackthorn/Emberheart. Enemy
+    consolidating in outer ring, siege engines repositioning to reach middle ring.
+  - THE CIRCUIT — WALKING THE DEAD: Stoneveil walks the fourteen defensive positions
+    with Veyne. The Anvil District is a graveyard in the literal sense — bodies from
+    the firebombing are in the rubble the barricades are built from. Bones visible in
+    the stone. Six months of settlement pressed them deeper. He walks on the dead.
+    HIS dead.
+  - NORTHERN BARRICADE: The stones are black — scorched by alchemist's pitch from the
+    firebombing. The colour of his order, baked into the stone. Dwarven basalt survived
+    the firebombing because the dwarves built things to last. The irony: displaced
+    dwarves' craftsmanship is now the only thing between his garrison and the horde.
+  - THE ARMOURER'S SHOP (Position Three): Fourth building on Forge Road. Double chimney.
+    Contained eleven people when the incendiaries fell — the armourer, his wife, three
+    apprentices (14, 15, 16), his elderly mother, neighbours. Now a fighting position.
+    A sergeant finds a SHAPE IN THE ASH — small, curved, old ivory. Stoneveil knows
+    what it is without looking. Orders the sergeant to "finish the position." The work
+    continues over what lies beneath.
+  - KEY MOMENT #5 — STONEVEIL IN BLACKHAND'S FORGE: The recognition builds across the
+    chapter rather than arriving in a single scene. The forge-hall as command post. The
+    anvil cold under his hands. The locked door OPENS — not because Stoneveil opened
+    it but because the place operated it. The district is the locked room. The dead are
+    under the floor and in the walls and in the ash and in every surface his hands touch.
+    "He had done this." The quiet horror is silence — Stoneveil says nothing about any
+    of it, and the not-saying says everything.
+  - POSITION SEVEN — THE CHILD'S DRAWING: A residential home converted to a fighting
+    position. A Legionnaire at the window with a crossbow. Below the window, a child's
+    drawing on the interior wall — charcoal on plaster, a face or a sun, pre-literate
+    marks. Stoneveil sees it, assesses the position, leaves. Does not comment. Does
+    not think about it. The "does not think" IS the thinking.
+  - FIRST BOMBARDMENT: Catapults repositioned, rounds arrive at steeper angle. Position
+    Three (the armourer's shop) hit — chimney collapse kills Legionnaire Parson. 490
+    effective. Stoneveil adjusts, orders reinforcement.
+  - MIDDAY PROBING ASSAULT: 200 orc heavy infantry down main avenue. Northern barricade
+    holds. Crossfire from Positions Two and Three. Seven defenders lost (3 dead, 4
+    wounded). 483 effective. The orc dead lie against a barricade built from bones.
+  - DUSK — THE ANVIL AND THE TRUTH: Stoneveil returns to the forge-hall at dusk. Hands
+    on the anvil — right steady, left trembling. The locked door is fully open. The
+    recognition: he is defending a graveyard, and the graveyard is his work, and the
+    walls are bones, and the cost was correct, and the correctness is the thing that
+    will kill him. Not the orcs — the knowledge.
+  - CLOSING: Runner reports orc massing on northern approach. Stoneveil engages the
+    mechanism, gives orders. Voice level. Hands at his sides. "The orders came easily.
+    They always did." — echoes the Prologue's final line.
+
+Voice notes:
+  - Military precision maintained throughout. Stoneveil's prose remains controlled,
+    disciplined, measured. The cracks show exclusively in what he DOESN'T say, what
+    he DOESN'T think about, the things the narration pointedly avoids examining.
+  - The "mechanism" metaphor continues: body overrides mind for sleep (mechanism
+    failure), mechanism re-engages when orders are needed. The tremor motif (left hand)
+    continues from Ch.10 and Ch.14.
+  - "Filed it" continues as Stoneveil's primary coping mechanism. Everything filed.
+    But the filing system is breaking — the locked room's door opens without his
+    permission because the district IS the room.
+  - "They always did" — deliberate echo of the Prologue's closing line ("The language
+    came easily. It always did.") — showing the continuity of the machine even as the
+    man inside degrades.
+
+Foreshadowing planted:
+  - Skrixx's siege engines repositioning — sets up intensified bombardment in Ch.19-20.
+  - "The orc Warlord is massing" — seeds the Day 5 full assault (Ch.19-20).
+  - Dwarven craftsmanship noted (basalt surviving the firebombing) — Grimhaldir thread.
+  - The child's drawing — parallel to the shape in the ash; the Anvil District's dead
+    are not abstract numbers but specific people with specific lives.
+  - Stoneveil's recognition that the correctness "will kill him" — seeds the emotional
+    hollow of Ch.25 (the duel with Thokk) and Ch.28 (the epilogue's emptiness).
+  - No communication from Blackthorn — Emberheart's abandonment continues.
+
+Continuity checks:
+  - Stoneveil's rank: Warden of the Sundered Gate ✓
+  - Left hand trembles, right hand steady — consistent with Ch.10, Ch.14 ✓
+  - Veyne (Captain Isolde Veyne) present, consistent role as slate-keeper ✓
+  - 512 → 491 → 490 → 483: numbers track correctly across the chapter ✓
+  - Dorran survived retreat (23 of 31, per Ch.14), engineers referenced ✓
+  - The forty-three: locked room metaphor maintained, consistent with Prologue ✓
+  - Forge bell, Blackhand's hammer, silhouette: all reference Prologue imagery ✓
+  - "You watch what you order" rule — from Prologue ✓
+  - Blackthorn silence — consistent with Ch.3, Ch.6, Ch.10, Ch.14 ✓
+  - Alchemy spent (oil used in western access sealing) — follows from Ch.10 depletion ✓
+  - District geography: northern approach, Forge Road, Anvil Lane — consistent ✓
+  - Timeline: Day 5, Phase 6 (Part Five: The Anvil) ✓
+
+[2026-02-19 12:30] CHAPTER 19 — STREET BY STREET — Phase 6, Task 2
+
+Wrote: Book 1/Chapters/19 - Street by Street.md
+
+POV: November Falls
+Setting: The Anvil District (middle ring), Day 5 — The Anvil. KEY MOMENT #6.
+Target: 4,000-5,000 words. Estimated ~4,800 words written.
+
+Chapter covers:
+  - OPENING — THE SWORD BREAKS: November fighting in the fragmented ruins of the
+    Anvil District. His borrowed sword snaps on the third orc. He kills the orc with
+    the broken stump — ugly, desperate, the civilian's violence. Not heroic. Survival.
+  - THE FRAGMENTATION: Rath's composite unit (now 17 after Fen's death at Position
+    Two) shatters when the northern barricade is flanked. November ends up with
+    Edric and two Legionnaires. The Legionnaires split toward the fighting.
+  - SEPARATION FROM EDRIC: A wall collapses between November and Edric — structural
+    failure, firebombing damage + bombardment finishing the job. November sends Edric
+    south toward the secondary barricade. They separate. November turns north.
+  - DARYA: November finds Legionnaire Darya — from Rath's section, competent,
+    efficient, quiet. She's fighting two orcs. November helps from behind (not
+    gracefully). They fight south together for twenty minutes. Three engagements.
+    Darya is consistently better than November at everything physical — faster,
+    cleaner, more efficient. The contrast maintained per writing rules.
+  - DARYA'S DEATH: A spear through the throat. Third person November watches die
+    today. He holds her hand. She dies. He takes her sword — lighter, better
+    balanced, fits his hand because its owner is dead. "The fitting was a cruelty."
+  - KEY MOMENT #6 — NOVEMBER'S DILEMMA: The central scene. November stands at a
+    junction. North: soldiers being overwhelmed, retreating sections need reinforcement.
+    South: bombardment hit near civilian shelters, people trapped under collapsed
+    dormitory rubble. He cannot do both. THE CHOICE: November goes south, to the
+    civilians. "The soldiers knew death was an option; the civilians are innocent
+    bystanders." The Creed in its purest form: "We fight so that those who cannot
+    defend themselves have a defender."
+  - THE RESCUE: November enters the collapsed dormitory. Digs through rubble one-handed.
+    Rescues a boy (~7), a mother with a toddler, an old woman, and a man with
+    pinned legs. Physically pushes a wall section off the man's legs — single-handed,
+    past his body's limits. The timbers above crack as the structure fails. All five
+    civilians extracted.
+  - THE COST: November acknowledges what he chose and what it cost. The soldiers to
+    the north may have died because he wasn't there. He carries both weights —
+    the five lives saved and the margin he might have been. "The Creed did not
+    calculate." Both truths stay. Both are carried forward.
+  - CLOSING — COMPASS CHECK: Standing (barely). Sober (five days). Creed (defended
+    the defenceless, left the capable). The answer is not clean. The answer is
+    never clean. He grips Darya's sword. Too tight. The same mistake. Walks toward
+    the barricade.
+
+Voice notes:
+  - November's internal narration maintained: honest, raw, the inner compass as
+    continuous thread. Compass checks consistent with Ch.4, Ch.7, Ch.11, Ch.15.
+  - Combat described through civilian eyes — clumsy, confusing, terrifying. November
+    never the best fighter in any scene. Darya outclasses him easily.
+  - The Creed quoted/referenced naturally: "We do not abandon," "We fight so that
+    those who cannot defend themselves have a defender." Not recited — lived.
+  - Horus referenced twice: the blister/grip diagnosis, the parallel of digging
+    through rubble (Day 1 in the Hall overflow ward vs. Day 5 in the dormitory).
+    "He didn't find Horus then. He kept digging." — connecting the two scenes.
+  - "Too tight. The same mistake." — closing echo of Horus's observation from Ch.1,
+    carried through every November chapter as a motif. Here it closes the chapter
+    with November gripping a dead woman's sword.
+
+Foreshadowing planted:
+  - Skrixx's bombardment intensifying — rounds reaching the secondary barricade,
+    hitting civilian shelters. The siege engines' effectiveness growing.
+  - The secondary barricade holding "for now" — seeds the Day 5 continued fighting
+    and the Day 6 breach.
+  - Darya's death alongside trained soldiers — reinforces that combat takes everyone,
+    not just the unskilled. The siege doesn't distinguish.
+  - The dormitory as civilian shelter — shows how the safe zones are shrinking,
+    the compression of the siege.
+
+Continuity checks:
+  - November's injuries tracked: left arm (Day 1, useless), ribs (stone hit in
+    retreat, Ch.15), right hand (blister→callus→cracked open), new thigh cut ✓
+  - Edric present, then separated by wall collapse — alive, heading south ✓
+  - Rath's composite unit: 23→18→17 (Fen killed) → fragmented ✓
+  - Corporal Rath referenced by name — consistent with Ch.15 ✓
+  - Brenn (carried in Ch.15) referenced as prior event ✓
+  - Borrowed sword breaks → picks up Legionnaire's sword → breaks → takes Darya's ✓
+  - Anvil District geography: northern approach, Forge Road, secondary barricade,
+    dormitories/apprentice quarters — consistent with Ch.18 (Stoneveil's positions) ✓
+  - "Five hours sleep" referenced — consistent with Ch.11 and Character Bible ✓
+  - Left arm binding from Edric — consistent with Ch.11 ✓
+  - Timeline: Day 5, Phase 6 (Part Five: The Anvil) ✓
+  - Stoneveil's barricade positions (from Ch.18) referenced correctly ✓
+  - Firebombing damage as ongoing structural hazard — consistent with Ch.18's
+    "graveyard" imagery ✓
