@@ -761,3 +761,107 @@ Continuity checks:
     (matches Ch.2 Thokk POV descriptions)
   - Timeline: Day 2, during the assault ✓ (concurrent with Ch.6 events)
   - Word count: ~4,800 words, within target range ✓
+
+[2026-02-19 01:30] CHAPTER 8 — THE BONES SPEAK — Phase 3, Task 3
+
+Wrote: Book 1/Chapters/08 - The Bones Speak.md
+
+POV: Warlord Thokk Ironhide
+Setting: The Ironclaw camp on the ridge above Emberfall, evening/night after Day 2's assault.
+Target: 3,000-4,000 words. Estimated ~3,800 words written.
+KEY MOMENT: #7 Part 1 — Thokk's Death Rites
+
+Chapter covers:
+  - War-Chiefs report their losses one by one: Malga (vanguard, 47 dead), Krogan (eastern,
+    63 dead), Gharza (western, 12 dead — pressure only), Urzag (reserve, 3 dead)
+  - Total Ironclaw losses: 145 dead, 86 wounded, 43 unable to fight. Effective strength:
+    1,055, down from 1,200.
+  - Malga reports: gate standing, rune-wards repelled all ram strikes. The Veil's Throat
+    is a killing ground — oil, arrows, murder holes.
+  - Krogan reports: eastern parapet breached twice but could not hold. Ironclaw warriors
+    established on the parapet, then cut off when ballista destroyed the ladder. All died.
+    Krogan's eldest son (22yo) among the dead.
+  - Gharza argues for deploying the Revenants. Thokk refuses — "Dead things don't buy
+    anything. Dey just add to da pile." Orc blood earns the right to the city; corpse-soldiers
+    do not. Leadership vs. politics distinction drawn.
+  - Skrixx Blazebinder reports: Jawbreaker arm cracked, repairable. 31 goblins dead (tunnel
+    cave-ins, counter-fire). Eastern bastion rune-ward fractured — two more days to spend
+    the ward matrix. Western tunnel sappers making progress. Timeline: wall comes down on
+    day four, maybe five. Thokk threatens to send Gharza's warriors to shore goblin tunnels
+    — "Goblins are dying in my service. Dat makes dem mine."
+  - DEATH RITES: Thokk walks among the 145 dead at moonrise. Performs the rites himself —
+    bone-ash paste, three lines across the forehead (mark of passage), fist over the heart,
+    direct spoken words to each warrior. Names specific dead: Grukk of Stonehaven, Kira
+    (spine broken from fall), Drenn (burned in the Throat), Hazga (three arrows), Krogan's
+    son. Takes hours. Does not rush.
+  - Funeral pyres lit. Grimtusk speaks the old words. Fire carries the spirits. The ancestor-
+    presence is felt — faint, real, the connection holding but thinning.
+  - GRIMTUSK'S SECOND READING: Spirits restless, agitated (not confused like yesterday —
+    agitated). Can feel the mass death. A wolf knuckle cracked during the casting — "Bones
+    don't break in a war-reading." The spirits are pushing too hard, trying to communicate
+    something the thinning connection cannot carry. Number SEVEN persists, now with "a shadow"
+    behind it.
+  - Thokk looks across the valley at Emberfall's fires. Recognizes the human commander is
+    doing the same arithmetic. Does not hate him. Understands him. "That was worse."
+  - Final image: Thokk alone at the command fire, the cracked wolf knuckle beside the old
+    Warlord's skull in his pouch. Waiting for dawn.
+
+Voice notes:
+  - Blunt, declarative orcish cadence maintained throughout: short muscular sentences,
+    "da" for "the", "dat" for "that", "dey" for "they" — consistent with Ch.2
+  - Thokk's internal monologue deeper than his speech: strategic, grieving, self-aware.
+    The depth beneath the bluntness, per Writing Rules.
+  - Death rites scene is solemn, ritual, unhurried. Thokk as father-figure to his warriors,
+    not a tyrant. The grief of a leader burying his people.
+  - Gharza given the strongest argument voice — she pushes back, Thokk answers. The
+    leadership-vs-politics exchange reveals Thokk's moral core.
+  - Skrixx characterized through speed, transactional speech, goblin efficiency. His response
+    to Thokk's protectiveness of goblins shows surprise — "Orcs. Shoring tunnels for goblins."
+  - No info-dumps: orc culture shown through action (death rites, bone-reading, pyre traditions,
+    the way grief is expressed through physical proximity and spoken truth)
+
+Foreshadowing planted:
+  - SEVEN STRIKES: Number persists in every reading. Now has "a shadow" behind it. Weight
+    building toward Ch.25 payoff.
+  - Spirits thinning/agitated: escalation from Ch.2 "confused" to Ch.8 "agitated." Cracked
+    wolf knuckle as physical evidence. Spirits "screaming through a crack in a door that's
+    closing." Series arc: Veilfire corruption spreading.
+  - Skrixx's timeline: wall falls day four or five. Eastern wards two days from spent. Western
+    tunnels being cleared. Sets up Ch.14 (outer ring falls on Day 4).
+  - Revenants kept in reserve: Thokk's moral reasoning. They go in "when the wall breaks" —
+    seeds their deployment in later chapters.
+  - Krogan's eldest son dead: deepens Krogan as a character, seeds his motivation for the
+    remnant force in Book 2.
+  - Thokk's mirror recognition of the human commander: Theme #2 (The Enemy is a Mirror)
+    reinforced — "He understood him. That was worse."
+  - The chain of Warlords: skull to skull, each leader carried by the next. Thokk wonders
+    which skull will carry his. Foreshadows his death in Ch.25.
+
+Continuity checks:
+  - Army count: 1,200 orcs → 1,055 effective after Day 2 ✓ (matches projected losses
+    from Ch.2 council — 300 estimate was upper bound for full assault, partial assault
+    cost 145)
+  - Goblin count: 800 → 769 effective ✓
+  - Revenants: 500, untouched, held at edge of camp ✓ (matches Ch.2 description)
+  - War-Chiefs: Malga, Krogan, Gharza, Urzag — all present, all consistent with Ch.2
+    characterization ✓
+  - Malga: missing left ear, vanguard commander, direct speaker ✓
+  - Krogan: deep voice, eastern assault, old loyalty ✓
+  - Gharza: split jaw scar, argues with Thokk, usually right ✓
+  - Urzag: reserve, speaks rarely ✓
+  - Grimtusk: copper-capped tusks, milky grey eyes, "da" dialect ✓
+  - Skrixx: chaotic, brilliant, burns everywhere, copper eyes ✓
+  - Bone-reading: wolf knuckles, fire pit, same casting materials as Ch.2 ✓
+  - Veil's Throat: killing ground, murder holes, oil — matches Ch.6 (Stoneveil POV) ✓
+  - Eastern bastion damage: ward fracture from Ch.6 confirmed by Malga's report ✓
+  - Eastern breach details: ladders, Ironborn heavy infantry, ballista three redirected —
+    all match Ch.6 events from the other side of the wall ✓
+  - Western tunnels: partially collapsed, being cleared — matches Ch.3 (sealed by
+    Stoneveil's order) and Ch.6 (silence from below) ✓
+  - Jawbreaker: trebuchet, unreliable — matches Ch.2 ✓
+  - Thokk's skull: old Warlord's, at his belt, nine years — matches Ch.2 ✓
+  - Timeline: Day 2, evening after assault — matches Ch.6 and Ch.7 ✓
+  - Forty-three unable to fight: number echoes the 43 from the Anvil, unintentional from
+    Thokk's perspective but thematically resonant ✓
+  - Human casualty estimate (200+) roughly aligns with Stoneveil's actual losses in Ch.6 ✓
+  - Stonehaven referenced: matches Ch.2 and Foreshadowing doc ✓
