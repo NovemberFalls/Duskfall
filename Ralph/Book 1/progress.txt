@@ -2035,3 +2035,100 @@ Continuity checks:
   - Stoneveil's barricade positions (from Ch.18) referenced correctly ✓
   - Firebombing damage as ongoing structural hazard — consistent with Ch.18's
     "graveyard" imagery ✓
+
+[2026-02-19 13:30] CHAPTER 20 — THE SPIRITS GROW QUIET — Phase 6, Task 3
+
+Wrote: Book 1/Chapters/20 - The Spirits Grow Quiet.md
+
+POV: Thokk Ironhide
+Setting: The Anvil District (middle ring), Day 5 — The Anvil.
+Target: 3,000-4,000 words. Estimated ~4,200 words written.
+
+Chapter covers:
+  - OPENING — THE ALLEYS: Thokk at a nameless street entrance. Twelve warriors
+    went in, four came back. Kezzra's report: the buildings are fortified, arrow
+    slits, bolt-holes, barricades of burned stone. The district is a trap built
+    from the firebombing's aftermath. Thokk recognizes the human commander's
+    intelligence — ruins converted to fortress, "ghar-rukk" (wound that builds
+    the wall).
+  - THE SPIRITS GO QUIET: Grimtusk delivers the central revelation. The spirits
+    are no longer confused or restless — they are far. The bone casting fell cold.
+    No spiritual charge. The death rites produced smoke, but Grimtusk did not feel
+    the passage. "Da dead went into da fire. What came out was smoke. Just smoke."
+    The channel between living and dead is closing — not thinning, gone.
+  - KROGAN'S REPORT: 36 Ironclaw dead since dawn, 19 goblins. Total Ironclaw
+    dead: ~293. Street fighting is worse than wall fighting. Human defenders
+    fighting differently — no rotation, no retreat, holding buildings to the last.
+    Knives in the dark. Revenants holding the main avenue (50 deployed). The
+    parallel grows: without the spirits, the line between Ironclaw warriors and
+    Revenants thins.
+  - MALGA'S ARM: Malga Bonefist's Day 2 wound is poisoned — veins black, arm
+    swollen. She reports taking the double-chimney forge-shop (6 dead), line of
+    sight to the human command post (Blackhand's forge). She offers to fight
+    left-handed if they take the arm. Thokk orders her to the shamans. The
+    vanguard reduced from 300 to fewer than 150.
+  - THE SECONDARY BARRICADE: Gharza's western warband assaults the barricade.
+    The gap is a trap — crossfire from three fortified positions. 14 dead in
+    two minutes. Gharza pulls back. The barricade holds. The human commander's
+    defensive design is layered and lethal.
+  - SKRIXX'S GAMBIT: Skrixx arrives with tunnel report. Three charges placed
+    under the barricade via old sewer system. His best fuse-cutter is dead (one
+    of four lost unsealing the access). Skrixx proposes to cut the fuses himself.
+    Thokk orders him to survive. Skrixx: "Da fuses don't take orders." Plants
+    Skrixx's survival as foreshadowing — he escapes the siege per the PRD.
+  - NIGHT — THE UNWALKED RITES: For the first time, Thokk does not walk among
+    the dead. Too many dead, too far from the pyres, too dangerous to cross the
+    alleys. The rites are performed by Grimtusk's apprentices, but the spirits
+    do not receive. The unprocessed dead — warriors dying in buildings and alleys,
+    unburned, unmarked. The parallel with the Revenants: "just dead."
+  - CLOSING — THE DARK: Thokk at the crossroads, watching the pyres from
+    distance. The cracked wolf knuckle is cold. The number seven persists. He
+    pushes forward because there is no backward. The children need to eat. The
+    smoke rises and the spirits say nothing.
+
+Voice notes:
+  - Thokk's blunt, declarative orcish cadence maintained throughout. Short
+    muscular sentences. Depth beneath the simplicity — grief carried privately.
+  - The locked room metaphor continues from Ch.8, Ch.12, Ch.16 — the space
+    behind the ribs where the numbers and truths live.
+  - "Da children needed to eat" refrain present, used sparingly (twice).
+  - "He pushed forward because there was no backward" — chapter's thematic
+    refrain, used three times, echoing the PRD's line.
+  - Grimtusk's dialogue in dialect, consistent with Ch.2, Ch.8, Ch.12, Ch.16.
+  - Skrixx's characterization consistent — transactional, brilliant, insolent,
+    the copper eyes and too-many-teeth grin.
+
+Foreshadowing planted:
+  - Spirits pulling away from Bloodhollow — the Veilfire corruption spreading,
+    the deep-world connections breaking. Seeds the series-arc metaphysical thread.
+  - Skrixx ordered to survive — "Da fuses don't take orders." Sets up his
+    survival and escape from the siege (per PRD/Foreshadowing doc).
+  - Malga's arm poisoned — her arc toward potential loss of the arm or death.
+    The vanguard's diminishment tracked.
+  - The unprocessed dead paralleled with the Revenants — the line between
+    living warriors and dead things thinning. Connects to the spiritual decay.
+  - The human command post identified (Blackhand's forge) — Malga can see it,
+    potential target for Skrixx. The human commander observed "standing in da
+    gap in da roof" — mirrors Thokk's ridge observation, reinforcing the
+    mirror theme.
+  - Sewer system under the Anvil — Skrixx's tunnel network, potential for
+    the barricade collapse that enables the Day 6 push.
+
+Continuity checks:
+  - Ironclaw dead total: 249 (from Ch.16 night) + 44 today = 293 ✓
+  - Food supply: 3 days remaining, down from 4 in Ch.16 ✓
+  - Malga's wound: Day 2 origin, progressively worsening across Ch.8→12→16→20 ✓
+  - Krogan's scalp wound: reopened, consistent thread from Ch.8 ✓
+  - Gharza's western warband: 250 start → reduced to ~130 ✓
+  - Vanguard strength: 300 → fewer than 150 ✓
+  - Grimtusk's spiritual progression: confused (Ch.2) → restless/agitated (Ch.8)
+    → quiet (Ch.12/16) → far/absent (Ch.20) ✓
+  - Cracked wolf knuckle: carried in pouch beside skull, now cold ✓
+  - Revenants: 500, deployed 50 in main avenue ✓
+  - Number seven: persistent, uninterpretable, still carried ✓
+  - Ghar-rukk (wound that builds the wall): named in Ch.16, expanded here ✓
+  - Anvil District geography: consistent with Ch.18 (Stoneveil's 14 positions,
+    barricades, forge-shops, Blackhand's forge as command post) ✓
+  - Double-chimney forge-shop: matches Ch.18's armourer's shop description ✓
+  - Firebombing damage: burned stone, gutted buildings, dwarf-stone walls ✓
+  - Day 5 timeline: consistent with Ch.18 and Ch.19 ✓
