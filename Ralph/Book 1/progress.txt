@@ -588,3 +588,79 @@ Continuity checks:
   - Commander Hadric Thornwall: Commander of Garrison ✓ (matches worldbuilding NPC docs)
 
 Phase 2 COMPLETE. All six Day 1 chapters (Prologue + Ch.1-5) finished. Ready for Phase 3.
+
+[2026-02-18 31:00] CHAPTER 6 — THE WAVE — Phase 3, Task 1
+
+Wrote: Book 1/Chapters/06 - The Wave.md
+
+POV: Warden Alric Stoneveil
+Setting: The Iron Marches, the Sundered Gate, Day 2 — first full assault.
+Target: 3,000-4,000 words. Estimated ~3,800 words written.
+
+Chapter covers:
+  - Dawn assault: orcs hit the Sundered Gate and outer wall simultaneously — coordinated
+    assault on eastern flank with scaling ladders at three points, ram crews at the gate
+  - Stoneveil commands from the gate rampart with Captain Veyne beside him
+  - Eastern breach: three ladder points, two repulsed, third establishes on the parapet.
+    Grieve's auxiliaries committed, Ironborn hold, breach contained in 11 minutes.
+    Four dead, nine wounded.
+  - Gate assault: ram crews hit the Sundered Gate with iron-banded rams. Rune-wards
+    flare and repulse the rams. Archers and oil from murder holes devastate the
+    Veil's Throat. Forty-three orc dead in the Throat (number echo from the Anvil).
+  - Second assault at midday: harder, more coordinated. Enemy adapts — testudo
+    formations, heavier ram crews, faster ladder deployment. Eastern wall buckles —
+    Legionnaires pushed back, Ironclaw warriors establish on parapet. Ballista three
+    redirected to cut the ladder supply line. Breach contained. Eight dead, fourteen
+    wounded.
+  - Supply assessment: arrows 70%, bolts 60%, alchemy stores 55%. Three to four days
+    at current rate. Oil reduced to half-rations.
+  - Rune-ward degradation: bombardment leaching enchantment, dwarven work spending
+    stored power. Wards will fail — not today, not tomorrow, but they will fail.
+  - No third assault — orc commander pulls back to regroup. Silence that is reloading.
+  - Final count: 809 effective (27 dead, 41 wounded, 19 returning, 6 critical)
+  - Stoneveil alone on the wall at nightfall: the machine works, the numbers are wrong
+
+Voice notes:
+  - Military precision maintained: controlled, measured, disciplined sentences
+  - Stoneveil's POV thinks in ledger terms — inputs, outputs, expenditure rates,
+    the arithmetic of blood
+  - The "machine" metaphor recurring: the defensive system as a machine that runs
+    until it breaks. Stoneveil is the operator who knows it's breaking.
+  - Emotional weight in the forty-three echo: orc dead in the Throat = children
+    in the Anvil. Stoneveil notices, files it, discards it — but the reader shouldn't.
+  - Veyne's competence shown through action: the slate, the reports, the calculations
+    running behind her eyes. She and Stoneveil communicate in the language of officers
+    who have already arrived at the same answer.
+  - The auxiliaries: they can fight, not well, not long, but they can fight. Seeds
+    their later role in the composite units.
+
+Foreshadowing planted:
+  - Western flank quiet: the goblin sappers are not visible. They're either in reserve
+    or already underground. The silence from below is ominous.
+  - Rune-ward degradation: the dwarven enchantments are finite and being spent. The gate
+    will eventually become ordinary iron, and ordinary iron breaks.
+  - Blackthorn's continued silence: no communication from the Emberheart. Ironbound
+    Guard remains uncommitted. Political failure deepening.
+  - Supply rates: three to four days at current expenditure. The siege has six days.
+    The math is the math.
+  - Enemy adaptation: the orc commander is learning. Each assault is better coordinated.
+    The testudo, the faster ladders, the heavier ram crews — the pressure will increase.
+
+Continuity checks:
+  - Stoneveil's rank: Warden ✓
+  - Captain Isolde Veyne: beside him, slate, stylus, precise reports ✓ (matches Ch.3)
+  - Troop count: 850 → 809 effective after Day 2 losses ✓
+  - Veil's Throat: killing ground, 50ft wide, 200ft long, murder holes, arrow slits ✓
+    (matches Ch.3)
+  - Rune-wards: pulsing, dimmer than yesterday ✓ (progressive from Ch.3)
+  - Eastern wall patch: identified as weak point in Ch.2 (Thokk) and Ch.3 (Stoneveil) ✓
+  - Western tunnels: sealed, listening posts active ✓ (matches Ch.3 orders)
+  - Blackthorn's dispatch: referenced, Ironbound Guard still uncommitted ✓ (matches Ch.3)
+  - Ballista on tower three: mentioned in Ch.3 deployment ✓
+  - Salt meat at the parapet: Stoneveil eating standing up ✓ (matches Ch.3)
+  - Skrixx's engines: Jawbreaker, catapults, alchemist's fire ✓ (matches Ch.2)
+  - "You watch what you order": Stoneveil's rule from the Prologue ✓
+  - Forty-three echo: from the Prologue (43 children) ✓
+  - Forge-smoke/industrial haze: consistent ✓
+  - Timeline: Day 2, first full assault ✓ (follows Day 1 bombardment in Ch.4)
+  - Hall of the Fallen blast referenced: eastern bastion ward fracture from Ch.4 ✓
