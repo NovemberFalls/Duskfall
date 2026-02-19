@@ -2787,3 +2787,130 @@ Continuity checks:
   - Tesswin: mentioned as holding the dormitory wall. Consistent with
     her position from Ch.22 (northern barricade) and Ch.23 (falling
     back to the line). ✓
+
+[2026-02-19 19:30] CHAPTER 26 — THE SILENCE AFTER — Phase 7, Task 5
+
+Wrote: Book 1/Chapters/26 - The Silence After.md
+
+POV: November Falls
+Setting: The Anvil District, Day 6 — After the fighting stops.
+Target: 3,000-5,000 words. Actual ~4,500 words.
+
+KEY MOMENT #10: THE SEARCH — The fighting stops. November searches
+for Horus through the rubble, the dead, the survivors. She is not
+among them. She is gone. The emotional climax of the book.
+
+Chapter covers:
+  - THE SILENCE: Fighting stops in stages — retreat, absence of sound,
+    breathing. November stands in the avenue with Darya's sword. The
+    aftermath: rubble and bodies, human and orc, the dead in the
+    indiscriminate proximity of a battlefield. Four other survivors
+    visible — Tesswin, composite soldier, the boy runner.
+  - THE COMPASS CHECK: Standing? Yes. Sober? Yes. The Creed? He did
+    not abandon Edric. Did not abandon Tesswin or the others. Did not
+    abandon. The compass points at the absence — the void shaped like
+    Horus. Her name arrives in the inner chamber.
+  - RETURN TO EDRIC: Walking north through the avenue. Past the blown
+    barricade, past the dead. Stops at Edric's body. The face looks
+    young again in death — the tension gone. November kneels. Promises
+    to find his mother and sisters. Promises to tell Kael. Carries the
+    unfinished sentence: "Tell Kael I—" The dash is part of the message.
+  - THE SEARCH: Two hours. Through the Anvil District, checking faces —
+    dead, survivors, wounded. The triage stations. The mass graves
+    (pulling back coverings). The service corridor. None of them are her.
+  - THE HALL OF THE FALLEN: November returns to the Hall where he and
+    Horus lived. The building destroyed since Day 1 — roof gone, walls
+    in fragments. Searches the main ward, the surgical station. Reaches
+    the alcove behind the linen shelves — their place. The bench, the
+    crates, the window. The window that caught the morning light is
+    broken. The cot is under rubble. He remembers how she slept — left
+    side, fingers hooked into his sleeve. Cannot breathe. She is not
+    in the Hall.
+  - SHE IS NOT: The accumulation — not among the 72 survivors, not
+    among the 411 dead, not among the wounded in the courtyard. Not
+    there. November sits in the street. Darya's sword across his knees.
+    "Too tight. The same mistake. He would make it for the rest of his
+    life."
+  - THE HOLLOWNESS: Not grief — grief requires certainty. This is the
+    thing before grief, in the space where grief cannot form. She might
+    be alive. She might be dead. The "anywhere" is the worst part. The
+    ringing in his ears — the tinnitus from the blast, the frequency
+    of absence. He sits with the hollowness the way she taught him
+    to sit — with the weight, without trying to make it smaller.
+  - THE COMPASS POINTS: The compass points north. Somewhere in the
+    landscape, Horus is alive. He has to believe that. The believing
+    is the Creed — "we do not abandon" — applied to the one person
+    the Creed has always been about. He will walk into whatever the
+    world requires. Through the machine. The compass points. The
+    silence is full of her name.
+
+Voice notes:
+  - November's voice maintained: honest, internal, the compass
+    structure running through. Raw but not chaotic. The checking-in
+    mechanism present throughout — Standing? Sober? The Creed?
+  - "Too tight" motif: the blister from Ch.1 (Horus diagnosing his
+    grip), carried through every chapter. Here it becomes permanent:
+    "He would make it for the rest of his life." The mistake that
+    connects him to her across the absence.
+  - The search is not methodical — he does not have the capacity for
+    method. The searching is compulsion, the engine running on fumes.
+    Consistent with his physical and mental state after six days.
+  - Restraint in the emotional climax: no screaming, no dramatic
+    collapse. He sits in the street. The quietest moment is the
+    loudest. Per Writing Rules: "The most devastating moments are
+    the quietest."
+
+Key moments delivered:
+  - KEY MOMENT #10 — THE SEARCH: November searches the rubble for
+    Horus. She is not among the survivors. Not among the dead. She
+    is gone. The absence is worse than death — death is an answer,
+    this is a question. The question will drive the series. ✓
+  - TONE: Hollowness. The ringing silence after an explosion. The
+    reader should feel November's chest cavity. Not grief (which
+    requires certainty) but the thing before grief. ✓
+  - THE COMPASS: November checks in. Standing. Alive. Kept the Creed.
+    The compass points at the absence. The needle points north. ✓
+
+Foreshadowing planted:
+  - HORUS'S ABSENCE: The central mystery/quest of the series. Not
+    dead, not alive — gone. The door cracked open, same as his
+    brother. The question that drives everything forward. ✓
+  - NOVEMBER'S BROTHER: Referenced — "the brother who was presumed
+    dead and whose presumption was a door cracked open." Mirror of
+    Horus's absence. ✓
+  - THE MACHINE: November already thinking about the military as
+    a means to find her — reach, resources, intelligence. Sets up
+    the conscription in Ch.27. ✓
+  - CAPTAIN VEYNE: Mentioned — woman with a slate counting survivors.
+    Survives the siege. Positioned for future books. ✓
+  - 72 SURVIVORS: The final count stated. Consistent with all
+    planning documents. ✓
+
+Continuity checks:
+  - November's wounds: Left arm strapped since Day 1 (blast). Right
+    hand blistered/raw (gripping too tight since Ch.1). Right forearm
+    cut above wrist (Ch.23). Ribs bruised/banded. Thigh cut from
+    Day 5. Multiple head impacts from Day 6. All carried. ✓
+  - Darya's sword: picked up in Ch.19 after Darya's death. Used
+    throughout Ch.23 and here. The lighter blade. ✓
+  - Edric's death: body where November left it in Ch.23. Against
+    the basalt block. Sword still in his side. Eyes closed by
+    November. Hands on his chest. ✓
+  - Tesswin: alive, at the courtyard edge, consistent with Ch.23
+    where she held the line. ✓
+  - The boy runner: present, arrow still in shoulder, same position
+    as Ch.23. ✓
+  - Stoneveil in the courtyard: standing near Thokk's body, left
+    arm hanging, sword in right hand. Consistent with end of Ch.25. ✓
+  - Thokk's body: lying forward-facing on the cobblestones, boar-tusk
+    pauldrons visible. Consistent with Ch.25. ✓
+  - Hall of the Fallen: destroyed since Day 1 blast. Main ward,
+    surgical station, alcove behind linen shelves — all details from
+    Ch.1 echoed in ruin. ✓
+  - The heel of the bread: referenced. The morning light through the
+    window. "You're gripping too tight." All callbacks to Ch.1's
+    Last Good Morning. ✓
+  - The ringing/tinnitus: from the Day 1 blast, consistent through
+    November chapters. Here it becomes the sound of the silence. ✓
+  - The compass check structure: Standing/Sober/Creed — consistent
+    format from Ch.7 onward. ✓
