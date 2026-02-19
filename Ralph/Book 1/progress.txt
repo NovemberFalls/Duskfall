@@ -3383,3 +3383,162 @@ intended tone. The emotional ramp builds correctly: constriction → weight →
 moral vertigo → devastation → investment. No chapters require rework for
 emotional beat alignment. The seven minor observations above are polish-level
 suggestions, not structural concerns.
+
+[2026-02-19 24:30] FORESHADOWING VERIFICATION — Phase 9, Task 3
+
+Read ALL 29 chapters against Noteworthy/03 - Foreshadowing and Seeds.md.
+Checked every thread listed in the foreshadowing document for presence,
+placement, and naturalness.
+
+THREAD-BY-THREAD VERIFICATION:
+
+=== FOR BOOK 2 (The Battle of the Crimson Scar) ===
+
+  1. CAPTAIN ISOLDE VEYNE — appears and survives: PLANTED
+     Present in: Ch. 3, 6, 10, 14, 18, 22, 25, 28 (and others).
+     Appears as a competent, indispensable officer under Stoneveil's command.
+     Survives the siege. Reader notes her capability without realizing she'll
+     be the protagonist of the next major battle. Thread is well-established
+     across all Stoneveil chapters.
+
+  2. NOVEMBER'S CONSCRIPTION: PLANTED
+     Ch. 27 (The Conscription). Told, not asked. Takes the oath. Puts on
+     the armor. Legionnaire designation. Military training to begin.
+     Thread is the entire chapter — fully realized.
+
+  3. THE BROKEN ORC HORDE: PLANTED
+     Ch. 25: "Warbands whose War-Chiefs were taking command in the absence
+     of the Warlord... the order that said *back*." Orc force fragments
+     after Thokk's death. Ch. 28 (Stoneveil's report): "Enemy force
+     fragmented following the death of Warlord Thokk Ironhide on Day 6."
+     Sets up the remnant force for Book 2.
+
+=== FOR BOOK 3 (The Night of Falling Stars — Elven POV) ===
+
+  4. ELVEN CIVIL WAR REFERENCE: MISSING
+     No explicit mention of the elven civil war found anywhere in the 29
+     chapters. The only reference to elves is a passing mention of "elven
+     filigree" in Ch. 11 (Edric's dialogue about dwarven craftsmanship).
+     No soldier mentions elves fighting themselves. No war-mage comments
+     on the Twilight Faction. This thread is NOT planted.
+
+     RECOMMENDATION: A natural insertion point would be Ch. 3 (The Sundered
+     Gate) during Stoneveil's briefing — a line about why no elven
+     reinforcements are coming ("The elves have their own problems. Word
+     from the east is they're fighting themselves now."); or Ch. 5 (The
+     Prayer) during Kael's walk through the Inner Ring — a war-mage
+     mentioning news from Mythrendil; or Ch. 10 (The Mathematics of Blood)
+     during the supply/reinforcement discussion.
+
+=== FOR THE SERIES ARC ===
+
+  5. NOVEMBER'S MISSING HEALER: PLANTED
+     Central mystery/quest. Established in Ch. 4 (The First Thunder —
+     the blast, the search). Sustained through Ch. 11, 15, 19, 23, 26
+     (the systematic search through the rubble), and Ch. 27 (compass
+     pointing north). The loss drives the entire series. Thread is the
+     spine of the book.
+
+  6. NOVEMBER'S BROTHER: PLANTED
+     Ch. 26: "the brother who was presumed dead and whose presumption
+     was a door cracked open that November had never been able to close."
+     Single reference, appropriately understated. Thread is dangling as
+     intended — could surface in any future book.
+
+  7. THE UNDEAD IN THE NORTH: PLANTED (partially)
+     The Revenants — "Bane's Kissed, the dead things that had crawled
+     out of the northern bogs after the corruption spread" (Ch. 2) —
+     serve as the primary undead reference. Present in Ch. 2, 8, 12,
+     16, 20, 23, 24. The Revenants are integrated into the orc army,
+     showing the undead as a force in the world. The spirits withdrawing
+     from Bloodhollow (Ch. 20) adds metaphysical weight.
+     NOTE: No specific reference to "Necrobyss" by name, or to "tar-like
+     terrain near the coast," or to a separate undead threat beyond the
+     Revenants. The foreshadowing doc asks for "a scout report mentioning
+     movement in the tar-like terrain near the coast." This specific
+     detail is absent, though the broader undead presence is well-covered
+     through the Revenants.
+
+  8. THE PLANAR RIFTS: PLANTED (subtly)
+     Ch. 8 (The Bones Speak): Grimtusk describes "da barrier between da
+     worlds" thinning — spirits pressing against a narrowing connection.
+     Ch. 20 (The Spirits Grow Quiet): The spirits withdrawing from
+     Bloodhollow entirely. The Veilfire Spire's mysterious activity
+     (Ch. 3, 5, 10) implies planar/arcane forces at work. Thread is
+     present but subtle — no explicit use of the word "rift" or "planar."
+
+  9. THE SILENCE OF THE GODS: PLANTED
+     Extensively present across all Kael chapters (Ch. 5, 9, 13, 17,
+     21, 27). The central metaphysical question of the series — why
+     did the gods leave? — is asked repeatedly and left unanswered.
+     The silence is both a theological crisis and a narrative engine.
+     Fully realized.
+
+  10. NOVEMBER'S CREED: PLANTED
+      Present in Ch. 1 (introduced), 4, 7, 11, 15, 19, 23, 26, 27.
+      Begins as a personal code. Remains fragile, small, entirely his.
+      Other characters notice it (soldiers follow his lead not because
+      he commands but because he stands) but do not adopt it. Thread is
+      correctly scoped for Book 1.
+
+=== BURIED DETAILS ===
+
+  11. STONEHAVEN REFERENCE: PLANTED
+      Multiple references: Ch. 2 (Skrixx's engines broke walls at
+      Stonehaven), Ch. 6 (Ironclaw warbands that fought at Stonehaven),
+      Ch. 8 (orc warrior named "Grukk of Stonehaven"), Ch. 12 (Thokk
+      remembers the siege — "the enemy had been dwarves"), Ch. 14 (the
+      war-horn carried since Stonehaven), Ch. 18 (dwarven stone quarried
+      from deep mines, dwarves pushed to Stonehaven), Ch. 20. Well-seeded
+      for readers who return after reading the Stonehaven story.
+
+  12. DWARVEN-FORGED WEAPONS OUTPERFORM: PLANTED
+      Present across 21 chapters. Dwarven craftsmanship referenced in
+      Ch. 11 (Edric's father's work compared to dwarven quality), Ch. 18
+      (dwarven stone superior to human construction), and throughout
+      as ambient world-building. The Grimhaldir alliance's importance
+      is hinted at through material superiority.
+
+  13. SKRIXX BLAZEBINDER SURVIVES: PLANTED
+      Extensively covered. Ch. 20 (Thokk: "Skrixx would survive"),
+      Ch. 24 (Thokk orders Skrixx to the ridge — "survive"), Ch. 25
+      (46 goblins withdraw north, "Skrixx survived. The way fire
+      survived — not as a decision but as a definition."), Ch. 28
+      (Stoneveil's report: "Blazebinder destroyed his siege engines
+      before withdrawal. His forces remain at large."). Thread is
+      emphatic and sets up the recurring antagonist.
+
+  14. THE VEILFIRE SPIRE GLOWS DURING BATTLE: PLANTED
+      Ch. 3: Selene Raventhorne doing something in the tower — "green-blue
+      flames that wreathed the obsidian." Ch. 5: "The flames were brighter
+      today" — Kael notices increased activity. Ch. 10: "the Veilfire Spire
+      with its green-blue flames brighter than yesterday." The Spire
+      responds to the violence — grows brighter as the siege intensifies.
+      Thread is present and mysterious.
+
+SUMMARY:
+
+  PLANTED: 12 of 14 threads
+  PARTIALLY PLANTED: 1 (undead in the north — Revenants cover the theme
+    but the specific Necrobyss/coastal reference is absent)
+  MISSING: 1 (elven civil war — no mention at all)
+
+  WHAT'S PLANTED AND WORKING:
+  - Captain Isolde Veyne (appears, survives, competent)
+  - November's conscription (Ch. 27)
+  - Broken orc horde (Ch. 25, 28)
+  - November's missing healer (central thread)
+  - November's brother (Ch. 26)
+  - Undead presence via Revenants (Ch. 2, 8, 12, 16, 20, 23, 24)
+  - Planar rifts/barrier thinning (Ch. 8, 20)
+  - Silence of the gods (all Kael chapters)
+  - November's Creed (all November chapters)
+  - Stonehaven (Ch. 2, 6, 8, 12, 14, 18, 20)
+  - Dwarven craftsmanship (21 chapters)
+  - Skrixx Blazebinder survives (Ch. 20, 24, 25, 28)
+  - Veilfire Spire glows (Ch. 3, 5, 10)
+
+  WHAT'S MISSING:
+  - Elven civil war / Twilight Faction — no mention in any chapter
+  - Necrobyss by name / "tar-like terrain near the coast" — no specific
+    reference (Revenants cover the undead theme generally)
