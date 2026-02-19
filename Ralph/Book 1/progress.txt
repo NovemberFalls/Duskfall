@@ -664,3 +664,100 @@ Continuity checks:
   - Forge-smoke/industrial haze: consistent ✓
   - Timeline: Day 2, first full assault ✓ (follows Day 1 bombardment in Ch.4)
   - Hall of the Fallen blast referenced: eastern bastion ward fracture from Ch.4 ✓
+
+[2026-02-19 00:30] CHAPTER 7 — THE BORROWED SWORD — Phase 3, Task 2
+
+Wrote: Book 1/Chapters/07 - The Borrowed Sword.md
+
+POV: November Falls
+Setting: The outer ring staging area and breach point, Day 2 — first full assault.
+Target: 4,000-5,000 words. Estimated ~4,800 words written.
+KEY MOMENT: #3 — November's First Kill
+
+Chapter covers:
+  - November spent the night in the middle ring, checking faces for Horus. She is not among
+    the refugees. Dawn brings the war-horns — the Ironclaw assault begins.
+  - The secondary gate opens for wounded and separated soldiers. A sergeant assembles a
+    composite unit — soldiers who lost their squads. Twenty-three men.
+  - November finds a dead Legionnaire's sword on the ground. Picks it up. The sergeant
+    assesses him — civilian, one working arm, no armour — and puts him at the left flank.
+  - EDRIC THANE INTRODUCED: 19yo Legionnaire, gate garrison, eastern section when the
+    breach opened. Shaking. Brown eyes too wide for the walls. Blacksmith's hands —
+    calluses wrong for a swordsman, the pattern of a boy who gripped a hammer first.
+    Talks too much when scared. Tells November about his father's forge in the Anvil.
+    The tense — "had" a forge — says everything without saying it.
+  - The unit moves through the secondary gate into the outer ring. Streets destroyed.
+    Workshops burning. Edric drifts toward November without being told to.
+  - NOVEMBER'S FIRST KILL: An orc warrior attacks. November blocks — badly, grip slips,
+    flat catches the blow. Dodges the second swing by throwing himself backward. Hits the
+    wall. Swings desperately — catches the orc's arm, blade goes deep, severs muscle.
+    Orc drops his weapon. November brings the sword down on the neck/shoulder gap.
+    The kill is ugly, clumsy, not heroic. The sensation of pulling the blade free —
+    sucking resistance, wet grinding, smell of blood — is rendered as the worst part.
+    The orc's eyes: brown, not monster-red. A man, not a beast.
+  - Second engagement: orc attacks Edric. November is knocked down by an elbow to the
+    chest. Orc steps over him. NOVEMBER GRABS THE ANKLE — shifts the orc's balance,
+    throws off the killing blow. Edric finds the opening, delivers a trained thrust.
+    Clean teamwork from an unlikely pair.
+  - Edric shields November when November is hit by an axe on the left side (the dropped
+    guard, the gap). November goes down face-first. Edric takes the blows on his shield.
+    November gets back up. The getting up is what he can do.
+  - Fighting ends. Horn signals withdrawal. November and Edric sit in the rubble. Edric
+    is crying silently. November sits with him the way he sat with the widow in Ch.1 —
+    not talking, not fixing, just present.
+  - Final exchange: Edric asks if November will be on the wall tomorrow. November says
+    yes. Edric says "Then I'll be beside you." A decision, not a promise.
+
+Voice notes:
+  - November's POV maintained: honest, internal, raw but not chaotic
+  - Combat descriptions are civilian throughout: "a man hitting a door with a stick,"
+    "the sharp thing toward the threat," no military vocabulary for his own actions
+  - Contrast with trained fighters explicitly drawn: Legionnaires do in 4 seconds what
+    took November 30. The distance between a warrior and "whatever November Falls is."
+  - The first kill given full sensory weight: the resistance of the blade in flesh, the
+    smell of blood, the sound of a body dying, the feeling that will "live behind his
+    eyes for the rest of his life"
+  - Edric characterized through the blacksmith's hands, the too-wide eyes, the talking
+    when scared, the willingness beneath the fear
+  - The compass check after the fighting: Standing, Sober — the same structure as Ch.4
+    but now with the weight of killing added
+  - The widow callback: November sits with Edric's pain the way he sat with the widow.
+    The Creed as presence, not speech.
+
+Foreshadowing planted:
+  - Edric's father and the Anvil: "had a forge" — the firebombing made personal without
+    naming Stoneveil. The pension that wasn't enough. Seeds for the Edric-Stoneveil
+    thematic connection.
+  - November's left-side gap: the same weakness from Ch.1 and Ch.4 — the axe hits him
+    there. Wound carries forward.
+  - Edric's decision to stay beside November: seeds their bond through Days 3-6.
+  - The orc's brown eyes: humanization of the enemy from November's perspective (mirrors
+    Thokk's POV in Ch.2 and Ch.8).
+  - The borrowed sword: November now fights with a dead man's weapon. The weight and
+    unfamiliarity contrast with the warped practice blade.
+  - "Then I'll be beside you": Edric's declaration seeds his presence through the siege
+    and makes his death in Ch.23 devastating by establishing the bond's origin.
+
+Continuity checks:
+  - Left arm injury: carried forward from Ch.4. Worse than yesterday, can raise to
+    chest height with pain, useless during combat ✓
+  - Right hand blister: carried forward from Ch.1 and Ch.4. Horus's bandage now
+    soaked with blood. Scabbed over beneath ✓
+  - Horus's bandage: "quick, overlapping passes" — exact match with Ch.1 and Ch.4 ✓
+  - Inner compass: Standing/Sober structure maintained ✓
+  - Outer ring geography: warehouses, workshops (farrier, chandler, cooper) match
+    Ch.4 descriptions ✓
+  - Secondary gate: matches Ch.4 (November passed through it into middle ring) ✓
+  - Composite unit formation: matches Ch.6 (Stoneveil's reference to auxiliaries
+    fighting and being rotated) ✓
+  - Smoke/sky wrong: consistent atmospheric detail across all chapters ✓
+  - Forge-haze: consistent ✓
+  - November's civilian combat vocabulary: matches Writing Rules and Ch.4 ✓
+  - The breach timing: matches Ch.6 (eastern breach, Grieve's auxiliaries committed) ✓
+  - Edric's age: 19 ✓ (matches POV Characters and character sketch)
+  - Edric's background: blacksmith's son, Anvil District, pension, enlisted ✓
+  - Edric's hands: "fast hands, blacksmith's son" from character sketch ✓
+  - Orc appearance: grey-green skin, copper-capped tusks, bone-and-iron armour ✓
+    (matches Ch.2 Thokk POV descriptions)
+  - Timeline: Day 2, during the assault ✓ (concurrent with Ch.6 events)
+  - Word count: ~4,800 words, within target range ✓
