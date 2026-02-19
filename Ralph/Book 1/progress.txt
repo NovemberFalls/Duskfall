@@ -2356,3 +2356,151 @@ Continuity checks:
     by Dorran's engineers. Cross-POV continuity maintained ✓
   - Ashgate reference: 420 survivors from 1,100 defenders. Consistent with
     POV Characters doc ✓
+
+[2026-02-19 16:30] CHAPTER 23 — THE MAN WHO WOULD NOT LEAVE — Phase 7, Task 2
+
+Wrote: Book 1/Chapters/23 - The Man Who Would Not Leave.md
+
+POV: November Falls
+Setting: The Anvil District (middle ring), Day 6 — The Final Assault.
+Target: 5,000-6,000 words. Estimated ~5,800 words written.
+
+Chapter covers:
+  - REUNION: November reaches the secondary barricade after Position Seven
+    falls at dawn. Finds Edric alive — separated since the wall collapse in
+    Ch.19. The finding registers in November's sternum as compression
+    releasing. Edric has changed: voice deeper from five days of smoke,
+    armour battered into a shape that fits, the boy fully becoming the man.
+  - THE BARRICADE: Dorran's secondary barricade — dwarven basalt, timber
+    bracing, crossfire corridor. Thirteen defenders where thirty are needed.
+    Position Three (the armourer's chimney) has fallen, removing one
+    crossfire angle. November notes the complement: Edric, Tesswin (from
+    Ch.22's dawn inspection), two Legionnaires, three auxiliaries, two
+    composite soldiers, a 15-year-old runner, and two soldiers from
+    Position Seven. November's body inventory: left arm still strapped
+    with Edric's cloth from Day 3, Darya's sword (from Ch.19), cut on
+    thigh stiffening, ribs banded from the stone on Day 4, right forearm
+    blistered and bleeding. "Operational" — not functional, operational.
+  - THE RAM: Orcs bring a timber-and-iron ram. Two impacts shake the basalt.
+    Then ladders — crude but effective for a head-high barrier. The barricade
+    fight: orcs climbing, defenders striking from the top. November fights
+    badly, desperately — swings late, hits wrong, gets disarmed once.
+    Edric's shield saves him again (callback to Day 2). Goes down twice —
+    jaw hit, slippery ground. Gets up each time.
+  - MAGNETIC EFFECT: The soldiers see November get up. Each time. By Day 6,
+    the assessment has updated — not "civilian with no armour" but the man
+    who carries water, drags wounded, stands shifts, carries Brenn, digs
+    civilians from rubble, goes down and gets back up. In the hell of
+    Day 6, the thing that won't break becomes magnetic. People gravitate
+    to the thing that's still standing. November doesn't know this. He
+    knows the compass. He knows the Creed.
+  - THE BARRICADE BLOWS: Skrixx's charges detonate at the ninth bell —
+    three simultaneous explosions from the sewer tunnels, fulfilling the
+    setup from Ch.22 (Stoneveil/Dorran scene). The basalt barricade is
+    destroyed. November thrown five paces. Gets up. Edric survives blast —
+    helmet knocked off, bleeding from a cut above his left ear. Four
+    defenders dead from the blast (auxiliaries at centre). Seven remain.
+  - THE BREACH: Orcs pour through the blown barricade in a surge. Seven
+    defenders form a line — bodies as barricade now. Tesswin, Edric,
+    November, four others. The fighting comes in fragments — November's
+    mind can no longer hold sequence. Fragment structure mirrors the
+    dissociation of combat past endurance. Tesswin is a force. The young
+    reserve Legionnaire dies. November goes down again. Gets up again.
+  - EDRIC'S DEATH: The wound finds Edric at the tenth bell. A large orc
+    with a heavy two-handed sword. Shield impact buckles Edric's arm.
+    Second strike enters below the ribs, left side — the gap between
+    cuirass and hip guard. Edric grips the orc's arm with blacksmith's
+    hands. November and Tesswin kill the orc. November catches Edric.
+    Lowers him behind the line. Edric against a chunk of Dorran's basalt.
+    Sword still in his side. "Don't pull it out. I know what that means."
+    November holds his hand. Edric asks about his mother and sisters —
+    November says yes before the question finishes. Edric: "I said I'd
+    be beside you. I'm beside you." (Callback to Day 2, Ch.7.) Breath
+    comes in. Does not go out. Blacksmith's hands — the last thing to
+    give. Grip stays closed. November holds.
+  - THE COMPASS: Full compass check. Standing — yes, in the rubble, with
+    a boy behind him whose hand is still warm. Sober — six days, the
+    bottle is a myth. The Creed — he has not abandoned. The answer is
+    not clean. He has held and the holding is complete and the completion
+    is not a failure but the world's price.
+  - THE CONTINUATION: November lays Edric's hand on his chest. Closes
+    the brown eyes. Picks up Darya's sword. Walks toward the fighting.
+    Nothing left — nothing to lose. The Creed, the compass, the refusal.
+    Tesswin: "Hold here. The gate detail is pulling civilians through.
+    We need five minutes." Five defenders. November raises the sword.
+    Too tight. The same mistake. The orcs come. November Falls does
+    not leave.
+
+Voice notes:
+  - November's honest, internal voice maintained throughout. The inner
+    compass drives the narration — checking in, measuring, the constant
+    audit of a man who knows himself honestly.
+  - Combat descriptions remain clumsy from November's civilian POV — he
+    hits wrong, swings late, goes down. The trained soldiers around him
+    are always better. His value is moral: the getting up, the not leaving.
+  - Edric's death written with restraint — no speech, no neat conclusion.
+    He dies the way nineteen-year-olds die in sieges: too fast, too afraid,
+    reaching for someone's hand. Quiet. The loudest moment is the silent
+    one.
+  - The "too tight / the same mistake" motif carries through the chapter
+    and into the final line — the grip on the sword that connects back to
+    Horus's diagnosis of the blister in Ch.1.
+  - Fragment structure in the extended barricade fight mirrors the
+    dissociation of combat past endurance — moments without sequence.
+
+Key moments delivered:
+  - EDRIC THANE'S DEATH: The cost of war made personal. Nineteen years
+    old. The blacksmith's son. The boy whose father was killed by the
+    firebombing and who was then killed by the siege that followed. The
+    reader should feel it like a fist in the sternum.
+  - THE MAGNETIC EFFECT: November's standing draws soldiers to him — not
+    by command, not by skill, but by the gravitational truth that in a
+    world where everything is falling, the thing that remains upright
+    becomes the centre.
+
+Foreshadowing planted:
+  - Edric's dying request: "Tell my uncle — tell Kael I—" unfinished.
+    Sets up Kael learning of Edric's death, which will shatter his
+    remaining faith (connects to Ch.21's fracture).
+  - Edric asks November to look after his mother and sisters — a promise
+    November will carry forward into the series.
+  - Skrixx's charges detonated — confirms the demolition setup from Ch.22.
+    The goblin engineering survives the siege even as the goblins
+    themselves withdraw.
+  - Five defenders holding for five minutes — sets up the continuation
+    of the defence that bridges to Ch.25's climax.
+
+Continuity checks:
+  - Left arm: strapped with Edric's cloth since Day 3, useless. Consistent ✓
+  - Darya's sword: lighter, better balanced, taken at end of Ch.19 after
+    Darya's death. Consistent ✓
+  - Position Seven: child's drawing, fell at dawn on Day 6. Consistent
+    with Ch.22 description (6 soldiers, two walking wounded) ✓
+  - Position Three: chimney collapsed, fell at dawn. Consistent with Ch.22
+    (elevated crossbow team of 4, would collapse if hit) ✓
+  - Corporal Tesswin: from Ch.22 (young, voice of woman twice her age,
+    11 soldiers at northern barricade). Moves south when northern position
+    falls. Consistent ✓
+  - Skrixx's charges: three positions, goblin compound, sewer tunnels.
+    Detonation matches Ch.22 setup exactly ✓
+  - Edric's separation: wall collapse in Ch.19 sent Edric south, November
+    north. Reunion at secondary barricade on Day 6. Consistent ✓
+  - "Too tight. The same mistake." — grip motif carried from Ch.1/7/11/15/19.
+    Consistent ✓
+  - Compass check structure: Standing / Sober / The Creed. Consistent ✓
+  - "I said I'd be beside you" — callback to Ch.7, Day 2: "Then I'll be
+    beside you." Consistent ✓
+  - "I know" — Edric's response from Ch.15 after the retreat. Consistent ✓
+  - Blacksmith's hands: broad palms, hammer calluses, "hold things that
+    were heavy and hot." Consistent across all Edric appearances ✓
+  - Brown eyes: Edric's eyes described as same brown as the orc's from
+    Ch.7 — "the colour of things that were alive and real and mortal."
+    Consistent ✓
+  - Body damage accumulation: Day 1 left arm, Day 2 ribs from axe, Day 4
+    back stone, Day 5 thigh cut, Day 6 adds right forearm cut and jaw
+    impact. Wounds carry forward correctly ✓
+  - 347 effective at dawn (Ch.22) → losses through Day 6 fighting.
+    Numbers declining consistently ✓
+  - Rath: dead since Day 4 retreat intersection. Consistent ✓
+  - Brenn: carried through retreat in Ch.15. Referenced as shared memory.
+    Consistent ✓
