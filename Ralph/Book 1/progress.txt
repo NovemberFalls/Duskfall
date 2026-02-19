@@ -291,3 +291,71 @@ Continuity checks:
   - No info-dumps: world shown through experience, not exposition ✓
   - Tone: Tender but grounded. Grimdark in the bones (the widow, the wounded, the war
     that took his family) but quiet on the surface. Chapter 1 exists to make Ch.4 hurt.
+
+[2026-02-18 27:00] CHAPTER 2 — THE HORIZON DARKENS — Phase 2, Task 3
+
+Wrote: Book 1/Chapters/02 - The Horizon Darkens.md
+
+POV: Warlord Thokk Ironhide
+Setting: The ridge above Emberfall, dusk before the siege (Day 1)
+Target: 3,000-4,000 words. Estimated ~3,500 words written.
+
+Chapter covers:
+  - Thokk surveys Emberfall from the ridge: three rings, the Sundered Gate, the flanks.
+    Identifies weak points — eastern wall patched twice, western wall over soft ground.
+  - Army review: 1,200 Ironclaw warriors, 800 goblin sappers with siege engines,
+    500 Revenants (Bane's Kissed) held in reserve.
+  - Skrixx's siege engines described: the Jawbreaker (trebuchet), catapults with
+    alchemist's fire, unreliable but effective. Skrixx characterized as chaotic,
+    useful, kept at arm's length.
+  - Grimtusk da Bonechanter reads the bones: omens UNCLEAR. Spirits present but
+    confused — "like smoke in wind." Blood flows in every direction. Spirits are
+    thinning, connections to ancestors weakening. Something wrong in the deep places.
+  - Grimtusk reveals: bones showed the number SEVEN. Doesn't know what it means.
+    (Foreshadowing: the seventh strike that kills Thokk in Ch.25)
+  - War-Chiefs council at dusk: four leaders introduced:
+    * Malga Bonefist — vanguard commander, goes first, accepts the cost
+    * Krogan Bloodtusk — eastern assault, old loyalty, deep voice
+    * Gharza Splitjaw — western approach, argues with Thokk, usually right
+    * Urzag the Quiet — reserve, speaks rarely, silence carries weight
+  - Assault plan laid out: dawn bombardment on gate and east, sappers under west,
+    vanguard hits gate, reserve waits for the break.
+  - The central argument: two winters before the Ironclaw starve. Hunting grounds
+    failing, fishing halved, farms failed. This siege is survival, not glory.
+  - Thokk alone on the ridge: thinks about Bloodtide Bay, the children, his dead
+    wife's last words ("the children needed to eat"), the weight of the skull he
+    carries, the chain of Warlords.
+  - Does not hate the humans. Understands them. Recognizes the mirror — both sides
+    defending what they have.
+  - Final image: Thokk walks down the ridge toward his people. The dark comes in
+    behind him.
+
+Voice notes:
+  - Orcish cadence maintained: blunt, declarative, short muscular sentences
+  - Dialect used in Grimtusk's speech (phonetic orcish: "da" for "the", "dey" for
+    "they", "ya" for "you") — consistent with military docs
+  - Thokk's internal monologue is deeper than his speech: strategic, grieving,
+    self-aware. The depth beneath the bluntness, per Writing Rules.
+  - No info-dumps: orc culture shown through action (bone-reading, war-council,
+    rank structure, death rites referenced)
+  - Theme #2 (The Enemy is a Mirror) established: Thokk recognizes human desperation
+    as a reflection of his own
+
+Foreshadowing planted:
+  - SEVEN STRIKES: Grimtusk sees the number 7 in the bones (pays off Ch.25)
+  - Spirits thinning/confused: early sign of Veilfire corruption spreading (series arc)
+  - Skrixx Blazebinder characterized but kept peripheral (survives siege, future books)
+  - Revenants (Bane's Kissed) introduced: undead forces, foreshadow northern threat
+  - Thokk's skull/chain-of-Warlords imagery: foreshadows his own death standing
+  - Krogan Bloodtusk named (leads remnant force in Book 2 after Thokk's death)
+  - Stonehaven referenced in passing (buried detail per Foreshadowing doc)
+
+Continuity checks:
+  - Army count: 2,500+ (1,200 orcs + 800 goblins + 500 Revenants) ✓
+  - Thokk's rank: Warlord / Blood-Chief / Blood-Crowned ✓
+  - Grimtusk: Head War-Shaman, old, copper-capped tusks, milky grey eyes ✓
+  - Skrixx: Pyrelord, goblin siege engineer, chaotic but effective ✓
+  - Emberfall geography: three rings, Sundered Gate facing north, Iron Marches ✓
+  - Timeline: Day 1, assault planned for dawn (matches Ch.3-4 sequence) ✓
+  - Tone: grimdark but not nihilist. Thokk is humanized. Reader should understand
+    his desperation before the first arrow flies. ✓
