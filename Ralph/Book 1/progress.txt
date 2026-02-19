@@ -188,3 +188,47 @@ Character sketch covers:
     details — so her absence feels like a limb torn away.
 
 Phase 1 COMPLETE. All three pre-writing validation tasks finished. Ready for Phase 2.
+
+[2026-02-18 25:00] PROLOGUE — THE ANVIL — Phase 2, Task 1
+
+Wrote: Book 1/Chapters/00 - Prologue - The Anvil.md
+
+POV: Warden Alric Stoneveil
+Setting: The Anvil District, night of the Black Anvil Revolt (6 months before the siege)
+Target: 3,000-4,000 words. Estimated ~3,200 words written.
+
+Chapter covers:
+  - Stoneveil on the wall above Forge Road, ordering the incendiary bombardment
+  - The barricades burn first, then the buildings on Forge Road
+  - Captain Harren reports: eastern and western perimeters sealed, tunnel exits blocked
+  - Stoneveil orders the incendiaries concentrated on the Black Anvil (the main forge)
+  - Harren's hesitation — noncombatants inside, apprentices, families — overruled
+  - The Black Anvil burns: the forge-fire feeds the alchemist's pitch, crucible cracks,
+    molten slag pours into lower chambers where noncombatants sheltered
+  - Forge-King Drelgar Blackhand — last seen standing at his anvil, hammer raised,
+    finishing his work as the forge collapses around him. Dies standing.
+  - Stoneveil watches until the screaming stops. Does not look away. Does not flinch.
+  - Lieutenant Daskell reports: district contained, ~200 rebels escaped through sewers
+  - Stoneveil delivers the report: "The Black Anvil Revolt is over. The Forge-King is dead."
+  - A young runner (14-15yo) brings scout reports: Ironclaw movement along the ridgeline.
+    Six months, maybe less.
+  - Stoneveil does not comfort the boy. Does not explain. Gives his next order.
+  - Final image: Stoneveil composing his report in his mind. The language comes easily.
+    It always does.
+  - Forward-reference planted: Stoneveil will return to this exact spot during the siege
+    (Ch.18) and the 43 children killed will become all he can think about.
+
+Voice notes:
+  - Military precision maintained throughout — controlled, measured, no cracks visible
+  - Emotional weight carried in what Stoneveil DOESN'T say or think about
+  - The 43 noncombatants under 16 are noted but deliberately suppressed
+  - Drelgar Blackhand's death given dignity — he dies as a smith, not as a rebel
+  - Grimdark tone established: no clean heroes, cost is everything
+
+Continuity checks:
+  - Stoneveil's rank: Warden ✓
+  - Drelgar Blackhand: Dwarf, Forge-King, dies at forge ✓
+  - 900+ casualties (912 in final count, matching worldbuilding doc) ✓
+  - Captain Isolde Veyne not present (she appears in Ch.3) — no contradiction ✓
+  - Blackthorn referenced as Lord Commander, physically distant ✓
+  - Ironclaw scout reports foreshadow the siege ✓
