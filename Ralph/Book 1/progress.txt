@@ -433,3 +433,75 @@ Continuity checks:
   - Stoneveil's rule from Prologue: "You watch what you order" — character consistency ✓
   - Western wall soft ground / mining tunnels: matches Ch.2 (Thokk/Skrixx noted this) ✓
   - Eastern wall patched twice: matches Ch.2 (Thokk identified this) ✓
+
+[2026-02-18 29:00] CHAPTER 4 — THE FIRST THUNDER — Phase 2, Task 5
+
+Wrote: Book 1/Chapters/04 - The First Thunder.md
+
+POV: November Falls
+Setting: The Hall of the Fallen, the outer ring, Emberfall. Day 1, the siege opens.
+Target: 3,000-5,000 words. Estimated ~4,800 words written.
+KEY MOMENT: #2 — The Blast
+
+Chapter covers:
+  - November in the training yard, working the sweep (left-side gap), blister reopened
+  - First siege engine impacts on outer wall — sound, shockwave, the world changing
+  - November runs toward the Hall of the Fallen, through panicked civilians
+  - Reaches the Hall: staff already evacuating patients to back rooms
+  - The blast: a goblin siege round hits the eastern wall of the Hall directly
+  - November thrown across the room — deaf, blinded by dust, left arm injured
+  - Crawls through rubble toward the overflow ward where Horus was last seen
+  - Overflow ward ceiling collapsed — digs through rubble with one hand
+  - Does not find her. Finds empty pallets, destroyed equipment, but not Horus
+  - Soldiers evacuating the Hall pull him out — "building's cleared"
+  - In the square: soldiers run past, he is invisible, a civilian, nobody's priority
+  - Searches the streets: checks every stretcher, every cart, every body
+  - She is not among the wounded. Not among the dead he can find.
+  - Sergeant blocks him from re-entering the Hall — "accessible areas swept"
+  - Secondary gate closing — November must choose: stay in bombardment zone or pass through
+  - Steps through the gate into the middle ring
+  - In the middle ring: checks hundreds of faces among refugees. She is not among them.
+  - Compass check: Standing. Sober. Alive. Not enough. But it was what he had.
+
+Voice notes:
+  - November's POV maintained: honest, internal, raw but not chaotic
+  - Combat/blast descriptions are civilian: no military vocabulary, disorientation is total
+  - The concussive blast written as sensory erasure — hearing gone, vision white,
+    the body registering force before the mind can process it
+  - November's search is desperate but structured by the compass — even in chaos,
+    the inner mechanism is working
+  - Military indifference shown through specific interactions: the soldier who drags
+    him out, the sergeant who blocks him, the gate that closes behind him
+  - Horus's absence is the central wound — not confirmed dead, not confirmed alive,
+    the void worse than an answer
+  - The morning from Ch.1 deliberately echoed: the heel of bread, the bandage on
+    his hand, the light through the window, the sweep with the left-side gap — all
+    invoked to measure the distance between "before" and "after"
+
+Foreshadowing planted:
+  - Alchemist's fire established as goblin weapon (consistent with Ch.2 Skrixx description)
+  - War-mages on bastions with veilfire (Veilfire Spire active during battle)
+  - The secondary gate between outer ring and middle ring (retreat path for Ch.14-15)
+  - Horus's disappearance: not confirmed dead — the absence that drives the series
+  - November's invisibility as a civilian (sets up his volunteer enlistment in Ch.7)
+  - His injured left arm (wound carries forward into subsequent chapters)
+
+Continuity checks:
+  - Training yard: same yard from Ch.1, same time of day, same blister ✓
+  - Practice blade: warped, cracked grip, leather wrapping — matches Ch.1 ✓
+  - Horus's bandage on his hand: tied with "quick, overlapping passes" — exact match ✓
+  - Hall of the Fallen: layout matches Ch.1 (main ward, alcove, linen shelves,
+    overflow ward, converted storage rooms) ✓
+  - Junior healer: new character, consistent with Hall staff ✓
+  - Ember fall geography: outer ring (Iron Marches), middle ring (Anvil), inner ring
+    (Emberheart) — matches Ch.3 ✓
+  - Siege engines match Ch.2: Jawbreaker, catapults, alchemist's fire ✓
+  - Rune-wards on eastern bastion cracking: consistent with Ch.3 description of
+    wards pulsing brighter as danger approaches ✓
+  - Secondary gate: consistent with three-ring structure ✓
+  - November's Creed: exact text matches Character Bible ✓
+  - Compass structure: Standing/Sober/Useful/Loved from Ch.1 → Standing/Sober/Alive
+    in Ch.4 — the degradation is intentional, showing loss ✓
+  - Forge-smoke, industrial grime: consistent with all previous chapters ✓
+  - Timeline: Day 1, assault at dawn — matches Ch.2 (Thokk's plan) and Ch.3
+    (Stoneveil's prediction) ✓
