@@ -1282,3 +1282,113 @@ Continuity checks:
   - Stonehaven referenced: consistent with Ch.2 and Foreshadowing doc ✓
   - Forge-smoke/industrial haze: consistent with all previous chapters ✓
   - Timeline: Day 3, concurrent with Ch.10 (Stoneveil) and Ch.11 (November) ✓
+
+[2026-02-19 06:30] CHAPTER 13 — THE SILENCE — Phase 4, Task 4
+
+Wrote: Book 1/Chapters/13 - The Silence.md
+
+POV: Inquisitor Adept Kael Veyne
+Setting: The Cathedral of Tyr's Judgment, the Chainhold (Anvil District), Day 3 — the grinding.
+Target: 3,000-4,000 words. Estimated ~3,800 words written.
+
+Chapter covers:
+  - Morning prayer in the seventh alcove: the silence is louder. The prayer's words arrive
+    but the prayer itself does not — the distinction between words and faith made explicit.
+    The ground-shift from Ch.9 has not settled back.
+  - Three soldiers hiding in the Cathedral prayer alcoves — Kael observes them, identifies
+    them as seeking prayer not desertion, but does not speak to them because speaking
+    requires a certainty he is losing.
+  - SUMMONS TO THE CHAINHOLD: A runner brings Kael to the Judgment Hall at Marrow's
+    request. Walk through the Anvil District — triage stations overflowing, Day 3's
+    grinding weight visible in the wounded.
+  - HIGH INQUISITOR VARIAN MARROW: Full characterisation. Age 56. Gaunt, severe, grey
+    braids pulled tight. Blue eyes like a blade's edge. Crimson robes of the High Office.
+    Left hand encased in black iron gauntlet — burned by Veilfire. Faith refined into
+    pure function, compassion removed as an impurity.
+  - THE DESERTER: Legionnaire Caedus Wrent, third section, eastern wall. Left the wall
+    at the ninth bell on Day 2. Recovered in the Anvil District at dawn, Day 3. Marrow
+    sentences him to death. The law is clear. The man held for two days and broke.
+  - Marrow's philosophy articulated: "Compassion is not a principle. It is a sensation.
+    Sensations do not hold walls." Remove the consequence and you remove the wall. The
+    crack in the wall kills everyone behind it.
+  - Marrow tells Kael: "You will witness all of them." Kael will administer rites to
+    all future executions. The Scales must be held level.
+  - KAEL SEES HIS FUTURE: Standing in crimson robes with an iron hand, signing execution
+    orders with mechanical precision. Faith stripped of warmth, turned into a tool. The
+    recoil is internal — not physical, but the pulling-back from a destination he can see.
+  - THE ALTERNATIVE: But what replaces Marrow's certainty? Doubt is not an architecture.
+    Doubt does not hold walls. The question presses: if not cold certainty, then what?
+  - EDRIC: The thought arrives uninvited. If the wall breaks Edric — if his nephew runs
+    — would Marrow's Scales weigh him differently? Would Kael's? The question is
+    unanswerable and devastating.
+  - THE EXECUTION: Efficient, brief. Wrent does not speak. Does not invoke. Dies with
+    emptiness on his face. Kael speaks the Rite. The architecture holds. His palms are
+    level. He is not certain the Scales are.
+  - EVENING PRAYER — THE CONFESSION: "I confess that the silence troubles me." The first
+    time Kael has spoken these words directly to Tyr. Not the trained response ("it does
+    not trouble me"). The actual confession. The questions have changed: Is the silence
+    patience or absence? Is the law Tyr's instrument or their construction? Are the
+    Scales Tyr's or Marrow's?
+  - Final image: Kael kneeling, unable to distinguish faith from numbness. The question
+    he has failed to answer may be the most important one.
+
+Voice notes:
+  - Formal, liturgical prose maintained but beginning to show strain — sentences that
+    run longer, subordinate clauses that multiply as Kael's internal structure becomes
+    more complex. The architecture is holding but the mortar is showing.
+  - The "mechanism" metaphor from Ch.9 deepened: the trained response is now explicitly
+    identified as a mechanism, a key that turns a lock. Kael sees the mechanism working
+    in Marrow and recognises it as a perfected version of his own practice.
+  - The distinction between "offered" and "recited" prayer from Ch.5 and Ch.9 reaches
+    a new stage: the morning prayer's words arrive but the prayer does not. The vessel
+    is present. The contents are uncertain.
+  - Marrow characterised through compression — a man whose features have no room for
+    ambiguity, whose iron hand performs flesh's motions perfectly, whose voice has been
+    stripped of echo. He is what faith becomes when compassion is removed as an impurity.
+  - The question "what is the alternative?" given full weight. Doubt presented not as
+    liberation but as danger — doubt does not hold walls, does not protect Edric, does
+    not provide the architecture that twenty-eight years of practice built.
+  - The "crack" motif progressing: Ch.5 = "yet"; Ch.9 = ground-shift; Ch.13 = the
+    silence troubles him. Each chapter deepens the fracture without breaking.
+
+Foreshadowing planted:
+  - Marrow as Kael's dark mirror: "You will witness all of them." Kael's future in the
+    Inquisition runs through this room, through these executions, through the gradual
+    replacement of compassion with function. Seeds Ch.17 and Ch.21.
+  - Edric on the wall: Kael's question — would the Scales weigh his nephew differently?
+    — seeds Ch.17 (Kael sees Edric among the defenders) and Ch.23 (Edric's death).
+  - The Chainhold established as a physical space — the Judgment Hall, the Iron Gate,
+    the Deep Iron. Available for future use.
+  - Desertion as a siege reality: Wrent is the first. Marrow says there will be more.
+    The institutional response to human breakage established.
+  - "Faith or numbness" — the question Kael cannot answer. This ambiguity deepens
+    through Ch.17 (the refugees) and breaks in Ch.21 (the child's death).
+  - Veilfire residue fading on Kael's fingers — "the colour of certainty" that fades
+    by evening. Small, specific detail echoing the larger theme.
+
+Continuity checks:
+  - Kael's rank: Inquisitor Adept ✓ (matches Ch.5 and Ch.9)
+  - Cathedral geography: nave, seventh alcove, Seventh Tenet, Bell of Penance, Shrine
+    of the Martyrs, Sister Reva polishing plaques — all match Ch.5 and Ch.9 ✓
+  - Black robes, silver embroidery: consistent with Ch.5 and Ch.9 ✓
+  - The silence: progression from Ch.5 ("did not trouble him / yet") through Ch.9
+    ("ground-shift") to Ch.13 ("the silence troubles me") — consistent deepening ✓
+  - Marrow's appearance: gaunt, grey braids, blue eyes, crimson robes, iron left hand
+    — matches NPC worldbuilding docs ✓
+  - The Chainhold: Anvil District, Iron Gate, Judgment Hall — matches worldbuilding ✓
+  - Triage stations in the Anvil: overflow, worse than Day 2 — consistent with Ch.10
+    (Stoneveil's assessment of worsening casualties) ✓
+  - Ironbound Guard: still in Inner Ring, not deployed to wall ✓ (matches Ch.3, Ch.5,
+    Ch.6, Ch.10)
+  - Edric on the wall: gate garrison, outer ring — consistent with all prior refs ✓
+  - Veilfire extract for Consecration oils running low — consistent with supply
+    degradation shown in Ch.10 ✓
+  - Bombardment rhythm: consistent with Ch.10-12 ✓
+  - "You watch what you order" / Stoneveil parallel: Marrow's philosophy of witnessing
+    as accountability echoes Stoneveil's rule from the Prologue ✓
+  - Surgeon calling for rites: consistent with Ch.9 triage station interactions ✓
+  - Forge-smoke/industrial haze: consistent ✓
+  - Timeline: Day 3, concurrent with Ch.10 (Stoneveil), Ch.11 (November), Ch.12
+    (Thokk) ✓
+
+Phase 4 COMPLETE. All four Day 3 chapters (Ch.10-13) finished. Ready for Phase 5.
