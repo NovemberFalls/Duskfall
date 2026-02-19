@@ -2638,3 +2638,152 @@ Continuity checks:
     undermanned by mid-Day 6. Consistent ✓
   - Drekkha: new character, Malga's second, inherits vanguard command.
     Introduced here for the final push ✓
+
+[2026-02-19 18:30] CHAPTER 25 — THE SEVENTH STRIKE — Phase 7, Task 4
+
+Wrote: Book 1/Chapters/25 - The Seventh Strike.md
+
+POV: Stoneveil
+Setting: The Anvil District courtyard, Day 6 — The Gate.
+Target: 4,000-5,000 words. Actual ~4,800 words.
+
+KEY MOMENT #9: THE SEVENTH STRIKE — Stoneveil and Thokk meet. Seven
+strikes. Thokk dies standing. The orc assault breaks.
+
+Chapter covers:
+  - THE BARRICADE BLOWS: Opens with Stoneveil feeling the detonation of
+    the secondary barricade (Skrixx's charges from Ch.23/24). Immediate
+    tactical response — the avenue is open, the defense is collapsing.
+    Veyne reports: dormitory wall holding, five or six survivors from the
+    secondary barricade (connecting to Ch.23's seven defenders).
+  - THE GATE: Stoneveil goes not to the dormitory wall but to the gate —
+    the courtyard between the dormitories and the Inner Ring. Positions
+    himself at the gate with his sword. The gate is closed (Blackthorn's
+    order). The Ironbound Guard behind it, halberds visible, unused.
+  - VEYNE AND THE EVACUATION: Stoneveil orders Veyne to evacuate
+    non-combatants through the service corridor beneath the eastern wall
+    (shown to him by Dorran on Day 2). The second hesitation from Veyne —
+    the body protesting the order to leave while the mind accepts it.
+    "Go." She goes.
+  - THE DORMITORY WALL BREAKS: Eleventh bell. Orcs pour through in a
+    ragged wave — not disciplined formations but momentum, the raw
+    pressure of an army that has felt the wall give.
+  - THE WARLORD: Stoneveil sees Thokk. The boar-tusk pauldrons, the iron
+    plates, the war-axe, the skull at the belt. The recognition — not by
+    sight but by understanding. The same conversation, spoken in dead
+    soldiers for six days. Two men, two exhausted men, one gate.
+  - THE CLEARING: Thokk raises his axe to signal — the orc warriors halt.
+    Orc culture giving the ground to the leaders. Stoneveil understands
+    because command is command. He steps forward.
+  - THE SEVEN STRIKES:
+    1. Thokk's — overhead arc, heavy. Stoneveil steps left, counter-thrust
+       finds gap at pauldron. Shallow. Thokk's shield catches Stoneveil
+       across the left side.
+    2. Stoneveil's — low cut at the knee. Thokk drops shield to block.
+       Counter-axe sweeps laterally. Stoneveil ducks (exhausted duck).
+       Blade finds Thokk's forearm — shallow.
+    3. Collision — Stoneveil rams the shield with his shoulder. Opens a
+       line. Blade finds Thokk's left side below ribs — shallow (exhaustion
+       stealing depth). Thokk's axe haft hits Stoneveil's shoulder.
+    4-5. Rush — Thokk drives forward with tower shield as battering weapon.
+       Stoneveil parries, cuts Thokk's wrist above shield grip. Tower
+       shield drops. Thokk shifts to two-handed axe. Axe catches
+       Stoneveil's left arm — deep cut, blood flowing.
+    6. Stoneveil's — lunges, thrust at chest. Deflected by axe haft. But
+       inside the reach. Pommel strike to Thokk's jaw. Breaks it. Thokk
+       staggers but does not fall.
+    7. Thokk charges — last reserves, overhead killing stroke. Stoneveil
+       steps INTO the arc. Sword thrust finds Thokk's throat below the
+       jaw. The blade enters.
+  - THOKK DIES STANDING: The old ways demand it. Feet set. Axe lowered
+    (not dropped — lowered). Eyes hold Stoneveil's for four heartbeats.
+    The recognition — not hatred, not anger. The acknowledgment that the
+    man who killed him is the same man. The other side of the same wall.
+    The body falls forward — toward the gate, toward the thing he was
+    fighting for. Armor hits cobblestones with a sound that is not loud.
+  - THE BREAKING: The orc assault fragments in pieces. First the sound —
+    the cry of an army losing its center. Then the movement — warriors
+    stepping backward. Then the fragmentation — warbands separating,
+    War-Chiefs taking command for survival, the army breaking along seams
+    Thokk's command had held together.
+  - SKRIXX ESCAPES: On the ridge, goblin fire — siege engines torched by
+    Skrixx before capture. Goblins withdraw north through outer ring and
+    into the hills. Forty-six goblins led by a Pyrelord with burned hands
+    and copper eyes already calculating the next thing. "Skrixx survived.
+    The way fire survived — not as a decision but as a definition."
+  - STONEVEIL KNEELS: He kneels beside the Warlord. Not prayer, not
+    salute — acknowledgment. The forty-three has grown. Now it's five
+    hundred and three, plus the Ironclaw dead, plus the Warlord. The
+    number will never stop growing because the cost is what command carries.
+  - THE SILENCE: Stoneveil stands in the courtyard. Left hand trembling.
+    Sword in right. The silence full of echoes and absences and the
+    number still growing. The gate never opened. He let the hand tremble.
+
+Voice notes:
+  - Stoneveil's military precision maintained throughout. Tactical
+    thinking even during single combat — angles, gaps, weak points.
+    The cracks show in what he doesn't think about until the fight ends.
+  - The forty-three motif expands — the locked door becomes a membrane,
+    then the number itself grows beyond forty-three to encompass the
+    full siege's cost. The carrying does not end when the fighting ends.
+  - Left hand tremor: present throughout, from the opening (pressing
+    against the anvil) through the fight (can't use a shield) to the
+    final image. He lets it be.
+  - Veyne's two hesitations — the first in Ch.22 (about the final
+    report), the second here (about leaving). Both are cracks in the
+    constant, both are the body protesting what the mind accepts.
+
+Key moments delivered:
+  - KEY MOMENT #9 — THE SEVENTH STRIKE: Stoneveil and Thokk fight. Two
+    exhausted leaders. NOT elegant — ugly, compressed, the residue of
+    training after the training has been ground away. Seven strikes
+    counted explicitly with bold markers. On the seventh, Stoneveil's
+    blade finds Thokk's throat. Thokk dies standing. ✓
+  - TONE: Exhaustion and finality, not triumph. Stoneveil does not
+    celebrate. He kneels beside the body. The killing goes into the
+    room with the forty-three. "He could not file this." ✓
+  - SKRIXX ESCAPES: Blazebinder torches his engines and withdraws north
+    with forty-six goblins. Positioned for recurring antagonist role. ✓
+
+Foreshadowing planted:
+  - SKRIXX'S ESCAPE: Completes the foreshadowing thread. Skrixx
+    survives with surviving goblin forces, torches engines, withdraws
+    to the hills. Set up for future books. ✓
+  - BROKEN HORDE: Ironclaw fragment after Thokk's death. War-Chiefs
+    take command for survival. Sets up remnant force under different
+    leadership for Book 2. ✓
+  - THE NUMBER: Seven strikes resolves the number seven that Grimtusk
+    read in Ch.8/12/16/20/24. The spirits' last message — seven
+    strikes, the duel that ended the siege. ✓
+  - SERVICE CORRIDOR: Veyne ordered to evacuate non-combatants through
+    eastern wall corridor. Practical detail that feeds into the 72
+    survivors count for Ch.26. ✓
+
+Continuity checks:
+  - Stoneveil's left hand tremor: present since Day 3, consistent
+    across Ch.10/14/18/22/25. Worse under stress. ✓
+  - The forty-three: locked door motif from the Prologue through all
+    Stoneveil chapters. Evolves here — door becomes membrane, number
+    grows beyond forty-three. ✓
+  - Veyne's slate: chalk running low (mentioned Ch.22), now a stub.
+    Consistent detail of attrition. ✓
+  - Secondary barricade blown: connects to Ch.23 (ninth bell, Skrixx's
+    charges) and Ch.24 (Thokk at the crater). ✓
+  - Stoneveil's wounds: Day 4 thigh cut (stiffened, limits left leg),
+    Day 6 adds left arm deep cut from Thokk's axe. Carries forward. ✓
+  - Tower shield: Thokk carries it from Ch.2 through Ch.24. Drops it
+    mid-fight when wrist tendons cut. ✓
+  - Skull at belt: old Warlord's skull, present in every Thokk chapter.
+    Falls with him, staring south at the gate. ✓
+  - Wolf knuckle in pouch: cold since Ch.20. With Thokk at death. ✓
+  - 347 effective at dawn (Ch.22): Stoneveil references "fewer than
+    one hundred" remaining — consistent with Day 6 casualties. ✓
+  - Ashgate: referenced — Stoneveil's backstory, killing Overseer Brok
+    Drakhold. He could file that killing. Cannot file this one. ✓
+  - Ironbound Guard: behind the closed gate, halberds visible, unused.
+    Consistent with Blackthorn's order from Ch.22. ✓
+  - Dorran: referenced — his barricade that blew, his engineering work.
+    Service corridor shown to Stoneveil on Day 2. ✓
+  - Tesswin: mentioned as holding the dormitory wall. Consistent with
+    her position from Ch.22 (northern barricade) and Ch.23 (falling
+    back to the line). ✓
