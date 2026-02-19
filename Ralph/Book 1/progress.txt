@@ -1392,3 +1392,112 @@ Continuity checks:
     (Thokk) ✓
 
 Phase 4 COMPLETE. All four Day 3 chapters (Ch.10-13) finished. Ready for Phase 5.
+
+[2026-02-19 07:30] CHAPTER 14 — THE OUTER RING FALLS — Phase 5, Task 1
+
+Wrote: Book 1/Chapters/14 - The Outer Ring Falls.md
+
+POV: Warden Alric Stoneveil
+Setting: The Iron Marches (outer ring), the Sundered Gate, the Anvil District (middle ring), Day 4 — the break.
+Target: 3,000-4,000 words. Estimated ~3,800 words written.
+
+Chapter covers:
+  - Eastern bastion wards die at dawn — not a sudden failure but a fading. The blue-white
+    lattice thins to nothing. The bastion is stone. Stone breaks.
+  - Stoneveil redeploys Ironborn to the unprotected eastern bastion. His fatigue is showing
+    — harder consonants, three nights without sleep, the tremor in his left hand now constant.
+  - WESTERN WALL BREACH: Goblin sappers (Skrixx's charges) detonate beneath the subsidence
+    point — the exact section Stoneveil identified on Day 1. Three sequential blasts. Thirty
+    feet of wall collapses outward. Eight listening post men killed. The western reserve
+    (positioned behind the collapsed section) buried under falling stone.
+  - The war-horn sounds — not the orc war-cry but the instrument. The Warlord has committed
+    reserves. This is the push.
+  - Eastern assault hits twelve minutes after the western breach — coordinated. The orc
+    commander timed it. Scaling ladders at four simultaneous points on the unenchanted bastion.
+    Full commitment from Ironclaw heavy infantry.
+  - Both flanks under assault simultaneously. The numbers produce their answer. Stoneveil
+    declares the outer ring cannot hold both flanks.
+  - THE RETREAT ORDER: "Retreat to the Anvil District. The middle ring." Stoneveil had
+    composed this order on Day 1 — contingency planning, the locked room behind his ribs.
+    Withdrawal by section: eastern through gate tunnel, western survivors through Anvil Gate.
+  - THE THIRTEEN: Twenty-seven wounded in the outer ring triage station. Fourteen ambulatory.
+    Thirteen cannot be moved. The retreat cannot wait for stretchers. Stoneveil orders
+    ambulatory wounded and surgeons withdrawn. Leaves a volunteer medic — a surgeon's
+    apprentice named Aldren, age eighteen — with the thirteen.
+  - DOES NOT LOOK BACK: Stoneveil does not say "leave them." He orders the retreat and the
+    implication carries the thirteen. The distinction between ordering something done and
+    ordering something not-done.
+  - Sergeant Dorran's fighting withdrawal through the western breach — forty-six down to
+    thirty-one down to twenty-three survivors through the Anvil Gate.
+  - The Sundered Gate holds but is irrelevant — the Warlord went around it.
+  - EFFECTIVE STRENGTH: 512 combat-effective. Down from 770 (end of Day 3), 850 (Day 1).
+    Eleven war-mages active (four lost). The numbers produce their devastating arithmetic.
+  - THE BLACK ANVIL: Stoneveil walks into Drelgar Blackhand's forge. The command post.
+    The anvil is still there — blackened, warped, cold. He stands in the exact spot where
+    the Forge-King raised his hammer. The forty-three arrive — uninvited, through the locked
+    door, past the discipline. He cannot keep them out in this place.
+  - His hands on the anvil: right hand steady, left hand trembling. The tremor transfers
+    into the cold iron. The metal receives it without giving it back.
+  - He turns and begins giving orders. Barricade positions. Supply redistribution. The
+    orders come easily. They always do.
+
+Voice notes:
+  - Stoneveil's military precision maintained but fatigue visible at the edges — harder
+    consonants, shorter patience ("I know what it pulls from" delivered twice), the
+    mechanism still functioning but with roughness. Three nights without sleep.
+  - The left-hand tremor progressing: Day 3 it was a sign of exhaustion. Day 4 it is
+    a constant. Pressed against the parapet, pressed against the anvil. The tremor is
+    the only part of him still telling the truth.
+  - The "filing" mechanism under strain — the forty-three cannot be filed when he is
+    standing in the room where they died. The locked door does not hold.
+  - The distinction between ordering something done and ordering something not-done:
+    the thirteen are not a thing he ordered done. They are a thing he ordered not done.
+    The line is invisible. The line is everything.
+  - The "correct decision" motif reaches its crescendo for the outer ring: the retreat
+    is correct, the triage is correct, every decision is correct, and correctness is
+    the worst thing about it — echoing the PRD's exact language.
+
+Foreshadowing planted:
+  - Skrixx's sappers and goblin engineering confirmed as the breach vector (consistent
+    with Ch.2, Ch.3, Ch.10, Ch.12 — the western tunnels finally pay off)
+  - The Sundered Gate holds but is bypassed — the gate that "never fell" (seeds Ch.16
+    where Thokk stands in the gate and looks inward)
+  - The Black Anvil established as command post — the exact location the PRD specifies
+    for Ch.18's KEY MOMENT #5 (Stoneveil in Blackhand's Forge). The scene is planted
+    early so Ch.18 can deepen it rather than introduce it.
+  - Stoneveil's hands on the anvil — right steady, left trembling. The body telling
+    truths the mind won't permit. Seeds the physical deterioration through Days 5-6.
+  - Edric Thane referenced through the anvil — "the ring that Edric Thane had fallen
+    asleep to" — connecting Stoneveil's atrocity to Edric's loss (from Ch.11).
+  - Five hundred and twelve effective — the number that will continue to shrink through
+    Days 5-6 toward the final 72 survivors.
+  - The volunteer medic Aldren (18) left with the thirteen — a small detail with weight.
+  - The forge-hall as defensible position established (barricade orders, supply
+    redistribution) — setting the stage for Days 5-6 Anvil District fighting.
+
+Continuity checks:
+  - Eastern bastion wards: Ch.10 "one day" assessment → Day 4 dawn failure ✓
+  - Gate wards: Ch.10 "two to three days" → now 41% / ~2 days remaining ✓
+  - Garrison numbers: 770 (end Day 3) → 512 (end Day 4 retreat) — losses from
+    wall collapse (western reserve ~30), listening posts (8), eastern fighting,
+    western delay action, overnight casualties ✓
+  - Western subsidence: identified Day 1 (Ch.3), sappers detected Day 3 (Ch.10),
+    Gharza reports "forty feet under" (Ch.12), breach Day 4 ✓
+  - Stoneveil's left-hand tremor: first appeared Ch.10, now constant ✓
+  - Sword grip: maintained for three days (Ch.10), released during retreat ✓
+  - Salt meat / cloth in pocket: consistent ritual ✓
+  - Veyne's characterisation: slate, stylus, flat delivery, "the blade that cut
+    without apology" — consistent with all prior chapters ✓
+  - The filing mechanism: consistent with Prologue and all Stoneveil chapters ✓
+  - The forty-three: locked room, smaller font, column without heading — exact
+    language matches Prologue, Ch.3, Ch.6, Ch.10 ✓
+  - Drelgar Blackhand's forge: physical description matches Prologue (squat, heavy,
+    dwarven-style, three-foot walls, chimney stacks, central anvil) ✓
+  - The anvil ring: connects to Edric's memory in Ch.11 ✓
+  - Sergeant Dorran: established in Ch.6 and Ch.10 as western wall commander ✓
+  - Skrixx's Jawbreaker and siege engines: consistent with Ch.2, Ch.12 ✓
+  - Three-ring geography: outer (Iron Marches) → middle (Anvil) → inner
+    (Emberheart) — consistent ✓
+  - Rune-wards: "old dwarven work" language consistent throughout ✓
+  - Forge-smoke/industrial haze: consistent ✓
+  - Timeline: Day 4, begins Phase 5 (Part Four: The Break) ✓
