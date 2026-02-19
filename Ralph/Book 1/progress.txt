@@ -505,3 +505,86 @@ Continuity checks:
   - Forge-smoke, industrial grime: consistent with all previous chapters ✓
   - Timeline: Day 1, assault at dawn — matches Ch.2 (Thokk's plan) and Ch.3
     (Stoneveil's prediction) ✓
+
+[2026-02-18 30:00] CHAPTER 5 — THE PRAYER — Phase 2, Task 6
+
+Wrote: Book 1/Chapters/05 - The Prayer.md
+
+POV: Inquisitor Adept Kael Veyne
+Setting: The Cathedral of Tyr's Judgment, the Emberheart (Inner Ring), Day 1 during the siege.
+Target: 3,000-4,000 words. Estimated ~3,800 words written.
+
+Chapter covers:
+  - Kael kneels in the Cathedral at dawn, offering the morning prayer. Silence answers.
+    Establishes his relationship with silence as normative — not absence but patience.
+  - First siege impacts arrive through the floor as tremors during his Fourth Petition.
+    He does not stop praying. Faith overrides the physical world.
+  - The armoury chapel: Kael blesses 43 weapons (23 swords, 11 spears, 7 axes, 2 crossbows)
+    using the Consecration Rite. Anointing oil with veilfire extract. Two-hour process.
+    Number 43 deliberately echoes the 43 noncombatants under 16 from the Prologue.
+  - Walks the Inner Ring: observes the Ironbound Guard drilling in the Gauntlet Grounds
+    under Commander Thornwall. Notes their excellence. Notes they are HERE, not on the wall.
+    Does not question the Chain of Command — files it as Tyr's design.
+  - The Veilfire Spire: flames brighter than usual. Archmage Raventhorne doing something
+    beyond stated purpose. Kael holds a key to the Bound Sanctum. Raventhorne requested
+    seal re-verification two days ago. The Spire is reaching, not just burning.
+  - Fifteen war-mages deploy to the outer wall. Kael offers a private, informal prayer for
+    them — not theology, just a man hoping they come back.
+  - Returns to Cathedral. Watches the wounded flowing past the Inner Gate through the
+    western transept windows. Stretchers. Carts. The machine processing its casualties.
+  - Writes the Petition of Endurance inscriptions — vellum with consecrated ink, placed
+    beneath the altar for the Garrison to pass.
+  - The private prayer: Kael prays for Edric. Breaks form — not the Rite, not liturgy,
+    just a man asking a god to protect a boy he placed in danger. Reveals the full weight
+    of having pulled strings to get Edric assigned to the gate garrison.
+  - Final image: Kael alone in the nave, evening light, the silence absolute. "It did not
+    trouble him. Yet." The word "yet" lives beneath the prayer like a crack in marble.
+
+Voice notes:
+  - Formal, liturgical prose maintained throughout — Kael's inner monologue structured like
+    prayer (petition, confession, assessment). Sentences are longer, more complex, with
+    subordinate clauses that mirror theological reasoning.
+  - Distinction enforced between "offered" and "recited" prayer — Kael catches himself
+    reciting rather than offering when watching the wounded. First hairline crack.
+  - The Chain of Command presented as divine architecture — Kael does not question it because
+    questioning it would require examining whether the system he serves is the same as the
+    god he serves. This will fracture later.
+  - Private prayer for Edric breaks every formal rule Kael follows — no Rite, no formula,
+    just raw petition. This is the human beneath the inquisitor.
+  - The thought Kael stops himself from completing ("the first step on the road that led to
+    men like —") is about High Inquisitor Varian Marrow. Foreshadows Ch.13.
+
+Foreshadowing planted:
+  - Silence of the gods: established as Kael's central condition. He interprets silence as
+    patience. This interpretation will be tested (Ch.9, 13, 21).
+  - Edric Thane on the wall: Kael placed him there. The guilt is pre-loaded for Ch.17
+    when Kael sees his nephew among the defenders and cannot pull him off the line.
+  - Veilfire Spire brighter than usual: "reaching, not just burning." Raventhorne's "Spire
+    operations" referenced from Ch.3. Seeds for series arc.
+  - Varian Marrow: present by absence — the thought Kael will not complete. Foreshadows
+    Ch.13 where Marrow sentences a deserter to death.
+  - 43 weapons blessed: deliberate echo of the 43 children from the Prologue's firebombing.
+    Kael does not make this connection. The reader might.
+  - The Scales of Veilfire moved to a vault — light still falls where they were. Pattern
+    continues without the object. Metaphor for the gods' departure from the world.
+  - Kael's position straddling Inquisition and Spire — key to the Bound Sanctum, eyes for
+    both Marrow and Raventhorne. Political tension seeded.
+
+Continuity checks:
+  - Kael's rank: Inquisitor Adept ✓ (matches POV Characters and military docs)
+  - Kael's role: Warden of the Warded Archive at the Veilfire Spire ✓
+  - Cathedral of Tyr's Judgment: bronze and iron towers, Hall of Scales, Bell of Penance,
+    Shrine of the Martyrs ✓ (matches worldbuilding docs)
+  - Ironbound Guard: drilling under Commander Thornwall, not deployed to outer wall ✓
+    (matches Ch.3 — Blackthorn's standing orders)
+  - Veilfire Spire: obsidian, green-blue flames, Archmage Raventhorne ✓ (matches Ch.3)
+  - War-mages deploying: 15 committed to wall defense ✓ (matches Ch.3 Veyne's report)
+  - Siege timing: bombardment during Day 1, matches Ch.4 timeline ✓
+  - Edric Thane: 19yo, Kael's nephew, assigned to gate garrison ✓ (matches POV Characters)
+  - High Inquisitor Varian Marrow: referenced obliquely ✓ (matches POV Characters)
+  - Inner Ring geography: wider streets, statues, restricted access ✓ (matches worldbuilding)
+  - Kael's voice: formal, liturgical, structured like prayer ✓ (matches Writing Rules)
+  - Sister Reva Caelum: Keeper of Shrine of Martyrs ✓ (matches worldbuilding NPC docs)
+  - Commander Hadric Thornwall: Commander of Garrison ✓ (matches worldbuilding NPC docs)
+
+Phase 2 COMPLETE. All six Day 1 chapters (Prologue + Ch.1-5) finished. Ready for Phase 3.
