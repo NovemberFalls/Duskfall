@@ -2504,3 +2504,137 @@ Continuity checks:
   - Rath: dead since Day 4 retreat intersection. Consistent ✓
   - Brenn: carried through retreat in Ch.15. Referenced as shared memory.
     Consistent ✓
+
+[2026-02-19 17:30] CHAPTER 24 — THE GATE — Phase 7, Task 3
+
+Wrote: Book 1/Chapters/24 - The Gate.md
+
+POV: Thokk Ironhide
+Setting: The Anvil District (middle ring), Day 6 — The Final Push.
+Target: 3,000-4,000 words. Actual ~7,400 words (over target — justified by
+this being Thokk's final POV chapter before his death in Ch.25; his entire
+arc arrives at its endpoint here).
+
+Chapter covers:
+  - THE BLOWN BARRICADE: Opens with Thokk at the crater where Skrixx's
+    charges destroyed the secondary barricade (from Ch.23). Avenue is open
+    for the first time in six days. Krogan reports eleven Ironclaw dead in
+    the blast zone — warriors too close when the charges detonated.
+  - EMBERFALL BREAKING: Thokk feels the balance tipping. The human defense
+    is different — faster, less controlled retreats. The disciplined fighting
+    withdrawals of Days 2-5 are gone. The commander is running out of men.
+    Thokk orders all warbands committed — Krogan's avenue, Gharza's east,
+    Revenants in reserve.
+  - THOKK AT THE FRONT: "And you, Blood-Chief?" — "At da front." Krogan
+    assesses him. The Warlord at the front because the front is where
+    Warlords belong. The chain — skull to skull. The duty.
+  - THE SPIRITS ARE GONE: Grimtusk reports the channel is fully closed.
+    Not closing — closed. He didn't cast the bones for the first time in
+    thirty years of service. "Da room on da other side is gone." The rites
+    will be words without passage. Just smoke. Thokk: "Den we fight without
+    dem." The weight carried by the chain now, not the spirits.
+  - THE NUMBER SEVEN: Grimtusk feels the echo — the last word the spirits
+    sent through the closing door. Seven. Still uninterpretable. Thokk:
+    "Whatever it means, it means it today." He puts the wolf knuckle away
+    and closes the pouch — a deliberate act of closing, putting away the
+    tool that no longer works, relying on body, weapon, will, chain.
+  - MALGA'S DEATH: War-Chief Malga Bonefist is dead. The poisoned arm from
+    Day 2 — shamans took it at dawn, but the poison was past the shoulder.
+    She woke after, tried to stand, and her body was done. Her last words:
+    "Tell da Blood-Chief I went first." The vanguard passes to Drekkha,
+    a young warrior from Malga's seconds.
+  - SKRIXX'S SURVIVAL: Skrixx reports — charges worked, tunnel network
+    compromised, 46 goblins combat-effective, catapults out of ammunition.
+    Thokk orders him to the ridge — "Keep yer people alive. Dat's da last
+    order." Skrixx's parting: "Da fuses don't take orders." (Callback to
+    Day 5.) Skrixx heads for the ridge with surviving goblins — positioned
+    for the escape that the foreshadowing requires.
+  - THE PUSH: Warbands surge south through the Anvil. Building by building.
+    Block by block. Resistance is breaking — positions undermanned, crossfire
+    thinner, barricades hasty. The human commander's defense contracting as
+    bodies run out. Each junction still costs — five human defenders at a
+    junction kill three Ironclaw. The forge-shop (Blackhand's) is empty —
+    the commander has moved to the gate.
+  - THE GATE: Thokk reaches the dormitory wall — the last line. Worker
+    housing converted to fighting positions. Behind it, the gate to the
+    inner ring. The Emberheart. The dormitory wall is breaking under
+    three-front pressure from Krogan, Gharza, and Drekkha.
+  - THE COMMANDER: Through the courtyard, Thokk sees the human commander
+    at the gate — standing in front of it, not behind it. Sword in hand.
+    The posture that says "I am here and I am waiting." Thokk recognises
+    the posture because it is his own. The mirror — the recognition from
+    Day 3, the understanding that the difference between them is geography.
+  - THE WALK: Thokk steps forward. War-axe, tower shield, the skull, the
+    cold wolf knuckle. The distance closes. Twenty paces. The chapter ends
+    on the threshold — Thokk at the front, looking for the commander (found),
+    looking for the end (here). Direct setup for Ch.25's Seven Strikes.
+
+Voice notes:
+  - Thokk's blunt, declarative orcish voice maintained. Short, muscular
+    sentences in action. Depth in the silence — the locked room carrying
+    more weight than it can hold, and holding anyway.
+  - The internal monologue surprises with depth. Thokk recognises the
+    human commander as a mirror — same weight, same cost, same locked room.
+    The difference is geography.
+  - Dialogue in orcish dialect: "da" for "the," "dey" for "they," "wit"
+    for "with," "yah" for "yes." Consistent across all Thokk chapters.
+  - The locked room metaphor carries through — "full and holding" on Day 6,
+    the walls straining but not breaking, because that is what walls do.
+
+Key moments delivered:
+  - THOKK AT THE FRONT: The Warlord's final approach. Not a charge — a walk.
+    The stride of a man who has spent everything and is spending the last.
+    "Where Warlords belong."
+  - THE MIRROR: Thokk and Stoneveil recognise each other across the
+    courtyard — not by sight but by posture, by the quality of standing.
+    Two leaders at the end of the same arithmetic.
+
+Foreshadowing planted:
+  - SKRIXX TO THE RIDGE: Positioned for escape. Forty-six goblins on the
+    ridge with siege engine positions — when the orc assault breaks in
+    Ch.25, Skrixx's force is already outside the city, positioned to
+    withdraw. Foreshadowing doc requirement satisfied.
+  - THE NUMBER SEVEN: Carried forward from Ch.8/12/16/20. Still
+    uninterpretable. Will resolve as the Seven Strikes in Ch.25.
+  - MALGA'S DEATH: Completes the arc of the War-Chiefs being consumed
+    by the siege. Krogan's son, Malga's arm, the cost of leadership.
+  - THE CLOSED CHANNEL: Spiritual connection fully severed. The dead
+    go without passage. Sets up the existential crisis of the Ironclaw —
+    a people cut off from their ancestors, fighting without the faith
+    that defined them. Series thread.
+
+Continuity checks:
+  - Skrixx's charges: blew the secondary barricade in Ch.23 (ninth bell).
+    Thokk arrives at the crater afterward. Consistent ✓
+  - Krogan's scalp wound: reopened for third time. Original Day 2,
+    stitched with black gut, torn open repeatedly. Consistent ✓
+  - Gharza: unwounded through six days. Scar chin to ear. Axe.
+    Consistent across Ch.8/12/16/20 ✓
+  - Malga's arm: poisoned since Day 2. Black veins visible on Day 5
+    (Ch.20). Shamans took the arm at dawn Day 6 — poison past shoulder.
+    Death follows. Consistent progression ✓
+  - Ironclaw dead: 293 before Day 6 (Ch.20 count). Day 6 adds more —
+    eleven in blast zone, plus morning assault casualties, plus building
+    clearing. Numbers climbing consistently ✓
+  - Food: three days on Day 5 (Ch.20). Now effectively one day or less.
+    Consistent ✓
+  - Revenants: 500 (Ch.16), used in avenue on Day 5 (Ch.20). Now in
+    reserve behind the assault. Consistent ✓
+  - Grimtusk's staff: taking more weight each day. Milky grey eyes.
+    Copper-capped tusks. Forty years of service. Consistent ✓
+  - The locked room: metaphor for Thokk's emotional containment.
+    Used consistently across all Thokk chapters ✓
+  - Wolf knuckle: warm on Day 1, cooling through Days 2-4, cold on
+    Day 5 (Ch.20). Still cold. Consistent ✓
+  - Old Warlord's skull: at belt throughout. Empty eye sockets. The
+    chain metaphor. Consistent ✓
+  - "Da fuses don't take orders": Skrixx's line from Ch.20 (Day 5).
+    Repeated here as callback. Consistent ✓
+  - "The children needed to eat": Thokk's driving motivation. Present
+    in every Thokk chapter. Consistent ✓
+  - Ghar-rukk: "the wound that builds the wall." Named in Ch.20,
+    referenced here as Thokk passes through the forge-shop. Consistent ✓
+  - Human commander at 347 effective (Ch.22). Defenders visibly
+    undermanned by mid-Day 6. Consistent ✓
+  - Drekkha: new character, Malga's second, inherits vanguard command.
+    Introduced here for the final push ✓
