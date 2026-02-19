@@ -865,3 +865,106 @@ Continuity checks:
     Thokk's perspective but thematically resonant ✓
   - Human casualty estimate (200+) roughly aligns with Stoneveil's actual losses in Ch.6 ✓
   - Stonehaven referenced: matches Ch.2 and Foreshadowing doc ✓
+
+[2026-02-19 02:30] CHAPTER 9 — THE FIRST RITES — Phase 3, Task 4
+
+Wrote: Book 1/Chapters/09 - The First Rites.md
+
+POV: Inquisitor Adept Kael Veyne
+Setting: Triage stations in the Anvil District (middle ring), the secondary gate, the Cathedral
+  of Tyr's Judgment. Day 2, during and after the first full assault.
+Target: 3,000-4,000 words. Estimated ~3,800 words written.
+
+Chapter covers:
+  - Kael arrives at the triage stations established overnight in the Anvil District. Three
+    stations along the main road between the secondary gate and the Hall of the Fallen.
+  - The smell and texture of the triage stations: fresh blood, cautery, surgeon's wash,
+    field medicine in wartime conditions.
+  - FIRST RITES: Kael administers the Rite of Last Passing to seven dead throughout the day.
+    Named dead: Brennan (Corporal, 6th section, gate garrison), Dask, Harwell, Torren,
+    Pvt. Anneke Marsh, one unidentified, and the boy.
+  - THE BOY: Fifteen-year-old auxiliary, arrow through the chest. Dies holding Kael's hand.
+    His last word is "mum" — shaped by lips that can no longer produce sound. Kael speaks
+    the Rite over him while the boy calls for his mother and neither prayer reaches anyone.
+    The weight of this settles behind Kael's ribs.
+  - Kael moves to the secondary gate between middle and outer ring. Blesses wounded soldiers
+    as they pass — the Ward of the Threshold. Most do not look at him. One Legionnaire
+    does — the raw, undressed need of a man who wants the words to be true.
+  - THE SOLDIER: A Legionnaire from the gate garrison, evisceration wound, dying slowly and
+    with discipline. He asks for the Rite. As Kael speaks the Last Passing, the soldier
+    speaks the Soldier's Invocation — the two prayers overlap, collide, both dissolving
+    into the air that takes everything. The soldier dies with Kael's words on his lips.
+    The prayer did not save him.
+  - "This is Tyr's will": Kael deploys the trained response, the mechanism the curriculum
+    installed for exactly this circumstance. The key turns. The lock opens. But the door
+    behind it reveals the boy — fifteen, the hand going slack, "mum." He closes the door.
+  - Return to the Cathedral at dusk. Evening prayer in the seventh alcove. Kael confesses:
+    the Rite felt hollow. The words did not carry the weight he was trained to believe they
+    carry. A boy died with his mother's name and Kael's prayer occupying the same air and
+    neither changed the outcome.
+  - THE GROUND SHIFTS: Not a crack. Not a fracture. A settling — the weight of a day's
+    dead pressing on a foundation that has never been tested by this particular load.
+    The faith holds. The architecture holds. The silence is presence, not absence.
+    But the ground has shifted. Slightly.
+
+Voice notes:
+  - Formal, liturgical prose maintained: Kael's inner monologue structured like prayer
+    (petition, confession, assessment) — consistent with Ch.5.
+  - Sentences long, complex, with subordinate clauses mirroring theological reasoning.
+  - The distinction between "offered" and "recited" prayer from Ch.5 deepened: at the
+    gate, Kael blesses soldiers and the blessings are mechanical, automatic — not offered.
+  - The boy's death scene is the chapter's emotional centre. Quiet, devastating. The word
+    "mum" does the work — not theology, not rhetoric, just a child calling for his mother.
+  - The soldier's Invocation layered over the Rite creates a structural collision: two
+    forms of prayer, one institutional and one personal, both failing to reach their
+    audience. The effect is not harmony but collision.
+  - "This is Tyr's will" — the trained mechanism deployed and examined. Kael sees it
+    working, feels it working, and for the first time notices what it is: a mechanism.
+    The noticing is the shift.
+  - The ground-shift metaphor: not a crack, not a fracture. A settling. Consistent with
+    Ch.5's "yet" — the word that lived beneath the prayer. Now the ground beneath the
+    "yet" has moved.
+
+Foreshadowing planted:
+  - The boy auxiliary (15yo): seeds the path toward Ch.21 (Kael's Failed Healing) where
+    a child dies and faith fractures. The boy in Ch.9 is the rehearsal — the weight that
+    begins the settling. The child in Ch.21 will be the weight that cracks.
+  - "This is Tyr's will" as mechanism: Kael notices the trained response functioning as
+    machinery rather than faith. This awareness deepens in Ch.13 when Marrow shows what
+    the mechanism becomes when compassion is removed.
+  - The Soldier's Invocation: the simpler, blunter prayer of the military. Contrasts with
+    Kael's formal Rite. Seeds the question of whether the simple prayer is more honest
+    than the elaborate one — a question Ch.13 and Ch.21 will press.
+  - Triage stations in the Anvil District: the Hall of the Fallen and its surrounding
+    stations will be the site of future chapters' wounded scenes.
+  - Kael's confession in the evening prayer: "the Rite felt hollow" — the first time
+    he has spoken this to the silence. The confession is structural: it opens a channel
+    between doubt and prayer that will widen.
+
+Continuity checks:
+  - Kael's rank: Inquisitor Adept ✓ (matches Ch.5 and POV Characters)
+  - Cathedral geography: nave, seventh alcove, Seventh Tenet, Bell of Penance, Shrine
+    of the Martyrs, Sister Reva Caelum polishing plaques ✓ (all match Ch.5)
+  - Black robes, silver embroidery: consistent with Ch.5 ✓
+  - The silence: described with same vocabulary — "vast and patient and absolute" ✓
+  - "It did not trouble him": recurring phrase from Ch.5, now paired with "the ground
+    had shifted" rather than "yet" — progression maintained ✓
+  - Secondary gate: matches Ch.4 (November passed through it) and Ch.7 (composite
+    unit came through it) ✓
+  - Triage stations in the middle ring (Anvil District): matches Ch.5 reference to
+    triage stations being established ✓
+  - Wounded flow: matches Ch.5 (Kael watched from the Cathedral's western transept
+    windows) and Ch.6 (27 dead, 41 wounded on Day 2) ✓
+  - Gate garrison soldiers among the wounded: consistent with Ch.6 and Ch.7 ✓
+  - Surgeons and field medicine: consistent with worldbuilding — practical medicine,
+    not divine healing ✓
+  - Kael's evening prayer: same structure as Ch.5 — location (seventh alcove), the
+    cold floor, the kneeling, the silence ✓
+  - Edric Thane: referenced once (the boy is younger than Edric, age comparison) —
+    Kael's awareness of his nephew maintained without overstatement ✓
+  - Timeline: Day 2, during and after the first assault ✓ (concurrent with Ch.6-8)
+  - Bombardment sounds: consistent with Ch.5 and Ch.6 — distant percussion through
+    the Inner Ring, fainter through the middle ring ✓
+  - Ironbound Guard at Inner Gate: consistent with Ch.5 (still not deployed) ✓
+
+Phase 3 COMPLETE. All four Day 2 chapters (Ch.6-9) finished. Ready for Phase 4.
