@@ -1175,3 +1175,110 @@ Continuity checks:
     November stands extra shifts ✓
   - Widow callback: "sat with Edric the way he sat with the widow" — Ch.1 echo ✓
   - Timeline: Day 3, concurrent with Ch.10 (Stoneveil POV) ✓
+
+[2026-02-19 05:30] CHAPTER 12 — THE PRICE OF FEEDING — Phase 4, Task 3
+
+Wrote: Book 1/Chapters/12 - The Price of Feeding.md
+
+POV: Warlord Thokk Ironhide
+Setting: The Ironclaw camp on the ridge above Emberfall, Day 3 — the grinding.
+Target: 3,000-4,000 words. Estimated ~3,600 words written.
+KEY MOMENT: #7 Part 2 — Thokk's Death Rites (continued)
+
+Chapter covers:
+  - SUPPLY CRISIS: Food running out faster than projected. Twelve days of supplies
+    half-consumed in three days. Quartermaster Durra delivers the arithmetic: six
+    days at march ration, four at combat ration. Thokk orders the cut to march ration.
+    Durra warns that march-fed fighters break under siege-level exertion.
+  - WAR-CHIEFS COUNCIL (midday, cold fire — fires banked to conserve fuel):
+    * Total Ironclaw dead after Day 3: 167. Effective strength: 1,033.
+    * Total goblin dead: 49. Effective strength: 751.
+    * Revenants: 500, untouched.
+    * Krogan reports probing attacks cost 22 orc dead on Day 3. Humans adapting —
+      shorter watches, more men on wall at any time, grinding their own people down.
+    * Malga reports rune-wards dimming — eastern bastion nearly dark, one more day
+      to spend the ward matrix. Her wounded arm worsening.
+    * Gharza reports sappers 40 feet under western wall, past the sealed section.
+      Humans doubled listening teams but don't know how close goblins are.
+    * Thokk orders coordinated breach: eastern wards go dark and western wall goes
+      down in the same hour.
+  - SKRIXX DEMANDS: Jawbreaker arm cracked again — green timber from valley floor
+    flexing under load. Needs seasoned timber. Thokk orders palisade timber stripped
+    (camp doesn't need walls — they're attacking, not defending). Alchemist's fire at
+    40% — reduced bombardment rate from 6 loads/hour to 3-4. Skrixx told his payment
+    for breaking the wall is the city's supply stores. "Ya eat what ya kill."
+    Skrixx reports human commander repositioned ballista to target engines over ladders —
+    recognizes the commander as smart and desperate.
+  - THE RECOGNITION: Thokk alone on the ridge, watching the wall. Sees the defenders'
+    desperation has changed from Day 1's white-hot resistance to Day 3's cold,
+    grinding endurance. Recognises it because it lives in him. Theme #2 (The Enemy
+    is a Mirror) deepened: the human commander is not an enemy to be respected — he is
+    a reflection. If Thokk had been born human, he would be on that wall. If the human
+    commander had been born orc, he would be on this ridge. The recognition unsettles
+    him because it strips the difference down to geography.
+  - THE PRICE: The children at Bloodtide Bay. His wife's last words. The price of
+    feeding is the warriors spent to break the wall so the wall's stores can feed
+    children who will never see the blood that paid for their bread.
+  - Final image: Thokk walks down the ridge. The dark comes in behind him. The children
+    needed to eat.
+
+Voice notes:
+  - Blunt, declarative orcish cadence maintained: short muscular sentences, "da" for
+    "the", "dat" for "that", "dey" for "they" — consistent with Ch.2 and Ch.8.
+  - Thokk sits with the War-Chiefs instead of standing — a deliberate shift in
+    authority posture that signals the grinding phase has changed the council's dynamic.
+  - Quartermaster Durra introduced: old she-orc, forty years of feeding armies, does
+    not blink at Warlords. Adds depth to orc camp logistics.
+  - Skrixx characterisation deepened: insolent, effective, the calculation always
+    running. "Do ya see da problem, Blood-Chief, or should I draw it?" — the goblin
+    who is too useful to discipline.
+  - The mirror theme given its fullest articulation: not respect (Stonehaven/dwarves)
+    but recognition — the understanding that the difference between the two commanders
+    is position, not character.
+  - Emotional register matches Themes Day 3: exhaustion, numbness, the grinding weight.
+
+Foreshadowing planted:
+  - Eastern bastion wards one day from failing: sets up Ch.14 (outer ring falls, Day 4).
+    Thokk orders coordinated breach — eastern wards dark + western wall collapse.
+  - Skrixx told his payment is the city's supply stores: seeds his survival instinct
+    and his motivation to escape with goblin forces when the siege fails (Ch.25).
+  - Ballista repositioned to target engines: confirms Stoneveil's tactical shift from
+    Ch.10 (redirecting ballista to cut supply lines).
+  - Supplies at six days march ration: the timeline pressure intensifying.
+  - Palisade stripped for timber: camp becoming less defensible, commitment to offense.
+  - Revenants still untouched at 500: the reserve that Thokk refuses to deploy until
+    the wall breaks. Seeds their eventual use in later chapters.
+  - "Da enemy is a mirror": the thematic line given voice, deepening toward Ch.25 where
+    Thokk and Stoneveil meet and the mirror becomes two men trying to kill each other.
+
+Continuity checks:
+  - Ironclaw losses: 145 (Day 2) + 22 (Day 3) = 167 total dead. Effective: 1,033 ✓
+    (consistent progression from Ch.8)
+  - Goblin losses: 31 (Day 2) + 18 (Day 3) = 49 total dead. Effective: 751 ✓
+  - Revenants: 500, untouched ✓ (matches Ch.2 and Ch.8)
+  - War-Chiefs: Malga, Krogan, Gharza, Urzag — all present, consistent with Ch.2
+    and Ch.8 characterisation ✓
+  - Malga: wounded arm from Day 2, worsening. Left ear missing. Vanguard. ✓
+  - Krogan: scalp wound stitched, eldest son dead (from Ch.8). Deep voice. ✓
+  - Gharza: unwounded (western approach = pressure, not assault). Split jaw scar. ✓
+  - Urzag: sends runner, minimal words ✓
+  - Grimtusk: referenced through cracked wolf knuckle in Thokk's pouch ✓
+  - Skrixx: burns, copper eyes, insolent, smoke-smell. Jawbreaker arm cracked ✓
+    (same fracture from Ch.8, timber repair)
+  - Rune-wards: eastern bastion nearly dark, consistent with Ch.10 (Stoneveil's
+    assessment: "one day") and Ch.11 (November/Edric see wards fading) ✓
+  - Western tunnels: sappers 40 feet under, past sealed section. Matches Ch.10
+    (Stoneveil's listening posts detect vibrations at 30-40 feet) ✓
+  - Supply rates: alchemist's fire at 40% matches Ch.10 (Stoneveil's 36% assessment
+    from defender side — both sides tracking the same depletion) ✓
+  - Ballista on tower three: repositioned per Ch.10 ✓
+  - Probing attacks: constant, shifting pressure matches Ch.10 and Ch.11 ✓
+  - Human commander recognised as smart: matches Skrixx's Ch.8 assessment of the
+    wall's defenses ✓
+  - Thokk's skull at belt: consistent with Ch.2 and Ch.8 ✓
+  - Cracked wolf knuckle: in pouch beside skull, consistent with Ch.8 ✓
+  - Seven: referenced but not dwelt on, consistent with progression ✓
+  - "Da children needed to eat": wife's last words, recurring motif from Ch.2 ✓
+  - Stonehaven referenced: consistent with Ch.2 and Foreshadowing doc ✓
+  - Forge-smoke/industrial haze: consistent with all previous chapters ✓
+  - Timeline: Day 3, concurrent with Ch.10 (Stoneveil) and Ch.11 (November) ✓
