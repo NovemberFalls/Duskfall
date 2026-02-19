@@ -2249,3 +2249,110 @@ Continuity checks:
   - Day 5 timeline: consistent with Ch.18, Ch.19, Ch.20 ✓
   - Anvil District geography: triage stations, barricades, dormitories — all
     consistent with established layout ✓
+
+[2026-02-19 15:30] CHAPTER 22 — THE LAST WALL — Phase 7, Task 1
+
+Wrote: Book 1/Chapters/22 - The Last Wall.md
+
+POV: Stoneveil
+Setting: The Anvil District (middle ring), Day 6 — Dawn.
+Target: 3,000-4,000 words. Estimated ~3,400 words written.
+
+Chapter covers:
+  - OPENING — THE COUNT: Stoneveil reads Veyne's report at the fourth bell.
+    Effective strength: 347. The night assault at the second bell cost 133
+    defenders. The secondary barricade held — Dorran's engineering and the
+    crossfire positions functioned as designed. Stoneveil files the number
+    and keeps moving. Left hand tremor is worse in the mornings.
+  - VEYNE'S BREAKDOWN: 209 combat-effective on the line, 41 walking wounded
+    in reserve rotation, 62 at secondary barricade/flanking positions, 23 in
+    observation posts/runner network, 12 war-mages (3 on residual — one or
+    two engagements before burnout). 51 wounded in triage, 14 will die
+    regardless. Medical supplies reduced to "boiled cloth and willpower."
+  - BLACKTHORN'S REFUSAL: Runner returned. Lord Commander Blackthorn
+    acknowledges the situation but will not release reserves. "The Emberheart
+    must hold. All other positions are expendable." Stoneveil recognizes this
+    as his own doctrine — concentric ring sacrifice — designed at Ashgate.
+    The numbers work. The numbers are the worst part.
+  - THE FINAL REPORT: Stoneveil dictates the last report to Veyne. Effective
+    strength 347. Bolts at 18%, arrows at 22%. No alchemical reserves. Food
+    for one day. Water stable. "The Anvil District will hold until it falls.
+    There will be no withdrawal. No further reports will be sent."
+  - WALKING THE LINE: Stoneveil inspects positions at dawn. The smoke-filtered
+    sky is bruise-coloured. Northern barricade held overnight but timber
+    bracing is splintered. Corporal Tesswin commands 11 soldiers at a position
+    designed for 30. Position Three (armourer's shop, double chimney) has a
+    crossbow team of 4 in an elevated chimney position that will collapse if
+    hit. Position Seven (residential ruin with the child's drawing) holds 6,
+    two walking wounded. Stoneveil does not look at the drawing.
+  - THE CHARGES: Stoneveil and Dorran discuss Skrixx's demolition charges
+    under the secondary barricade — three positions, goblin compound, accessed
+    through old sewer system. Cannot disarm without goblin sapper expertise.
+    Cannot flood tunnels without compromising water supply and building
+    foundations. Stoneveil orders a listening team in the tunnel access.
+    Contingency: if the barricade blows, fall back to the dormitory wall.
+    Dorran's assessment: "That's not a wall, Warden. That's a suggestion."
+  - THE ADDRESS: Stoneveil gathers approximately 200 soldiers in the street
+    outside the Black Anvil. Not a speech — facts. No reserves. No relief.
+    No reinforcements. "I won't tell you we'll win." The Anvil matters to
+    the wounded, the civilians, the people who cannot hold swords. "We hold
+    this ground. Not because we can win. Because this is where we are and
+    there is no other place to go." When positions fall, fall back. Hold the
+    next. Then the street. Then the rubble. "There is no speech for this.
+    You don't need one." He steps down. "Man your positions." They go. No
+    cheers. No salutes. Functional silence.
+  - CLOSING — THE TREMOR: Stoneveil returns to the forge. Places both hands
+    on the anvil. The forty-three press at the locked door. He presses back.
+    The left hand tremor won't stop. He keeps pressing anyway.
+
+Voice notes:
+  - Stoneveil's military precision maintained — sentences disciplined,
+    thoughts in tactical terms. Numbers, angles, positions.
+  - The cracks show in what he doesn't think about: the forty-three are
+    pushed away twice, the child's drawing is deliberately not looked at.
+  - The address is anti-theatrical — no rhetoric, no inspiration. Facts
+    delivered with density, not volume. This is Stoneveil's voice: stone
+    carrying weight through density.
+  - The left hand tremor bookends the chapter: opens with it pressed against
+    the anvil, closes with it pressed and failing to stop.
+
+Foreshadowing planted:
+  - Skrixx's demolition charges: the ticking clock beneath the barricade.
+    Three charges in the sewer system, fused for simultaneous detonation.
+    Stoneveil knows about them now but cannot disarm them. Sets up the
+    barricade collapse for Chapter 23.
+  - Blackthorn's expendability doctrine: "All other positions are expendable."
+    Seeds resentment and the political consequences for future books.
+  - Captain Isolde Veyne: continues to appear as the reliable constant.
+    Her presence is structural — she survives, positioned for Book 2.
+  - Three-front assault massing: north, east, and the orcs digging at the
+    western seal. Sets up the Day 6 final assault across Ch.23-25.
+  - War-mages on residual: 3 of 12 near burnout. Limited magical support
+    remaining.
+  - Corporal Tesswin: a new face given specificity (young, voice of a woman
+    twice her age, gate guard three days ago, now commanding 11). Shows the
+    siege's toll on command structure — junior soldiers in senior roles.
+
+Continuity checks:
+  - Effective strength: 480 (end of Ch.18/Day 5) → night assault costs 133 →
+    347 effective. Consistent with the massing on the northern approach
+    reported at end of Ch.18 ✓
+  - Left hand tremor: persistent since Ch.14, worse in mornings. Consistent ✓
+  - Right hand: callus crusted over, functional. Consistent ✓
+  - Veyne: hasn't sat down since Day 3, same flat precision. Consistent ✓
+  - Dorran: engineers built secondary barricade, reliable presence. Consistent ✓
+  - Supply status: degraded from Ch.18 levels (bolts 39%→18%, arrows 43%→22%,
+    alchemy spent, food further reduced). Consistent with 5+ days of siege ✓
+  - Black Anvil forge: warped anvil, cracked chimney, grey-orange light
+    through the gap. Consistent with Ch.14 and Ch.18 ✓
+  - The forty-three: children killed in the firebombing, pressing at the
+    locked door. Consistent with Ch.14/18 ✓
+  - Blackthorn's non-response: escalation from previous chapters' silence.
+    Now explicitly stated: expendable. Consistent ✓
+  - Position Three (armourer's shop, double chimney): consistent with Ch.18
+    description (one chimney collapsed by bombardment) ✓
+  - Position Seven (child's drawing): consistent with Ch.18 ✓
+  - Sewer charges: Skrixx's tunnel plan from Ch.20 (Thokk POV) now discovered
+    by Dorran's engineers. Cross-POV continuity maintained ✓
+  - Ashgate reference: 420 survivors from 1,100 defenders. Consistent with
+    POV Characters doc ✓
