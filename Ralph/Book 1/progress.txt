@@ -1737,3 +1737,116 @@ Continuity checks:
   - Garrison strength: Ch.14 gives 512 human effective — Thokk would not know exact
     number but recognizes reduced strength. Consistent.
   - Timeline: Day 4, Phase 5 (Part Four: The Break) ✓
+
+[2026-02-19 10:30] CHAPTER 17 — THE CRACKING — Phase 5, Task 4
+
+Wrote: Book 1/Chapters/17 - The Cracking.md
+
+POV: Inquisitor Adept Kael Veyne
+Setting: The Anvil Gate, the Anvil District (middle ring), the Cathedral of Tyr's Judgment, Day 4 — the break.
+Target: 3,000-4,000 words. Estimated ~4,200 words written.
+
+Chapter covers:
+  - REFUGEES FLOOD THE MIDDLE RING: Outer ring civilians pour through the Anvil Gate.
+    Kael stations himself at the gate passage to administer the Ward of the Threshold.
+    Children first — fastest, smallest bodies. A girl of six with a cloth doll stops in
+    front of him. He blesses her. The blessing does nothing. She walks past.
+  - TWO HOURS OF BLESSING: Kael counts them — 43 children, 17 women, 22 civilians
+    who defy categorisation, uncountable wounded. He blesses every one. The Ward of
+    the Threshold repeated until the words lose individual weight and become mechanical.
+    The prayers are "losing their form" — the faith-substance inside the words is
+    thinning with each repetition, like metal pressed to foil.
+  - THE WOMAN'S QUESTION: A woman walks beside a stretcher bearing her dying husband.
+    She stops in front of Kael and asks: "Why does your god allow this?" Kael begins
+    the trained answer (Module Seven, Theodicy and the Faithful Response). She cuts
+    through it: "Will the counting save him?" Kael says "No" — the raw syllable before
+    the training can intercept it. She asks: "Then what are you for?" Kael does not
+    answer because the trained answer is hollow and he can hear the hollowness now.
+  - The hollowness becomes audible — Kael can hear it in every repetition of the Ward,
+    in the Rite, in every formula. The vessel is cracking. The words contain nothing.
+  - EDRIC ON THE BARRICADE: Kael walks to the northern wall. Sees Edric at the
+    hastily assembled barricade — recognises him by the nervous, too-fast hand motions,
+    the bird-like head movement, the blacksmith's son's instinct with metal. November
+    Falls is beside him at the barricade — the civilian with the borrowed sword.
+  - THE THIRTY PACES: Kael calculates whether to pull Edric off the line. He has
+    the institutional mechanism — the spiritual assessment protocol, the Inquisitorial
+    override. He could invoke it. Save his nephew. His sister's letter: "Keep him safe,
+    Kael. You put him there." But pulling Edric would be CORRUPTION — the exact thing
+    the Inquisition exists to hunt. The officer who promotes his son. The magistrate
+    who dismisses his brother's charges. Marrow's voice: "Compassion is not a principle."
+  - Kael does not cross the thirty paces. Does not speak Edric's name. Instead,
+    blesses him from across the street — the Ward of the Threshold directed at his
+    nephew. Edric sees him, recognises him, almost smiles. The boy nods — understanding
+    that the uncle cannot cross. The blessing is the only bridge between them.
+  - Both hands trembling afterward. The crack is already here.
+  - CATHEDRAL — THE NOT-KNEELING: Kael returns at dusk. Does not bless anyone on
+    the walk. The woman's question is louder than any answer. Stands before the
+    seventh alcove but DOES NOT KNEEL — first time in twenty-eight years. The silence
+    is no longer patience or weight or loudness but something vocabulary does not serve.
+  - Confession without kneeling: "I blessed a hundred people. The blessing did nothing.
+    A woman asked what I am for. I saw my nephew on the wall. I could have pulled him
+    off. I did not. I gave him a hollow thing because the full thing was forbidden."
+  - THE CRACKING: Not the faith cracking — the container cracking. The institutional
+    framework of prayers, rites, blessings, formulas. The faith is water inside a
+    vessel, and the vessel is cracking, and the water is moving toward the cracks.
+  - First time Kael wonders if the problem is not his thumb on the Scales but the
+    possibility that the Scales themselves are broken.
+  - Final image: Kael standing (not kneeling) in the seventh alcove. Sister Reva's
+    polishing has stopped. The Bell of Penance unrung. The not-kneeling IS the crack.
+    The ground is moving.
+
+Voice notes:
+  - Formal, liturgical prose continues to degrade. Sentences run longer, subordinate
+    clauses multiply further. The architecture holds but strains visibly.
+  - The "mechanism" metaphor reaches new stage: the mechanism produces words, the words
+    are hollow, the hollowness is audible. The trained responses are now explicitly
+    identified as insufficient.
+  - Prayer structure further deteriorated: on Day 1 Kael prayed with structure. Day 2
+    the ground shifted. Day 3 the silence troubled him. Day 4 he does not kneel. The
+    progression is: intact → shifting → troubling → refusing.
+  - The woman's question ("Then what are you for?") serves as the chapter's structural
+    pivot — everything before it is mechanism functioning; everything after is mechanism
+    failing.
+  - The water-in-a-vessel metaphor introduced: faith is the water, the institution is
+    the container. The container cracks, the water seeks the cracks. This distinguishes
+    between faith (still present) and the framework (breaking).
+
+Foreshadowing planted:
+  - The not-kneeling: First refusal of the ritual form. Seeds Ch.21 where the prayer
+    actively fails (the child's death) and the framework shatters.
+  - Edric on the barricade beside November: Their positions established for Day 5-6.
+    Kael's inability to pull Edric off the line seeds Ch.23 (Edric's death) and the
+    devastating aftermath where Kael must perform rites over a boy he chose not to save.
+  - "The Scales themselves are broken": The most radical theological question yet.
+    Seeds the series-arc question about why the gods left.
+  - Sister Reva's polishing has stopped: The constant sound that grounded every Kael
+    chapter (Ch.5, Ch.9, Ch.13) ceases. Symbolic — the maintenance of the old order
+    is ending.
+  - The woman's husband "blessed his sword in your cathedral" — the institutional
+    promise of protection shown to be hollow. Faith as contract, broken.
+  - Forty-three children counted by Kael (unknowingly echoing Stoneveil's forty-three
+    from the Anvil firebombing) — thematic parallel, not causal.
+
+Continuity checks:
+  - Kael's rank: Inquisitor Adept ✓
+  - Cathedral geography: nave, seventh alcove, Seventh Tenet, Bell of Penance,
+    Sister Reva, Shrine of the Martyrs — all consistent with Ch.5, Ch.9, Ch.13 ✓
+  - Black robes, silver embroidery: consistent ✓
+  - The silence progression: Ch.5 "yet" → Ch.9 ground-shift → Ch.13 "troubles me"
+    → Ch.17 does not kneel — consistent deepening ✓
+  - Ward of the Threshold: same formula as Ch.9 — "Tyr's judgment shield thee.
+    Tyr's mercy sustain thee. Pass and be counted." ✓
+  - Marrow's philosophy quoted: "Compassion is not a principle" — matches Ch.13 ✓
+  - Edric's description: brown eyes, too-wide, fast hands, blacksmith's son —
+    matches Edric Thane character sketch and Ch.7, Ch.11, Ch.15 ✓
+  - November described at barricade: no armour, borrowed sword, wrong posture —
+    consistent with all November chapters ✓
+  - Sister's letter mentioned (Kael pulled strings for Edric's garrison assignment)
+    — consistent with POV Characters doc and Edric Thane sketch ✓
+  - Anvil Gate as retreat passage — consistent with Ch.14, Ch.15 ✓
+  - Triage stations expanding — consistent with Ch.14 ✓
+  - Veilfire residue motif not repeated (appropriate — Kael is no longer preparing
+    consecration oils, he is in the field)
+  - Timeline: Day 4, Phase 5 (Part Four: The Break) ✓
+
+Phase 5 COMPLETE. All four Day 4 chapters (Ch.14-17) finished. Ready for Phase 6.
