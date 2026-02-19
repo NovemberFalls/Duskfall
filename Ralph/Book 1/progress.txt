@@ -968,3 +968,107 @@ Continuity checks:
   - Ironbound Guard at Inner Gate: consistent with Ch.5 (still not deployed) ✓
 
 Phase 3 COMPLETE. All four Day 2 chapters (Ch.6-9) finished. Ready for Phase 4.
+
+[2026-02-19 03:30] CHAPTER 10 — THE MATHEMATICS OF BLOOD — Phase 4, Task 1
+
+Wrote: Book 1/Chapters/10 - The Mathematics of Blood.md
+
+POV: Warden Alric Stoneveil
+Setting: The Sundered Gate, the Iron Marches, Emberfall. Day 3 — the grinding.
+Target: 3,000-4,000 words. Estimated ~3,900 words written.
+
+Chapter covers:
+  - Dawn assault: Day 3 arrives not with a single blow but with grinding, erosive pressure.
+    The orc commander shifts from full assaults to probing attacks — constant, shifting,
+    testing each section of wall to discover its price.
+  - Stoneveil manages rotations, shortening watches from 4 hours to 3 to maintain wall
+    coverage. The cost: less rest for men already at their limits.
+  - Eastern wall: three scaling attempts before midday, Ironborn holding the patch and
+    the join. Probing attacks test different points each time — the enemy is learning.
+  - Western flank: quiet on the surface. Listening posts detect vibrations consistent
+    with excavation — the goblin sappers are advancing underground. Stoneveil doubles
+    the listening teams.
+  - THE TRIAGE DECISION: forty-three wounded in the triage stations (number echo from
+    the Anvil). Twelve critical — eight can return to the wall with treatment, four
+    are terminal. Stoneveil orders: treat the eight, comfort care only for the four.
+    Every triage manual confirms it. Every officer would confirm it. The decision is
+    correct. The decision orders four men to die.
+  - Supplies dwindling: arrows at 51%, bolts at 43%, alchemy at 36%, oil at half-rations
+    with two days remaining. Grain ration reduced by a third.
+  - Rune-ward degradation: gate wards at 61%, eastern bastion at 44%. Eastern bastion
+    wards estimated to fail in one day. Gate wards in two to three.
+  - Afternoon assault: harder than the morning. Coordinated ladder attacks on three
+    points of the eastern wall. Stoneveil redeployments hold. Eleven dead.
+  - Day 3 total: eighteen dead. Effective garrison at 770.
+  - Stoneveil projects: at current attrition rate, critical failure in four to five days.
+  - Blackthorn: no communication. Ironbound Guard still not deployed.
+  - THE BODIES IN THE THROAT: Stoneveil has not ordered the dead cleared from the
+    Veil's Throat. The bodies slow the ram crews. The dead are obstacles. The dead are
+    a resource. The line between decisions made and consequences permitted.
+  - He eats standing up. Salt meat. Sword still in hand. Hasn't slept (~50 hours).
+    Left hand trembles when holding the water cup. Right hand (sword hand) steady.
+    The difference between the man and the machine.
+  - Final image: Stoneveil on the rampart in the dark, the math running behind his
+    eyes, the wards dimming, the night continuing.
+
+Voice notes:
+  - Military precision maintained: controlled, measured, disciplined sentences.
+  - Stoneveil's POV thinks in ledger terms — the siege as accounting, each decision an
+    entry, each casualty a debit. The "mathematics of blood" as the chapter's central
+    metaphor.
+  - The machine motif deepened: the defensive system as a machine, Stoneveil as the
+    operator, the man being consumed by the machine's function. The left-hand tremor
+    is the man; the steady sword hand is the machine.
+  - The triage decision is the chapter's moral center — correct by every measure, and
+    the weight of it sits behind his ribs alongside everything else he carries.
+  - The distinction between ordering and permitting: the dead in the Throat, the four
+    men in triage, the line Stoneveil walks between what he commands and what he allows.
+  - Day 3's emotional register: exhaustion, numbness, the grinding weight per Themes doc.
+    "The realization that this won't end quickly."
+
+Foreshadowing planted:
+  - Western tunnel vibrations: sappers advancing underground, confirming Skrixx's timeline
+    from Ch.8 (wall comes down day four or five). Stoneveil cannot confirm their depth
+    or progress — the uncertainty is the threat.
+  - Rune-ward countdown: eastern bastion one day from failure, gate two to three days.
+    Sets up the outer ring falling on Day 4 (Ch.14).
+  - Supply countdown: oil two days, arrows/bolts declining. The wall's killing power
+    is depleting alongside its defenders.
+  - Blackthorn's continued silence: the political failure deepening. Ironbound Guard
+    still at the Gauntlet Grounds.
+  - Veilfire Spire green-blue flames brighter than yesterday — Raventhorne doing
+    something that intensifies as the siege does.
+  - Probing strategy: the orc commander is grinding, not assaulting. The shift in
+    enemy tactics signals a commander who has adapted and is now fighting a siege of
+    attrition rather than assault.
+  - Four men dying under triage order: seeds the moral weight Stoneveil carries into
+    Ch.14 (leaving wounded behind during retreat) and Ch.18 (standing in Blackhand's
+    forge, the forty-three returning).
+
+Continuity checks:
+  - Stoneveil's rank: Warden ✓
+  - Starting garrison from Ch.6: 809 effective → accounting for overnight losses, Day 3
+    opens at 791 → Day 3 losses bring total to 770 ✓
+  - Captain Isolde Veyne: beside him, slate, stylus, precise reports ✓ (consistent
+    with Ch.3 and Ch.6)
+  - Rune-wards: dimmer than yesterday ✓ (progressive from Ch.3 → Ch.6 → Ch.10)
+  - Eastern wall patch: identified as weak point across Ch.2, Ch.3, Ch.6 ✓
+  - Western tunnels: sealed in Ch.3, sappers clearing debris per Ch.8 (Skrixx),
+    listening posts detecting vibrations ✓
+  - Blackthorn's dispatch: referenced, Ironbound Guard still uncommitted ✓
+  - Supply rates: arrows 70% → 58% → 51%, bolts 60% → 47% → 43%, alchemy 55% → 40% → 36%
+    — consistent declining trajectory ✓
+  - Salt meat at the parapet: Stoneveil eating standing up ✓ (recurring detail from
+    Ch.3 and Ch.6)
+  - "You watch what you order": Stoneveil's rule from the Prologue ✓
+  - Forty-three echo: from the Prologue (children), Ch.6 (orc dead in Throat),
+    now in triage station (wounded requiring care) ✓
+  - Left-hand tremor: new detail, consistent with ~50 hours without sleep ✓
+  - Sword in hand: hasn't sheathed since the morning ✓ (matches PRD requirement)
+  - Forge-smoke/industrial haze: consistent ✓
+  - Veil's Throat dead: bodies accumulating from Ch.6, not cleared ✓
+  - Timeline: Day 3 ✓ (follows Day 2 chapters)
+  - Veilfire Spire: green-blue flames brighter ✓ (progressive from Ch.3 and Ch.5)
+  - Lieutenant Grieve: eastern section commander ✓ (introduced in Ch.6)
+  - Sergeant Dorran: western section ✓ (introduced in Ch.6)
+  - Runners: consistently young, too young, same characterization ✓
