@@ -359,3 +359,77 @@ Continuity checks:
   - Timeline: Day 1, assault planned for dawn (matches Ch.3-4 sequence) ✓
   - Tone: grimdark but not nihilist. Thokk is humanized. Reader should understand
     his desperation before the first arrow flies. ✓
+
+[2026-02-18 28:00] CHAPTER 3 — THE SUNDERED GATE — Phase 2, Task 4
+
+Wrote: Book 1/Chapters/03 - The Sundered Gate.md
+
+POV: Warden Alric Stoneveil
+Setting: The Sundered Gate, the Iron Marches, Emberfall. Day 1, before the siege opens.
+Target: 3,000-4,000 words. Estimated ~3,800 words written.
+
+Chapter covers:
+  - Stoneveil stands before the Sundered Gate at dawn, reads the rune-wards pulsing
+    brighter — dwarven work that responds to proximity of threat
+  - Captain Isolde Veyne delivers the troop report: 850 combat-ready
+    (600 Legionnaires, 120 Ironborn, 80 auxiliaries, 50 war-mages/artillery)
+  - The Ironbound Guard will NOT be redeployed — Blackthorn's standing orders keep
+    them in the Emberheart, defending the inner ring and the Lord Commander
+  - Stoneveil inspects the full circuit of the Iron Marches:
+    * Eastern section: patched wall at the river bluff (breach point, different stone,
+      horizontal grain — visible from the ridge). Foundation not deep-surveyed.
+    * Guard towers: twelve total, every 200 paces. From the nearest, Stoneveil sees
+      the smoke beyond the ridge — thicker than yesterday.
+    * Western flank: subsidence over old mining tunnels. Orders tunnels sealed, bricked,
+      mortared. Listening posts at unreachable entrances. Second row of stakes added.
+  - Veyne asks "How long?" — Stoneveil answers: "Dawn. Maybe sooner."
+  - Runner delivers scroll from Lord Commander Blackthorn:
+    * Ironbound Guard will not be redeployed
+    * "Hold the outer ring. Buy time."
+    * Reinforcement requests "dispatched" to northern border garrisons (3 weeks away)
+    * Stoneveil reads the word "dispatched" and understands: no help is coming
+  - Officer briefing on the ramparts (not behind closed doors — confidence is a resource):
+    * Stoneveil gives the numbers plainly. Does not mention Emberheart or Ironbound.
+    * "The outer ring will be held."
+  - Veyne delivers defensive plan: four-hour watches, Ironborn on vulnerable sections,
+    auxiliaries in reserve, war-mage pairs on bastions, ballista crews on towers 3/7/11
+  - Veilfire Spire coordination: Archmage Raventhorne commits 15 war-mages to wall defense,
+    holds remainder for "Spire operations"
+  - Stoneveil eats standing up — salt meat at the parapet, watching the Veil's Throat
+  - Final image: Stoneveil alone on the wall at nightfall, rune-wards pulsing, waiting
+
+Voice notes:
+  - Military precision maintained: controlled, measured, disciplined sentences
+  - Stoneveil's POV thinks in tactical terms — angles, numbers, positioning
+  - Emotional weight carried in what he DOESN'T say or think about
+  - The Anvil and the forty-three deliberately suppressed — "He did not think about
+    the Anvil. He did not think about the forty-three."
+  - Anger at Blackthorn contained: "He kept his anger the way he kept his sword —
+    sheathed, maintained, ready for the moment it was useful."
+  - The math is the recurring motif — Stoneveil does the math, says nothing
+
+Foreshadowing planted:
+  - Eastern wall patch visible from the ridge (Thokk saw it in Ch.2 — convergence)
+  - Western tunnels and mining subsidence (goblin sappers will exploit this)
+  - Ironbound Guard kept in reserve (they never come — the political failure)
+  - "Dispatched" reinforcements (they never arrive)
+  - Veilfire Spire doing something beyond wall defense (Raventhorne's "Spire operations")
+  - Rune-wards pulsing brighter throughout the chapter (building urgency)
+  - Captain Isolde Veyne established as Stoneveil's most reliable officer (Book 2 setup)
+
+Continuity checks:
+  - Stoneveil's rank: Warden ✓
+  - Captain Isolde Veyne: Ironbound Guard Captain, tall, wiry, sharp features,
+    burnished armor ✓ (matches POV Characters and worldbuilding docs)
+  - Troop count: 850 combat-ready ✓ (matches all planning docs)
+  - Enemy count: 2,500 ✓ (referenced via the 3:1 ratio)
+  - Lord Commander Blackthorn: Aldric Blackthorn, physically distant, in the
+    Emberheart/High Keep ✓
+  - Ashgate reference: consistent with Prologue (Stoneveil held Ashgate, 420 survivors) ✓
+  - Sundered Gate description: dark iron, rune-wards, two bastions ✓ (matches Ch.2)
+  - Veil's Throat: narrow kill zone approach, consistent with worldbuilding ✓
+  - Timeline: Day 1, assault expected at dawn — bridges to Ch.4 ✓
+  - Forge-smoke, industrial grime: consistent with Ch.1 and Ch.2 descriptions ✓
+  - Stoneveil's rule from Prologue: "You watch what you order" — character consistency ✓
+  - Western wall soft ground / mining tunnels: matches Ch.2 (Thokk/Skrixx noted this) ✓
+  - Eastern wall patched twice: matches Ch.2 (Thokk identified this) ✓
