@@ -1,0 +1,10 @@
+# The Seventh Strike — Edit Pass Progress
+# ================================
+# Format: [YYYY-MM-DD HH:MM] <task description>
+# ================================
+
+[2026-02-19 00:00] edit: Prologue — THE ANVIL — 3600w -> 1881w
+[2026-02-19 00:00] edit: Chapter 2 — THE HORIZON DARKENS — 4300w -> 2503w
+[2026-02-19 00:00] edit: Chapter 3 — THE SUNDERED GATE — 5700w -> 3029w
+[2026-02-19 00:00] edit: Chapter 4 — THE FIRST THUNDER — 7600w -> 3021w
+[2026-02-19 00:00] edit: Chapter 5 — THE PRAYER — 6300w -> 2850w
