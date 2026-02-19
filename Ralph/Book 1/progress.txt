@@ -232,3 +232,62 @@ Continuity checks:
   - Captain Isolde Veyne not present (she appears in Ch.3) — no contradiction ✓
   - Blackthorn referenced as Lord Commander, physically distant ✓
   - Ironclaw scout reports foreshadow the siege ✓
+
+[2026-02-18 26:00] CHAPTER 1 — THE LAST GOOD MORNING — Phase 2, Task 2
+
+Wrote: Book 1/Chapters/01 - The Last Good Morning.md
+
+POV: November Falls
+Setting: Emberfall, the Hall of the Fallen and the training yard. Morning before the siege.
+Target: 3,000-5,000 words. Estimated ~4,200 words written.
+KEY MOMENT: #1 — The Last Good Morning
+
+Chapter covers:
+  - November wakes before dawn (5-hour sleep cycle established). Watches Horus sleeping.
+  - Trains alone in the empty training yard with a warped wooden practice blade.
+  - Sloppy, self-taught swordwork — drops his guard on the left side every time (per
+    Writing Rules: November is NEVER the best fighter, combat is clumsy and civilian).
+  - Returns to the Hall of the Fallen. Horus is elbow-deep in a dock worker's shoulder wound.
+  - She notices his blister, diagnoses his swordwork problems from the injury pattern.
+  - They share bread in the alcove behind the linen shelves — she saved him the heel.
+  - She teases him about his training ("Badly and stubbornly and at an hour when no one
+    is awake to see"). Banter is honest, not cruel — the language of people who trust
+    each other with the truth.
+  - November recites the full Creed to her. The silence after is "the best silence he knew."
+  - He walks the Hall with her — helps with patients, sits with a widow whose husband died
+    in the night. Shows November being useful in ways that aren't combat.
+  - Horus tells him: "Anyone could have sat with her. You did." — the compass confirmed.
+  - November checks the inner compass: Standing. Sober. Useful. Loved. Closer than yesterday.
+  - Returns to the training yard. Drops his guard on the left side. Resets. Tries again.
+
+Voice notes:
+  - November's POV is honest, internal, raw but not chaotic (per Writing Rules)
+  - Inner compass used as structural device — self-checking against the Creed
+  - Combat descriptions are civilian: "hitting a piece of wood for an hour", "a man hitting
+    a door with a stick" — no military vocabulary
+  - Horus rendered through accumulation of small, specific details: the hair she blows from
+    her face, the heel of bread saved without being asked, the shoulder pressed briefly
+    against his. Love through specifics, not abstraction (per Horus character sketch).
+  - No melodrama. No declarations of love. Two people eating bad bread in thin light.
+  - The reader should love what November loves so that losing it hurts.
+
+Foreshadowing planted:
+  - The Hall of the Fallen established as a location (it's near the blast site in Ch.4)
+  - Training yard and practice routine established (borrowed sword in Ch.7 will be different)
+  - November's physical limitations clearly shown (drops guard on left side)
+  - His 5-hour sleep cycle mentioned (pays off in Ch.11 when he stands extra shifts)
+  - The Creed recited in full for the first time
+  - His brother referenced indirectly through family losses ("the war took his father and
+    the skirmishes took his mother")
+  - The widow scene seeds November's instinct to sit with the dying (relevant throughout)
+
+Continuity checks:
+  - November's age: 27 ✓ (not stated explicitly, but consistent with timeline)
+  - Horus: healer at the Hall of the Fallen, goes by Horus, no surname ✓
+  - Physical description: Green eyes, dark hair, full beard, broad-shouldered, 6'2" —
+    not explicitly restated (shown through action, not description per Writing Rules)
+  - The Creed: exact text matches Character Bible ✓
+  - Forge-smoke, soot-stained setting: Emberfall rendered as industrial grime city ✓
+  - No info-dumps: world shown through experience, not exposition ✓
+  - Tone: Tender but grounded. Grimdark in the bones (the widow, the wounded, the war
+    that took his family) but quiet on the surface. Chapter 1 exists to make Ch.4 hurt.
