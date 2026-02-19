@@ -2132,3 +2132,120 @@ Continuity checks:
   - Double-chimney forge-shop: matches Ch.18's armourer's shop description ✓
   - Firebombing damage: burned stone, gutted buildings, dwarf-stone walls ✓
   - Day 5 timeline: consistent with Ch.18 and Ch.19 ✓
+
+[2026-02-19 14:30] CHAPTER 21 — THE BREAKING POINT — Phase 6, Task 4
+
+Wrote: Book 1/Chapters/21 - The Breaking Point.md
+
+POV: Kael Veyne
+Setting: The Anvil District (middle ring), Day 5 — The Anvil.
+Target: 3,000-5,000 words. Estimated ~4,600 words written.
+KEY MOMENT #8: Kael's Failed Healing — DELIVERED.
+
+Chapter covers:
+  - OPENING — THE EMPTY ALTAR: Kael kneeling at the central altar, not the
+    seventh alcove. No weapons, no oil, no tools — he has brought nothing because
+    the tools have become hollow. The silence answers. A runner arrives from
+    Captain Veyne (on Warden's authority) summoning him to the Anvil front lines.
+    The triage stations are overwhelmed — the dying need rites.
+  - THE ANVIL AS HELL: Kael enters the Anvil District. Description establishes
+    it as "a version of hell that scripture had not described." Scripture's hell
+    is theoretical (the Absence, the void beyond the Scales). The Anvil is
+    physical — smoke, blood, cautery, the sweetness he will not name. Triage
+    stations have metastasized beyond their boundaries. System overwhelmed.
+  - THE HOLLOW RITE: Kael administers rites to the wounded and dying. A woman
+    Legionnaire challenges him: "You believe that?" He deflects. She persists:
+    "The question is the only relevant thing in this building." He moves on,
+    administering the Ward of the Threshold to forty-three wounded (the number
+    carrying unconscious weight in the Anvil District).
+  - KEY MOMENT #8 — THE CHILD: A soldier carries in a girl, 7-8 years old,
+    blast injury from catapult round hitting the dormitory. Crush damage, internal
+    bleeding. Surgeon's assessment: "I can make it take longer." Kael places his
+    hand on the child's forehead. Instead of the Last Passing, he reaches for
+    the Healing Invocation — Module Twelve, Interventive Prayer, taught as
+    theology, never practiced. He prays for direct divine intervention: "Reach,
+    Tyr. Reach through the silence." He prays with the raw, unstructured need
+    of a man begging. The silence answers. The child dies. Her grip loosens in
+    the same sequence as the boy on Day 2 — thumb first, smallest finger, then
+    the rest. He holds the dead child's hand. The prayer failed. The silence
+    is revealed as silence.
+  - THE INCOMPLETE RITE: Kael cannot complete the Last Passing over the child.
+    The words sit in his mouth "like a stone." The surgeon gently redirects:
+    "There are others who need you." Kael arranges the child's hands — the
+    trained gesture, muscle memory — and stands. He resumes the blessing cycle,
+    hearing the hollowness, speaking the words anyway because the words are
+    what the dying expect and the dying's expectations deserve to be met.
+  - EDRIC AT REST: Kael finds Edric behind the barricade, sitting with November
+    Falls. Edric's hands have stopped shaking — the nervous grip-and-release
+    replaced by stillness. Ten paces away (not thirty). The institutional
+    prohibition recalculated — if the Scales are broken, what is corruption?
+    But Kael does not go to Edric — not from the institution's prohibition but
+    from his own: the child died twenty minutes ago, and the comfort of seeing
+    his nephew is something he has not earned. He turns back to the triage
+    stations.
+  - CLOSING — THE PRAYER WITHOUT WORDS: Kael stays in the Anvil. Does not
+    return to the Cathedral. Continues administering rites — the words hollow,
+    the mechanism functioning — but the thing he is offering has changed. Not
+    the Rite. Not the Scales. The holding. The being there. He discovers that
+    the faith that remains is not the faith in the silence or the institution
+    but the faith that holding a dying person's hand is worth doing even when
+    it changes nothing. "The prayer of being there. The prayer that had no
+    words." The faith has fractured — not broken, fractured — and what remains
+    is smaller, simpler, and the only thing that has ever been real.
+
+Voice notes:
+  - Kael's liturgical prose style continues its degradation arc. Chapter 5:
+    fully structured (petition, confession, absolution). Chapter 9: structure
+    intact but cracks appear. Chapter 13: structure fragments, questions emerge.
+    Chapter 17: structure breaks, the not-kneeling. Chapter 21: structure
+    collapses during the Healing Invocation — raw, unformed prayer replaces
+    the Rite. By the closing section, Kael's internal voice has shed the
+    liturgical architecture entirely.
+  - The Healing Invocation scene breaks the formal prayer pattern: "Heal her.
+    Please." — the twelve-word parallel to the dying soldier's Invocation on
+    Day 2.
+  - Restraint in the Key Moment: the child's death is quiet, physical, specific.
+    No melodrama. The grip releasing finger by finger. The warmth fading. The
+    loudest moment is the silent one.
+  - The "what are you for" question from Ch.17 echoes implicitly throughout —
+    Kael answering it by the chapter's end: he is there to hold hands.
+
+Foreshadowing planted:
+  - The silence of the gods: Kael's prayer for healing fails completely. The
+    silence is revealed as silence, not patience. Seeds the series-arc question
+    of why the gods departed.
+  - Sister Reva's absence: the polishing has stopped. The Cathedral's constants
+    are degrading. Seeds the broader collapse of institutional faith.
+  - Kael's evolving faith: what remains after the fracture is "the prayer of
+    being there" — a faith stripped of institution. This seeds Kael's
+    transformation across the series.
+  - Edric observed at rest beside November: the bond between them visible.
+    Edric's stillness (hands no longer shaking) marks his growth. Seeds the
+    devastating weight of his death on Day 6 (Ch.23).
+  - November's bleeding hand observed: continuity from the digging in Ch.19,
+    visible to Kael, connecting the two POV threads.
+
+Continuity checks:
+  - Kael's arc: Day 1 faith intact → Day 2 ground shifts → Day 3 silence
+    louder, Marrow, doubt → Day 4 cracking, not-kneeling → Day 5 fracture,
+    failed healing. Progression is consistent and escalating ✓
+  - Seventh alcove: referenced as the place he has not knelt since Day 4 ✓
+  - Sister Reva: polishing stopped — escalation from "continued" in Ch.17 ✓
+  - The woman's question "what are you for?": implicit echo throughout ✓
+  - Edric's hands: shaking on Day 1→4, now still on Day 5. Growth shown ✓
+  - November beside Edric: consistent with Ch.19's separation and reunion ✓
+  - November's injuries: bleeding palm (from Ch.19 digging), left arm wrong,
+    cut on thigh — all consistent ✓
+  - Triage station overflow: consistent with Ch.18 (Stoneveil's supply report)
+    and Ch.19 (bombardment hitting dormitories) ✓
+  - Captain Veyne issuing the summons: consistent with her role as Stoneveil's
+    operational officer ✓
+  - "Forty-three" wounded: number used unconsciously by Kael, carrying weight
+    in the Anvil District context ✓
+  - Boy on Day 2: grip-release sequence (thumb first, smallest finger) directly
+    paralleled in the child's death ✓
+  - Dying soldier on Day 2: twelve-word Invocation paralleled in Kael's own
+    "Heal her. Please." ✓
+  - Day 5 timeline: consistent with Ch.18, Ch.19, Ch.20 ✓
+  - Anvil District geography: triage stations, barricades, dormitories — all
+    consistent with established layout ✓
