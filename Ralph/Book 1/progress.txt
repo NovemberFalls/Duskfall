@@ -143,3 +143,25 @@ SUMMARY:
     and key moments are consistent across all 10 planning documents.
   - The planning foundation is solid. Ready for Phase 1 Tasks 2 and 3, then chapter writing.
 
+[2026-02-18 23:55] EDRIC THANE CHARACTER SKETCH — Phase 1, Task 2
+
+Wrote: Book 1/Noteworthy/04 - Edric Thane - Secondary Character.md
+
+Character sketch covers:
+  - Background: 19yo son of a blacksmith killed in Stoneveil's firebombing of the Anvil District.
+    Enlisted because the pension wasn't enough. Kael Veyne's nephew — Kael pulled strings for
+    gate garrison assignment.
+  - Personality: Afraid but willing. Shakes before every assault, talks too much when scared,
+    but stands his ground every time. Not brave — willing. That's the distinction.
+  - Relationship with November: Latches onto him as an anchor. Not because November is skilled
+    (Edric is the better fighter by training) but because November is steady. Follows conviction,
+    not sword skill.
+  - Heart-winning moment: Day 3 (Ch.11), during a lull — Edric tells November about his
+    father's forge, the sound an anvil makes when struck right, falling asleep to that sound.
+    Small, specific, devastating in retrospect.
+  - Death: Day 6, Ch.23. Takes a wound, stays up, takes a second blow, goes down. November
+    holds him. No last speech. Dies too fast, too afraid, reaching for someone's hand. The Creed
+    in action: we do not abandon.
+  - Thematic role: Theme #4 (Innocence as Currency). Bridges Kael and Stoneveil's arcs —
+    the nephew of one, the orphan created by the other.
+
