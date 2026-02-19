@@ -10,3 +10,5 @@ Maps/To Review/*.zip
 
 # Claude Code local config
 .claude/
+.idea/
+*.tmp.*
