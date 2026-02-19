@@ -1072,3 +1072,106 @@ Continuity checks:
   - Lieutenant Grieve: eastern section commander ✓ (introduced in Ch.6)
   - Sergeant Dorran: western section ✓ (introduced in Ch.6)
   - Runners: consistently young, too young, same characterization ✓
+
+[2026-02-19 04:30] CHAPTER 11 — THE COMPASS — Phase 4, Task 2
+
+Wrote: Book 1/Chapters/11 - The Compass.md
+
+POV: November Falls
+Setting: The south wall, staging area, triage station, parapet. Day 3 — the grinding.
+Target: 3,000-4,000 words. Estimated ~3,600 words written.
+
+Chapter covers:
+  - November's Day 3 rhythm: carrying water to the wall, dragging wounded to triage,
+    standing extra shifts because he only needs 5 hours of sleep.
+  - Carries Legionnaire Pell (spear wound through the thigh) four hundred paces to
+    the triage station, one-armed.
+  - The soldiers have accepted him — not as a fighter, but as a presence. Corporal
+    Rath (section commander) accepts him on the line without comment.
+  - Left arm injury progressing: swollen, bruised, mobility reduced. Structural pain.
+    November treats it as a fact, not a complaint.
+  - EDRIC THANE HEART-WINNING MOMENT: During a lull, Edric tells November about his
+    father's forge. The sound an anvil makes when struck right — the ring that goes
+    into your chest and your bones. Falling asleep to that sound as a boy. "I miss
+    that sound." Four words carrying the full cost of the Anvil — not 900 dead, but
+    one boy who will never hear his father's anvil again.
+  - November sits with Edric's grief the way he sat with the widow in Ch.1 — present,
+    silent, holding space. The skill he learned from Horus applied to the siege.
+  - Edric gives November a strip of cloth to bind his elbow — the care flowing in
+    both directions now.
+  - November stands the extra shift (7th to 10th bell). Edric appears beside him
+    without being assigned. They watch the dark together.
+  - Edric sleeps at November's feet. November stands Edric's shift too.
+  - The rune-wards dimming — eastern bastion nearly spent. Both acknowledge the
+    breach is coming. Edric's response: "And we'll hold." Certainty born of
+    decision, not calculation.
+  - COMPASS CHECK: Standing, Sober, Useful. Not the way a soldier is useful — the
+    water carrier, the pallet dragger, the man who stands the extra shift. The
+    smallest useful thing, done again and again. That is enough.
+  - The chapter ends with November on the wall, the compass holding, the dawn coming.
+
+Voice notes:
+  - November's POV maintained: honest, internal, raw but not chaotic. Consistent
+    with Ch.1, Ch.4, Ch.7.
+  - Inner compass used as structural device — the audit, the check-in, the honest
+    accounting of himself against the Creed. Progression from Ch.1 (Standing/Sober/
+    Useful/Loved) through Ch.4 (Standing/Sober/Alive) to Ch.11 (Standing/Sober/
+    Useful) — the compass recalibrating as the siege strips and rebuilds.
+  - Combat descriptions minimal — Day 3 is about the grinding, the between-combat
+    work. November's value shown through carrying, not fighting.
+  - Edric's characterization deepened through the forge memory — the specific, small,
+    irreplaceable detail that makes his death in Ch.23 devastating. The reader should
+    remember the anvil sound when Edric dies.
+  - Horus's absence maintained as a wound — the not-knowing, the void, the checking
+    of faces. Present by absence throughout.
+  - The chapter's emotional register matches Themes Day 3: exhaustion, numbness,
+    the grinding weight of sustained siege.
+
+Foreshadowing planted:
+  - Rune-ward degradation: eastern bastion nearly spent, one more day. Sets up
+    Ch.14 (outer ring falls, Day 4).
+  - Edric's certainty: "We'll hold." The decision made by a boy who has become
+    a man on the wall. Seeds his willingness to stay at the barricade in Ch.23.
+  - November's left-side gap and dropped guard: maintained as a consistent weakness.
+    The axe wound from Ch.7 still carried (bruising, swelling, reduced mobility).
+  - The borrowed sword: still at his hip, still the dead man's weapon.
+  - Horus search pattern: checking triage stations, refugees, the dead. She is
+    not among them. The search continues.
+  - Corporal Rath introduced (section commander, minimalist communicator) — adds
+    to the composite unit's character.
+  - "Closer than yesterday": the incremental arc. Not a transformation — a drift,
+    measured in days, each one marginally closer to the man the Creed describes.
+
+Continuity checks:
+  - Left arm injury: progressing from Ch.4 (blast) through Ch.7 (axe hit on left
+    side, already injured). Now swollen, bruised black-to-purple-to-yellow-green,
+    mobility reduced. Consistent deterioration ✓
+  - Right hand blister: healed to callus after 3 days of gripping the borrowed
+    sword. Consistent progression from Ch.1 (blister) to Ch.4 (reopened) to Ch.7
+    (torn open) to Ch.11 (callused over) ✓
+  - Horus's bandage: not mentioned — after 3 days of combat and grime, original
+    bandage no longer functional. Replaced by the general wrapping. Consistent ✓
+  - Inner compass structure: Standing/Sober/Useful — recalibrated from Ch.4 and Ch.7.
+    "Loved" absent since Ch.4. "Alive" from Ch.4 replaced by "Useful" as November
+    finds his role. Consistent thematic progression ✓
+  - Borrowed sword: at his hip, not in his hand during non-combat. Consistent with
+    November being a water carrier, not a fighter, during the lulls ✓
+  - Edric's characterization: brown eyes, blacksmith's hands, too-wide eyes narrowing,
+    shaking replaced by contained fear, armour still slightly too large. All consistent
+    with Ch.7 introduction and character sketch ✓
+  - Rune-wards: dimmer than Day 2, dimmer than Day 1. Progressive from Ch.3 → Ch.6
+    → Ch.10 → Ch.11. Eastern bastion nearly spent ✓ (matches Ch.10 Stoneveil's
+    assessment: "one day")
+  - Salt meat rations: consistent with Ch.10 (protein-focused diet) ✓
+  - Smoke/sky wrong: consistent atmospheric detail ✓
+  - Cistern water tasting of iron: consistent with Ch.10 (water from rampart cistern,
+    iron and mineral residue) ✓
+  - Siege bombardment rhythm: one round every five minutes, varying intervals —
+    matches Ch.10 nightfall description ✓
+  - Staging area behind south wall: matches Ch.7 (composite unit staging area) ✓
+  - Composite unit still active: implied through the section structure and Edric's
+    continued presence ✓
+  - 5-hour sleep cycle: established in Ch.1, referenced in PRD, now paying off as
+    November stands extra shifts ✓
+  - Widow callback: "sat with Edric the way he sat with the widow" — Ch.1 echo ✓
+  - Timeline: Day 3, concurrent with Ch.10 (Stoneveil POV) ✓
