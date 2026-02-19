@@ -3046,3 +3046,174 @@ Continuity checks:
   - The 72 survivors: stated consistently. ✓
   - Inner Ring intact: consistent with the siege only reaching the
     Anvil District (middle ring). ✓
+
+[2026-02-19 21:30] CHAPTER 28 — THE SKULL — Phase 8, Task 2
+
+Wrote: Book 1/Chapters/28 - The Skull.md
+
+POV: Stoneveil
+Setting: The Anvil District / Blackhand's forge, Days after the siege ends.
+Target: 2,000-3,000 words. Actual ~2,800 words.
+
+KEY MOMENT #12: THE SILENCE AFTER (STONEVEIL) — Stoneveil alone in
+the ruins. 72 survivors. The final question: was it worth it? No answer.
+Just a man standing in the wreckage of a city he saved by destroying it
+— twice — and the weight of a war that has no winners.
+
+Chapter covers:
+  - THE SKULL: Thokk's skull arrives, cleaned by the morticians, sent
+    by Blackthorn as a war trophy for the Council record. The jaw is
+    missing — broken by Stoneveil's pommel on the sixth strike. Stoneveil
+    has it placed on the anvil in Blackhand's forge. The skull as the orc
+    version of command documentation, the chain of succession made physical.
+  - THE FORGE: Stoneveil in Blackhand's forge — still Blackhand's, the
+    name persisting. The walls shored with timber and rubble, the roof
+    now military canvas over the gap where the chimney stack collapsed.
+    The anvil holding the skull the way it holds everything: cold,
+    permanent, unchanged. Stoneveil's left hand trembles — presses it
+    against the anvil. The iron absorbs the vibration.
+  - THE REPORT: Stoneveil writing the after-action report to Blackthorn.
+    The language of military documentation — clean, precise, designed to
+    contain events within margins. Initial strength: 850. Final strength:
+    72. The space between the two numbers is the width of a quill stroke
+    and 778 people. He writes the conclusion: "The city held." The second
+    sentence — "The cost was everything" — is not the kind that appears in
+    reports. It lives behind the ribs.
+  - THE WALK: Stoneveil walks the Anvil District. Barricades being
+    dismantled. Mass graves covered, no markers yet. He reaches the
+    Sundered Gate — damaged but intact, dwarven stonework held through
+    mass and stubbornness. Beyond: the outer ring as rubble, the hills
+    empty, the Bloodhollow horizon grey and pressing down.
+  - THE HANDS: Stoneveil looks at his hands. Right hand steady — the
+    sword hand that works. Left hand trembling — the condition that is
+    permanent. The blood is not there — he washed it on Day 7. The blood
+    is still there. Not the siege blood. The Anvil blood. The firebombing
+    blood. The stain that is not on the hands but in the hands — the
+    order, the fire, the forty-three children.
+  - THE QUESTION: Was it worth it? 778 dead to hold a gate. 912 dead to
+    hold a district. Thokk dead to hold a courtyard. 43 children dead to
+    hold an order. The question does not have an answer. The question is
+    designed to be asked, to sit in the space behind the ribs, to press
+    against the open door. The question is the sound the silence makes.
+  - THE FINAL IMAGE: Stoneveil in the forge with the skull on the anvil
+    and the report on the table. The wind moves through the Anvil District.
+    The silence is the sound of wind through stone. It is the only answer
+    the Anvil has left to give.
+
+Voice notes:
+  - Stoneveil's voice maintained throughout: military precision,
+    controlled sentences, thinking in tactical terms. The cracks show
+    in what he doesn't say — the second sentence of the conclusion that
+    lives behind the ribs rather than on the page.
+  - The tremor: carried through from Ch.18/22/25. Left hand, always
+    left hand. Pressed against the anvil. The tremor as condition, not
+    wound. Permanent.
+  - The arithmetic: the numbers that never stop. 850 to 72. 778 gone.
+    912 from the firebombing. 43 under sixteen. The numbers accumulating
+    in the room behind the ribs.
+  - Restraint as power: the chapter's devastation is in what is not
+    said, not felt, not answered. Stoneveil feels "nothing" — not the
+    absence of feeling but the void where feeling was. The mechanism
+    worn through by sustained intensity.
+
+Key moments delivered:
+  - KEY MOMENT #12 — THE SILENCE AFTER (STONEVEIL): Stoneveil alone
+    in the ruins. 72 survivors. The final question: was it worth it?
+    No answer. The book ends with the sound of wind through ruins. ✓
+  - TONE: Emptiness. Per Key Moments doc: "The book ends not with a
+    bang but with the sound of wind through ruins." Achieved through
+    the accumulation of silence, the unanswered question, the skull
+    on the anvil staring at nothing. ✓
+
+Foreshadowing planted:
+  - SKRIXX BLAZEBINDER: Referenced as escaped — "at large" in the
+    report. 46 surviving goblins. Engines destroyed before withdrawal.
+    His forces remain a threat. ✓
+  - BLACKTHORN: Sends the skull as a war trophy. The distance between
+    the man who authorized both destructions and the man who executed
+    them. Blackthorn wants the skull behind glass with a placard. ✓
+  - STONEVEIL'S DETERIORATION: The tremor permanent. The blood in the
+    hands permanent. The question unanswered. Seeds for his arc in
+    future books — the man who held everything and lost the thing the
+    holding was for. ✓
+
+Continuity checks:
+  - Stoneveil's left hand tremor: present since Day 3, consistent with
+    Ch.18, Ch.22, Ch.25. Pressed against the anvil. ✓
+  - Blackhand's forge as command post: consistent with Ch.18. The gap
+    in the roof, the anvil, the Forge-King's last stand visible through
+    the opening. ✓
+  - The 72 survivors: stated consistently. ✓
+  - Thokk's death: the broken jaw (sixth strike pommel), dying standing,
+    the courtyard — all consistent with Ch.25. ✓
+  - The skull from Thokk's belt: referenced in Ch.25 (the old Warlord's
+    skull, the chain). Now Thokk's own skull becomes the trophy. ✓
+  - Veyne's slate: referenced indirectly (the numbers, the counting). ✓
+  - Blackthorn: "The Emberheart must hold. All other positions are
+    expendable" — consistent with Ch.22. Sends no reserves but sends
+    administrative machinery after. ✓
+  - The Sundered Gate: damaged but intact, never fell. Consistent. ✓
+  - Captain Harren: referenced in the prologue callback — the quarter-
+    breath hesitation. Consistent with Prologue. ✓
+  - The forty-three: the number from the Prologue (43 under 16 in the
+    firebombing). Carried through the entire book. ✓
+  - Skrixx's escape: 46 goblins, engines destroyed. Consistent with
+    Ch.25. ✓
+
+NOTE: Bash tool unavailable — git commit not performed. Commit needed:
+  git add "Book 1/Chapters/28 - The Skull.md"
+  git commit -m "feat: write Chapter 28 - The Skull (Stoneveil POV, Phase 8 Task 2)"
+
+ALL CHAPTERS COMPLETE. Phase 9 (Polish and Continuity) remains.
+
+[2026-02-19 22:30] CONTINUITY PASS — Phase 9, Task 1
+
+Read ALL 29 chapters in order against all planning documents.
+Created: Book 1/Noteworthy/06 - Continuity Notes.md
+
+OVERALL ASSESSMENT: The manuscript is remarkably consistent across 29
+chapters. Character names, the 6-day timeline, POV assignments, location
+geography, and the core emotional beats all track correctly.
+
+ERRORS FOUND (4):
+
+1. Ch 6 Garrison Arithmetic (MODERATE): 842 - 6 = 836, not 817 as stated.
+   The math in Stoneveil's casualty calculation doesn't add up. The "nineteen
+   returning wounded" line creates ambiguity about whether they're additive
+   or already counted in the 850. Fix: clarify the sentence structure.
+
+2. Ch 28 Stoneveil's Duel Wound Missing (MINOR): Stoneveil takes a significant
+   axe cut to his left upper arm in Ch 25 (the duel). Three days later in
+   Ch 28, this wound is not mentioned. Fix: add a brief reference.
+
+3. Ch 16/20 Ironclaw Casualty Count Ambiguity (MINOR): Ch 16 states "208
+   Ironclaw dead" then closes with "249 dead" — unclear if 249 is Ironclaw-only
+   or combined forces. Affects running totals in Ch 20. Fix: clarify.
+
+4. Ch 26/28 Dead Count Gap (MINOR/OPTIONAL): Veyne counts 411 dead in Ch 26;
+   the after-action report implies 778 total lost (850-72). The gap is logical
+   (unrecovered bodies) but never explained. Fix: optional clarifying line.
+
+CONSISTENCY CONFIRMED:
+  - All character names consistent across all chapters ✓
+  - Timeline (6 days + epilogue) matches perfectly ✓
+  - Wounds carry forward correctly (with one gap noted above) ✓
+  - Named locations match Emberfall geography ✓
+  - Edric Thane's arc from introduction (Ch 7) to death (Ch 23) is earned ✓
+  - Horus's name is consistent ("Horus" throughout) ✓
+  - The Defender's Creed text is consistent throughout ✓
+  - All 12 Key Moments delivered in correct chapters with correct tone ✓
+  - All required foreshadowing threads planted ✓
+  - 72 survivors count consistent across Ch 25, 26, 27, 28 ✓
+  - Troop numbers consistent (850 defenders, 2500 attackers) ✓
+
+FORESHADOWING THREADS PLANTED:
+  - Captain Isolde Veyne appears and survives ✓
+  - Elven civil war referenced ✓
+  - November's brother referenced (Ch 26) ✓
+  - Undead in the north (Revenants extensively developed) ✓
+  - Skrixx survives and escapes (Ch 25, 28) ✓
+  - Veilfire Spire glows during battle (Ch 5, 10) ✓
+  - Stonehaven referenced (Ch 2, 6, 8, 12, 14, 18, 20) ✓
+
+Full details in Book 1/Noteworthy/06 - Continuity Notes.md.
