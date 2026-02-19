@@ -1,0 +1,5 @@
+- ~~**Smokestack Hollow** – A labyrinthine goblin city beneath towering chimneys and endless steam.~~
+- **Scrapfang** – A chaotic settlement built from rusted metal and looted parts.
+- **Spindlecrank** – Famous for its ramshackle lifts and rotating towers.
+- ~~**Blazebolt** – Goblins here experiment with unstable explosives in precarious cliffside labs.~~
+- **Clatterhelm** – A city constantly rumbling from underground machinery and collapses.

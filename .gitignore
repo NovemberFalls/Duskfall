@@ -1,1 +1,12 @@
 /cert/
+
+# Large map resources and asset packs (too large for GitHub)
+Maps/DM_Andy/
+Maps/Resources/
+Maps/To Review/*.zip
+*.zip
+*.dungeondraft_pack
+*.wonderdraft_map
+
+# Claude Code local config
+.claude/

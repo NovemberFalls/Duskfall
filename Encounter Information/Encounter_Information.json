@@ -1,0 +1,314 @@
+{
+  "biomes": [
+    {
+      "name": "Ocean",
+      "creatures": {
+        "common": [
+          "Crab",
+          "Octopus",
+          "Merfolk",
+          "Giant Crab",
+          "Reef Fish",
+          "Dolphin"
+        ],
+        "uncommon": [
+          "Sahuagin",
+          "Sea Hag",
+          "Reef Shark",
+          "Giant Octopus",
+          "Giant Sea Horse",
+          "Killer Whale"
+        ],
+        "rare": [
+          "Water Elemental",
+          "Merrow",
+          "Plesiosaurus",
+          "Giant Shark",
+          "Aboleth",
+          "Sea Lion"
+        ],
+        "legendary": [
+          "Dragon Turtle",
+          "Storm Giant",
+          "Marid",
+          "Ancient Bronze Dragon",
+          "Giant Squid",
+          "Kraken Priest"
+        ],
+        "mythic": [
+          "Kraken",
+          "Leviathan",
+          "Elder Tempest",
+          "Olhydra",
+          "Tromokratis",
+          "Zaratan (aquatic form)"
+        ]
+      }
+    },
+    {
+      "name": "Desert",
+      "creatures": {
+        "common": [
+          "Camel",
+          "Vulture",
+          "Jackal",
+          "Scorpion",
+          "Zombie",
+          "Skeleton"
+        ],
+        "uncommon": [
+          "Brass Dragon Wyrmling",
+          "Dust Mephit",
+          "Air Elemental",
+          "Fire Snake",
+          "Ghoul",
+          "Sand Silhouette"
+        ],
+        "rare": [
+          "Brass Dragon Young",
+          "Fire Snake",
+          "Salamander",
+          "Lamia",
+          "Mummy",
+          "Dune Mimic"
+        ],
+        "legendary": [
+          "Brass Dragon Adult",
+          "Efreeti",
+          "Androsphinx",
+          "Gynosphinx",
+          "Bone Naga",
+          "Mummy Lord"
+        ],
+        "mythic": [
+          "Brass Dragon Ancient",
+          "Phoenix",
+          "Blue Dragon Ancient",
+          "Lich (in desert tomb)",
+          "Atropal",
+          "Dracolich (in desert tomb)"
+        ]
+      }
+    },
+    {
+      "name": "Jungle",
+      "creatures": {
+        "common": [
+          "Ape",
+          "Baboon",
+          "Giant Lizard",
+          "Giant Poisonous Snake",
+          "Zombie",
+          "Yuan-ti Pureblood"
+        ],
+        "uncommon": [
+          "Elkhorn Dinosaur",
+          "Deinonychus",
+          "Hadrosaurus",
+          "Pteranodon",
+          "Ghoul",
+          "Yuan-ti Malison"
+        ],
+        "rare": [
+          "Allosaurus",
+          "Aarakocra",
+          "Lizardfolk Shaman",
+          "Triceratops",
+          "Ghast",
+          "Yuan-ti Abomination"
+        ],
+        "legendary": [
+          "Ankylosaurus",
+          "Brontosaurus",
+          "Couatl",
+          "Gynosphinx",
+          "Bodak",
+          "Yuan-ti Anathema"
+        ],
+        "mythic": [
+          "Girallon",
+          "Tyrannosaurus Rex",
+          "Ancient Green Dragon",
+          "Froghemoth",
+          "Atropal",
+          null
+        ]
+      }
+    },
+    {
+      "name": "Mountains",
+      "creatures": {
+        "common": [
+          "Eagle",
+          "Goat",
+          "Blood Hawk",
+          "Stirge",
+          "Zombie",
+          "Orc"
+        ],
+        "uncommon": [
+          "Gargoyle",
+          "Hippogriff",
+          "Basilisk",
+          "Pegasus",
+          "Ghoul",
+          "Orc Eye of Gruumsh"
+        ],
+        "rare": [
+          "Chimera",
+          "Galeb Duhr",
+          "Manticore",
+          "Wyvern",
+          "Wight",
+          "Orc Blade of Ilneval"
+        ],
+        "legendary": [
+          "Roc",
+          "Frost Giant",
+          "Stone Giant",
+          "Cloud Giant",
+          "Flameskull",
+          "Fire Giant Dreadnought"
+        ],
+        "mythic": [
+          "Ancient Red Dragon",
+          "Ancient White Dragon",
+          "Wyrm (Dragon)",
+          "Death Tyrant (Beholder)",
+          "Lich",
+          null
+        ]
+      }
+    },
+    {
+      "name": "Plains",
+      "creatures": {
+        "common": [
+          "Deer",
+          "Wild Horse",
+          "Boar",
+          "Hawk",
+          "Wolf",
+          "Goblin"
+        ],
+        "uncommon": [
+          "Centaur",
+          "Gnoll",
+          "Dire Wolf",
+          "Giant Eagle",
+          "Worg",
+          "Ogre"
+        ],
+        "rare": [
+          "Manticore",
+          "Griffon",
+          "Werewolf",
+          "Unicorn",
+          "Troll",
+          "Ankheg"
+        ],
+        "legendary": [
+          "Adult Gold Dragon",
+          "Roc",
+          "Treant",
+          "Gorgon",
+          "Behir",
+          "Chimera"
+        ],
+        "mythic": [
+          "Ancient Gold Dragon",
+          "Phoenix",
+          "Tarrasque",
+          "Empyrean",
+          "Zaratan",
+          "Thunderbird"
+        ]
+      }
+    },
+    {
+      "name": "Found Anywhere",
+      "creatures": {
+        "common": [
+          "Wolf",
+          "Rat",
+          "Spider",
+          "Skeleton",
+          "Orc",
+          "Zombie",
+          "Shadow",
+          "Goblin",
+          "Kobold",
+          "Troll",
+          "Vampire Spawn",
+          "Ghoul",
+          "Scarecrow",
+          "Gnoll"
+        ],
+        "uncommon": [
+          "Dire Wolf",
+          "Giant Rat",
+          "Giant Spider",
+          "Mimic",
+          "Orc War Chief",
+          "Ogre Zombie",
+          "Ghast",
+          "Hobgoblin",
+          "Kobold Inventor",
+          "Ogre",
+          "Vampire",
+          "Ghast",
+          "Cadaver Collector",
+          "Gnoll Fang of Yeenoghu"
+        ],
+        "rare": [
+          "Werewolf",
+          "Cranium Rat",
+          "Phase Spider",
+          "Doppelganger",
+          "Orc Claw of Luthic",
+          "Beholder Zombie",
+          "Wraith",
+          "Bugbear",
+          "Kobold Dragonshield",
+          "Oni",
+          "Vampire Spellcaster",
+          "Mummy",
+          "Bodak",
+          "Gnoll Pack Lord"
+        ],
+        "legendary": [
+          "Winter Wolf",
+          "Wererat",
+          "Ettercap",
+          "Vampire",
+          "Orc Red Fang of Shargaas",
+          "Flameskull",
+          "Specter",
+          "Barghest",
+          "Kobold Scale Sorcerer",
+          "Ettin",
+          "Vampire Warrior",
+          "Revenant",
+          "Skull Lord",
+          "Flind"
+        ],
+        "mythic": [
+          "Fenrir",
+          "Otyugh",
+          "Lolth (Demon Queen of Spiders)",
+          "Dracolich",
+          "Orcus",
+          "Lich",
+          "Nightwalker",
+          "Death Kiss",
+          null,
+          "Corpse Flower",
+          "Vampire Lord",
+          "Boneclaw",
+          "Nightwalker",
+          null
+        ]
+      }
+    }
+  ]
+}
