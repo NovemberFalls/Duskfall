@@ -3217,3 +3217,169 @@ FORESHADOWING THREADS PLANTED:
   - Stonehaven referenced (Ch 2, 6, 8, 12, 14, 18, 20) ✓
 
 Full details in Book 1/Noteworthy/06 - Continuity Notes.md.
+
+[2026-02-19 23:30] EMOTIONAL ARC VERIFICATION — Phase 9, Task 2
+
+Read ALL 29 chapters against the 12 Key Moments (Noteworthy/01 - Key Moments.md)
+and the Emotional Architecture (02 - Themes and Emotional Beats.md).
+
+OVERALL ASSESSMENT: All 12 Key Moments land with the correct tone. The emotional
+ramp — constriction → weight → moral vertigo → devastation → investment — is
+correctly constructed across all six days and the epilogue. The book functions
+as designed: a fist slowly closing.
+
+KEY MOMENT VERIFICATION (all 12):
+
+  #1  THE LAST GOOD MORNING (Ch. 1): STRONG
+      Tender, real, specific. Horus is dimensional. No melodrama. Reader falls
+      in love with what November loves through accumulated small details (the
+      bread heel, the shoulder-lean, the blister diagnosis). The warmth is
+      palpable — sets up the cold.
+
+  #2  THE BLAST (Ch. 4): STRONG
+      Sudden, violent, disorienting. Transition from peace to war mid-swing.
+      Prose fragments to match concussive experience. November's search for
+      Horus carries full emotional weight from Ch. 1 investment. Callback to
+      "The Last Good Morning" lands like a hammer.
+
+  #3  NOVEMBER'S FIRST KILL (Ch. 7): STRONG
+      Raw, visceral, no glory. Kill is clumsy and ugly — "not a swing any
+      swordsman would have recognised as technique." Physical cost present
+      throughout (shaking hands, sucking resistance of pulling blade free,
+      taste of metal). Marks end of civilian. Edric Thane successfully
+      introduced — real character, not a plot device.
+
+  #4  THE WOUNDED MAN (Ch. 15): STRONG
+      Grim determination. The Creed in action — choice made in the worst
+      possible moment. November carries a man too heavy and too slow. Told
+      to leave him. Does not leave him. Cost is real. Edric helps.
+
+  #5  STONEVEIL IN BLACKHAND'S FORGE (Ch. 18): STRONG
+      Quiet horror. Stoneveil recognizes where he stands. Says nothing. The
+      silence carries enormous weight. Shape in the ash (unnamed), child's
+      drawing on interior wall, the locked room opening — all devastatingly
+      restrained. Minor note: the word "symmetry" appears 3 times explicitly;
+      consider reducing to 1-2 to trust the reader more.
+
+  #6  NOVEMBER'S DILEMMA (Ch. 19): STRONG
+      Agonizing. The choice is presented with clarity — north (soldiers) vs
+      south (civilians). November goes to the civilians. The Creed's logic is
+      clean and devastating. Cost is made real through irresolution — he will
+      never know if his presence would have changed the outcome. Sits in the
+      reader's chest like a stone.
+
+  #7  THOKK'S DEATH RITES (Ch. 8 + Ch. 12): STRONG
+      Solemn. Ritual. Thokk is fully humanized. Performs rites personally,
+      knows warriors' names and histories. "A name was the minimum the dead
+      were owed." Mirror theme realized — grief is not partisan. Part 2 (Ch. 12)
+      adds the mirror recognition: "the difference was position. Geography."
+
+  #8  KAEL'S FAILED HEALING (Ch. 21): STRONG
+      Devastating. Quiet. The loudest moment is the silent one. Prayer fails.
+      Child dies in his arms. Faith fractures but does not break — transforms
+      into something "smaller, simpler" that lives in the hand. Builds on
+      cracks from Days 2-4 (the boy's "Mum," Marrow's cruelty, the nephew
+      on the wall). The grip releasing — "thumb first, smallest finger" — is
+      physically specific and emotionally crushing.
+
+  #9  THE SEVENTH STRIKE (Ch. 25): STRONG
+      Exhaustion. Finality. Not triumphant. Seven strikes numbered and bolded.
+      Both combatants equally sympathetic, equally damaged. Thokk dies standing
+      — body falls forward, toward the gate. Stoneveil kneels beside the body,
+      cannot "file" this kill. Skrixx escapes with 46 goblins. The tremoring
+      hand: "He let it."
+
+  #10 THE SEARCH (Ch. 26): STRONG
+      Hollowness. The ringing silence after an explosion. The absence is worse
+      than a death — "death is an answer; this is a question." Systematic
+      search through every location. The return to the Hall of the Fallen
+      and the collapsed alcove is devastating. 72 survivors confirmed. Compass
+      check present. The "too tight" motif completes: "He would make it for
+      the rest of his life."
+
+  #11 THE CONSCRIPTION (Ch. 27): STRONG
+      Determined. Cold. Conscription is forced — told, not asked. November
+      accepts because the machine has reach. "The machine could have his body.
+      The machine could not have the reason." Edric's unfinished message
+      delivered to Kael — the dash as physical object. Sets up series arc.
+
+  #12 THE SILENCE AFTER (Ch. 28): STRONG
+      Emptiness. Wind through ruins. Stoneveil alone. 72 survivors. "Was it
+      worth it?" asked three times, answered with silence. The skull cleaned
+      of everything that made it a face mirrors Stoneveil's own condition.
+      Final image: wind through stone. The book ends exactly as designed.
+
+EMOTIONAL RAMP VERIFICATION:
+
+  Day 1 (TENSION/CONSTRICTION): STRONG
+    Prologue darkness → tender warmth → dread → chaos → breath/faith.
+    The fist raised, the open hand, the fingers curling.
+
+  Day 2 (FIRST BLOOD/SHOCK): STRONG
+    Shock, adrenaline, collision of expectation with reality. Four POVs
+    create a complete emotional circuit: strategy, violence, grief, faith.
+
+  Day 3 (GRINDING/EXHAUSTION): STRONG
+    Exhaustion. Numbness. The weight. Prose itself grinds. Horror is
+    administrative. Grief is logistical. All four POVs arrive at the same
+    destination: the inability to tell function from identity.
+
+  Day 4 (THE BREAK/DESPERATION): STRONG
+    The ground giving way. The outer ring falls. Kael's faith cracks further
+    (the woman's question: "Then what are you for?"). Edric seen on the wall
+    — Kael cannot cross the thirty paces. The not-kneeling is the crack.
+
+  Day 5 (THE ANVIL/HORROR): STRONG
+    Horror. Recognition. Past and present collapse. Three Key Moments (#5,
+    #6, #8) build without exhausting because they operate in different
+    registers: intellectual/moral, physical/ethical, spiritual/existential.
+
+  Day 6 (THE SEVENTH STRIKE/FINALITY): STRONG
+    Finality. Exhaustion beyond feeling. Military climax (Ch. 25) and
+    emotional climax (Ch. 26) land as separate but complementary beats.
+    Edric's death in Ch. 23 — earned through six chapters of investment.
+
+  Epilogue (THE SILENCE AFTER): STRONG
+    Ch. 27 provides forward momentum (November walks forward). Ch. 28
+    drains it into stillness (Stoneveil sits in silence). Not triumph.
+    Not grief. The hollow, ringing sensation of having survived something
+    that should have killed you.
+
+MINOR OBSERVATIONS (for future polish — none require revision for arc):
+
+  1. Ch. 18: The word "symmetry" appears 3 times explicitly. Consider
+     reducing to trust the reader's perception of the symmetry.
+  2. Ch. 18: The "locked room" metaphor used ~6 times. Consider trimming
+     middle uses to preserve impact for the dusk climax.
+  3. Ch. 20: Some urban warfare sections retread ground from Ch. 18's
+     defender perspective. Could be tightened.
+  4. Ch. 20: "He pushed forward because there was no backward" used 3
+     times. Consider varying at least one instance.
+  5. Ch. 21: Nested clause structures around the prayer passage could be
+     lightened to let the raw prayer breathe more.
+  6. Ch. 27: Chapter runs slightly long. The barracks/garrison walk after
+     the Kael encounter repeats the machine/compass dichotomy beyond what's
+     needed. Could be trimmed 10-15%.
+  7. Ch. 28: Walk to Sundered Gate (middle section) is more procedural
+     than emotional. Could be tightened to accelerate the final meditation.
+
+FIVE CORE THEMES VERIFIED:
+
+  1. The Cost of Necessity (Stoneveil): Present throughout. Every correct
+     decision costs something. The question — can a man who does only what
+     is necessary call himself good? — is asked and left unanswered.
+  2. The Enemy is a Mirror (Thokk/Stoneveil): Fully realized. Reader
+     finishes unable to say who the hero was.
+  3. Faith vs. Function (Kael): The collision between belief and reality
+     is tracked across six days. Faith survives but is transformed.
+  4. Innocence as Currency (Edric): His arc from introduction (Ch. 7) to
+     death (Ch. 23) is earned. The reader loses someone they grew to love.
+  5. The Futility of Walls: Physical and metaphorical. The walls hold.
+     The cost is everything. What's inside isn't worth dying for — except
+     that there's nowhere else.
+
+VERDICT: The emotional arc is sound. All 12 Key Moments land with their
+intended tone. The emotional ramp builds correctly: constriction → weight →
+moral vertigo → devastation → investment. No chapters require rework for
+emotional beat alignment. The seven minor observations above are polish-level
+suggestions, not structural concerns.
