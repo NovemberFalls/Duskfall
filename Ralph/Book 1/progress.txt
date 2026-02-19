@@ -1609,3 +1609,131 @@ Continuity checks:
     consistent with Ch.7, Ch.14 ✓
   - The Creed: exact language maintained — "We do not abandon" ✓
   - Timeline: Day 4, Phase 5 (Part Four: The Break) ✓
+
+[2026-02-19 09:30] CHAPTER 16 — INSIDE THE WALLS — Phase 5, Task 3
+
+Wrote: Book 1/Chapters/16 - Inside the Walls.md
+
+POV: Warlord Thokk Ironhide
+Setting: The Iron Marches (conquered outer ring), the Sundered Gate, the Veil's Throat, Day 4 — after the breach.
+Target: 3,000-4,000 words. Estimated ~3,500 words written.
+
+Chapter covers:
+  - Thokk walks Forge Road through the conquered outer ring. The district is his now.
+    Orc and human dead everywhere. The heat is accelerating decay. The smell is a
+    physical weight. He does not flinch from what his orders produced.
+  - Casualty update: 41 Ironclaw dead on Day 4 (breach and street fighting), bringing
+    total to 249 Ironclaw dead. 17 goblins dead today. Revenants untouched (500).
+  - The Revenants deployed to hold the breach while Ironclaw rest. Efficient, necessary,
+    sits wrong in Thokk's gut. They fight without purpose, driven by something older than
+    the Ironclaw understand.
+  - Human barricade evidence read like tracks — disciplined volley fire, ordered withdrawal,
+    fighting retreat that cost the attacker more than the defender. The human commander's
+    competence visible in the ruins.
+  - The broken spear shaft — good ash wood, honest steel. Made by smiths this commander
+    burned. The Anvil revolt discussed through Gharza's prior assessment: "Da commander
+    who burns his own people is a commander with cracks." But the cracks have not widened.
+  - Krogan reports: eastern bastion cleared. Twelve humans fought to the death in a
+    stairwell, killed three Ironclaw. 32 prisoners taken, mostly wounded. Thokk orders
+    them fed same ration as his own warriors.
+  - Malga's arm wound worsening — three days of tearing the same cut open. Shaman wraps
+    soaked through. She says nothing. She fights. She is Malga.
+  - THE SUNDERED GATE: Thokk walks the Veil's Throat — 60-70 Ironclaw dead from four
+    days of ram assaults, still lying where they fell. Murder holes empty. The corridor
+    designed as a killing ground performed its function. Four ram crews sent, all destroyed.
+  - Thokk puts his hand on the gate. Still warm. Wards still faintly active — pushing back
+    against his touch. "Dwarves built dis." "Nothing stands forever."
+  - THE VIEW SOUTH: Through the gate arch, Thokk looks at the Anvil District wall. Shorter,
+    thinner, built for industry not siege. But the humans are already fortifying — barricade
+    work, helmets moving, ballista positions being established. Seven hours since the breach,
+    and the commander has already reorganized.
+  - GHAR-RUKK: Orcish word meaning "the wound that builds the wall." The human commander
+    is hiding behind the wreckage of his own atrocity. Thokk does not know the specifics
+    but knows the shape of it.
+  - RECOGNITION deepens to its fullest expression: "The difference between them was
+    geography. It had always been geography." If Thokk had been born behind that wall,
+    he would be standing on it. The same arithmetic, the same cost, the same locked room.
+  - Gharza at the western breach: reports four-man human rear guard held the intersection
+    for twenty minutes, killed nine Ironclaw before dying. "Dey didn't come to survive.
+    Dey came to buy time. Dey bought it." — This is Rath's holding action from Ch.15,
+    seen from the orc side.
+  - Gharza's tactical assessment: the Anvil wall is one straight line. No flanks, no tunnels.
+    One approach — straight at it. Skrixx has limited charges, needs to survey.
+  - FOOD CRISIS: Four days left, maybe five. Valley picked clean. Hungry armies don't climb
+    walls. The clock is ticking for both sides.
+  - "Dawn. We go at dawn."
+  - EVENING PYRES: 249 dead. Too many for individual rites — the words blur together.
+    Not from lack of care but from the grief's inability to hold 249 shapes.
+  - Grimtusk update: spirits still quiet. "Dis much dying should make dem loud." Instead
+    they're pulling away — roots too thin to hold. The channel is narrow and getting
+    narrower. If too many die too fast, the rites may stop working.
+  - Thokk's response: "Den we make it quick. One push. Before da channel closes."
+  - Final image: Thokk looking south toward the Anvil wall's torchline. Two men on opposite
+    sides of a wall, neither able to stop. "The dark came in behind him."
+
+Voice notes:
+  - Thokk's blunt, declarative orcish voice maintained. Short muscular sentences in
+    action/observation, longer weighted passages in reflection. The "locked room behind
+    his ribs" metaphor carried forward from Ch.8 and Ch.12.
+  - Orcish dialect consistent: "da," "dey," "dat," "dem," "wit," "yah," "dis."
+  - Grimtusk's speech patterns maintained — deliberate, weighted, the old shaman's cadence.
+  - Gharza's confrontational honesty maintained — she delivers hard truths about food,
+    about the wall, about the tactical reality. She spits and states facts.
+  - Krogan's grief visible in pallor and flat delivery — consistent with Ch.12.
+  - The "recognition" theme reaches its fullest articulation: from understanding (Ch.2)
+    to empathy (Ch.8) to mirror recognition (Ch.12) to explicit geographic equivalence
+    (Ch.16). Building toward the confrontation in Ch.24-25.
+
+Recurring motifs maintained:
+  - "The children needed to eat" — appears once, positioned at the pivot between
+    reflection on the human commander and the decision to keep pressing.
+  - "The dark came in behind him" — closing line, consistent with all Thokk chapters.
+  - "Like roots in bad soil" — Grimtusk's thinning metaphor applied to spirit world.
+  - The skull and cracked wolf knuckle — both in the belt pouch, symbolic pair.
+  - The number seven — still present in bone readings, still unexplained.
+  - The locked room behind the ribs — now "getting crowded."
+  - Bone-ash paste, three-line mark, fist over heart — funeral rites consistent.
+
+Foreshadowing planted:
+  - Rath's rear-guard action seen from orc perspective — confirms Ch.15's events.
+    Four men, twenty minutes, nine Ironclaw killed. Gharza's grudging respect.
+  - The Anvil wall as next battleground — straight line, no flanks, one approach.
+    Seeds Ch.18-19 street fighting in the Anvil District.
+  - Skrixx surveying charges — limited resources, needs to choose where to blow.
+    Seeds the Day 5 assault approach.
+  - Food crisis escalating — four days, maybe five. The siege has a deadline now
+    for both sides.
+  - Spirits pulling away — if too many die too fast, the rites may fail. Seeds
+    Ch.20 "The Spirits Grow Quiet" where the bones won't speak at all.
+  - "Ghar-rukk" — the wound that builds the wall. An orcish concept that mirrors
+    Stoneveil's arc without Thokk knowing the full story.
+  - Dawn assault ordered — sets up the Day 5 opening.
+  - Revenants deployed but causing spiritual unease — the political/tactical cost
+    of using the undead reserves is becoming a spiritual cost.
+
+Continuity checks:
+  - Ironclaw casualties: 167 (end Day 3) + 41 (Day 4 breach/street fighting) = 208
+    Ironclaw dead total. Corrected arithmetic in pyre scene to 208. Consistent.
+  - Goblin casualties: 49 (end Day 3) + 17 (Day 4) = 66 goblins total. Effective
+    goblin strength: ~734.
+  - Revenants: 500, untouched — consistent.
+  - Krogan's scalp wound healing with black gut stitches — consistent with Ch.12.
+  - Krogan's eldest son's death: grief carried in pallor and flat delivery — consistent.
+  - Malga's arm: progressive worsening across Ch.8, Ch.12, Ch.16 — shaman wraps
+    soaked through, never mentioned by her — consistent.
+  - Gharza unwounded, carrying it like a debt — consistent with Ch.12.
+  - The Sundered Gate: black iron, dwarven rune-wards, four ram crews destroyed —
+    consistent with Ch.2, Ch.3, Ch.8.
+  - Veil's Throat: 50-foot-wide killing corridor, murder holes — consistent with Ch.8.
+  - Forge Road: referenced in Iron Marches geography — consistent.
+  - Western breach: 30 feet wide, Skrixx's charges — consistent with Ch.14.
+  - Human rear guard: 4 men at intersection — matches Rath's holding action in Ch.15
+    (Rath + 3 Legionnaires at Foundry Lane / Anvil Row crossing).
+  - Food crisis: 4 days march ration (Ch.12 said 6 days, now 2 days consumed = 4
+    remaining) — consistent.
+  - The cracked wolf knuckle: warm, spiritual charge fading — consistent with Ch.8.
+  - "The children needed to eat": wife's dying words — consistent refrain.
+  - "The dark came in behind him": chapter-closing motif — consistent.
+  - Garrison strength: Ch.14 gives 512 human effective — Thokk would not know exact
+    number but recognizes reduced strength. Consistent.
+  - Timeline: Day 4, Phase 5 (Part Four: The Break) ✓
