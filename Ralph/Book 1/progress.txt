@@ -1501,3 +1501,111 @@ Continuity checks:
   - Rune-wards: "old dwarven work" language consistent throughout ✓
   - Forge-smoke/industrial haze: consistent ✓
   - Timeline: Day 4, begins Phase 5 (Part Four: The Break) ✓
+
+[2026-02-19 08:30] CHAPTER 15 — THE RETREAT — Phase 5, Task 2
+
+Wrote: Book 1/Chapters/15 - The Retreat.md
+
+POV: November Falls
+Setting: The Iron Marches (outer ring) → Anvil District (middle ring), Day 4 — the retreat.
+Target: 4,000-5,000 words. Estimated ~4,600 words written.
+
+Chapter covers:
+  - KEY MOMENT #4: THE WOUNDED MAN. November carries a wounded Legionnaire
+    (Brenn, Second Section, Eastern Bastion) through the retreat from the outer ring.
+  - The retreat order arrives via runner. November's composite unit (Section Four,
+    Corporal Rath) is on the south wall of the outer ring. Eighteen men remaining
+    from the original twenty-three.
+  - Western wall breach felt through the district — sequential goblin detonations,
+    rolling dust. Consistent with Ch.14's breach sequence.
+  - Column retreats south through Foundry Lane toward the Anvil Gate. The retreat
+    is orderly at the front, fraying at the edges.
+  - INTERSECTION AMBUSH: An Ironclaw warband (10-12 warriors) hits the column
+    at the Foundry Lane / Anvil Row crossing. A Legionnaire goes down — struck
+    from the side, axe across the rib joint. Rath and three Legionnaires form a
+    holding action to cover the column.
+  - November stops for the fallen man (Brenn). Everyone else in the column walks
+    past. November kneels, hooks his right arm under Brenn, gets him upright.
+  - A SERGEANT TELLS HIM TO LEAVE THE MAN: "He's slowing the column. Leave him
+    for the stretcher-bearers." November says "No." One word. The compass word.
+  - Edric helps — without hesitation, without being asked. Takes Brenn's other
+    side, distributes weight with blacksmith's hands. The frame holds.
+  - THE COST: 200 paces carrying a man heavier than November. Left arm seizes
+    completely — frozen in spasm. A thrown stone hits November between the shoulder
+    blades, nearly topples all three. Legs failing. The orcs are closing — 50 paces
+    behind, then 40. Rath's holding action breaks (orc war-cry).
+  - COVERING FORCE: Five soldiers emerge from the Anvil Gate to provide cover.
+    Set spears between the stragglers and the pursuit.
+  - November, Edric, and Brenn pass through the gate. Gate closes behind them.
+  - BRENN'S GRIP: "You carried me." / "The sergeant said leave." / "You didn't."
+  - COMPASS CHECK: Standing (barely). Sober (four days). The Creed — not abandoned.
+    The cost is flesh. The price is real. He would pay it again.
+  - HORUS: The outer ring is lost. If she was there, she is now behind the orc
+    line. The not-knowing deepens. The void has the shape of her.
+  - Final image: November and Edric walk toward the new wall. The Anvil District.
+    The ruins. The next battle assembling.
+
+Voice notes:
+  - November's internal monologue: honest, raw, the inner compass auditing in
+    real-time. The Creed as fact, not thought. "The Creed did not have an
+    exception clause for retreats."
+  - Combat descriptions: civilian perspective maintained. November describes
+    fighting the way a man who doesn't belong describes it — confused, fragmentary,
+    the noise as a physical force.
+  - The carrying as extended physical ordeal — each step a negotiation, the body's
+    arithmetic vs. the compass's demand. The prose rhythm mirrors the labor: long
+    sentences, weighted, the grinding pace of a man carrying someone heavier.
+  - Edric's transformation visible: the shaking is gone, replaced by compression.
+    His actions speak — returns without hesitation, carries without complaint,
+    says "I know" when November explains the Creed. Two words that carry the
+    weight of a decision made.
+
+KEY MOMENT #4 execution:
+  - The Wounded Man lands as specified: November carries a wounded soldier who is
+    heavier and slower. A sergeant tells him to leave the man. November does not
+    leave the man. Edric helps. The Creed in action as a choice, not a speech.
+  - Cost: left arm frozen, stone hit to back, legs failing, orcs closing, the
+    gap between the column and the pursuit shrinking. November pays in flesh.
+  - Tone: grim determination, stubbornness, the refusal distilled to a single
+    word (no) and a single action (carrying). Not heroic — human. Ugly, slow,
+    desperate, and moral.
+
+Foreshadowing planted:
+  - Rath's holding action breaks — four men buying time for the column. The
+    cost of rear-guard actions (seeds Ch.23 Day 6 final assault casualties).
+  - The Anvil Gate sealed behind them — the outer ring is gone. Geography
+    shrinking (consistent with worldbuilding-through-action: the reader learns
+    the rings by retreating through them).
+  - Edric says "I know" about the Creed — the first explicit acknowledgment
+    that Edric has internalized November's code. Seeds Ch.23 where they fight
+    side by side at the final barricade.
+  - November's left arm: now frozen in spasm, not merely painful. The physical
+    deterioration accelerates (seeds Day 5-6 combat with increasingly damaged body).
+  - Horus behind the orc line: the possibility that she was in the outer ring
+    when it fell, now inaccessible. Deepens the not-knowing.
+  - Five hundred twelve effective still shrinking — Rath's section, the intersection
+    casualties, the holding action losses. The numbers continue their arithmetic.
+
+Continuity checks:
+  - Left arm: injured Day 1 (Ch.4), wrapped with Edric's cloth (Ch.11), barely
+    functional (Ch.11 "structural pain"), now frozen in spasm — progressive ✓
+  - Right hand: blister → callus → cracked open again during carry — consistent ✓
+  - Composite unit: 23 on Day 2 (Ch.7) → 18 on Day 4 — five lost to various
+    causes, each accounted for ✓
+  - Corporal Rath: established in Ch.11 as section commander who "communicated
+    exclusively in gestures and grunts" — consistent ✓
+  - Borrowed sword: same dead man's sword from Ch.7 — consistent ✓
+  - "Fix your sweep" / blister / grip too tight: recurring motifs consistent ✓
+  - Edric beside November: continuous since Day 2 — consistent ✓
+  - Edric's blacksmith's hands: described consistently (broad palms, hammer
+    calluses, wrong for a swordsman) ✓
+  - November's five-hour sleep: referenced but not belabored — consistent ✓
+  - Sky "still wrong" / brown-sick light / forge-haze: consistent atmospheric ✓
+  - Iron Marches geography: outer ring, Foundry Lane, south wall staging area,
+    secondary gate, Anvil Gate — consistent with Ch.7, Ch.11, Ch.14 ✓
+  - Retreat order matching Ch.14: "Retreat to the Anvil District. The middle ring."
+    Eastern through gate tunnel, south/west through Anvil Gate — consistent ✓
+  - Orc warriors: tooth-and-bone insignia (Ironclaw), grey-green skin —
+    consistent with Ch.7, Ch.14 ✓
+  - The Creed: exact language maintained — "We do not abandon" ✓
+  - Timeline: Day 4, Phase 5 (Part Four: The Break) ✓
