@@ -21,4 +21,4 @@ PHASE 1 — Chapters 1–5
 - [x] C02 Draft
 - [x] C03 Draft
 - [x] C04 Draft
-- [ ] C05 Draft
+- [x] C05 Draft
