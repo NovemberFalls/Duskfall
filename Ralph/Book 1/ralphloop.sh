@@ -54,6 +54,7 @@ Write full draft (3,000–5,000 words).
 
 Follow Writing Rules strictly.
 Do not revise previous chapters.
+Do not write files or run tools. Output only the draft text.
 If moral crossroads appears, output:
 
 DECISION REQUIRED:
