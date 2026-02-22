@@ -1,245 +1,339 @@
-He stood on the ridge above the siege line and watched the city breathe.
+Blood at the Gate
 
-Emberfall was all black iron and smoke. Walls layered like scar tissue. Fires from a hundred forges turned the haze orange. It was a fortress that had eaten its own shadow. The Sundered Gate sat at the center of the lower ring, a blunt wedge of metal and stone. It had killed his people before. It would try again.
+The hill stank of wet hide and ash. Thokk stood on the rise above the camps, one boot on a broken stone, and looked down on Emberfall. The walls were black. The iron gleamed where the sun hit it and died where smoke clung. High. Thick. Scarred.
 
-Thokk Ironhide set his jaw. He rolled his shoulders until the scars on his back pulled tight. He counted the banners at the wall by shape, not by number. Too far for clean marks. He did not need them. The gate was the truth.
+He had seen forts before. He had broken some. He had bled in front of others and walked away with a few hundred still breathing. This one would not fall because of a scream or a run. It would fall because he had no other choice.
 
-A horn sounded in the lower camp. The first wave was almost ready.
+He could taste the day in his mouth. Smoke from the forge-city. Grease and rust from their own fires. Blood not yet spilled.
 
-He looked left. Grimtusk was there already, bones in his hands, ash on his brow. The shaman’s eyes were bright and unfocused, as if looking past the ridge.
+A horn barked behind him. Three short calls. Ready.
 
-“Say it,” Thokk said.
+He did not turn. He watched the wall. He watched the gate.
 
-Grimtusk held a knucklebone between two thick fingers. He turned it once. It clicked on the rock.
+He watched for movement on the parapet.
 
-“The spirits are quiet,” he said.
+There was. Humans in dark plates moved along the top. Short lines. No panic. The gate was shut. They had seen the army. They had shut it anyway.
 
-Thokk did not move. “Quiet means what?”
+Thokk heard the crunch of feet on gravel. He did not look.
 
-Grimtusk’s mouth twisted. “It means they’re tired.”
+“Bonechanter,” he said.
 
-Thokk nodded once. He hated answers like that. He hated the silence more. The old ways were still there, or the shaman would be dust in a cage and Thokk would be wearing his necklace. But the voices had grown thin. Thokk felt it in his bones. A leader was supposed to hear the dead and guide the living. Lately it was only the living who spoke.
+Grimtusk came to his shoulder. The old orc had white paint on his jaw and red on his palms. Bone dust clung to his hair. He carried a sack that smelled like smoke and rot. He did not look at the walls. He looked down at the ground by Thokk’s boot and grunted.
 
-He lifted his chin toward the gate. “We go anyway.”
+“Spirits quiet,” he said. “No talk. Just wind.”
 
-“There is no other,” Grimtusk said.
+“Wind don’t tell,” Thokk said.
 
-“I know.”
+“Nah.” Grimtusk spat. “Bones twist. Same as last night. Bad. Not bad. Just twist.”
 
-Grimtusk pocketed the bone. He wiped his hand on his cloak and smudged ash on the fabric. “Your mother’s spirit will walk with you.”
+“Say it plain.”
 
-Thokk grunted. It was not a prayer, not quite. He let it sit. The dead did not need words.
+Grimtusk lifted his chin, all teeth and bone, and looked at the walls. His eyes were dull. His hand went to his neck where a wolf tooth hung.
 
-Below, the camp moved. Ironclaw banners snapped. Spears rose. Shields came up. Goblins swarmed around the siege engines with their greasy hands and sharp smiles. The machines were squat monsters on wheels. A squat ram with a spiked head. A pair of sling-throwers, crude but heavy. A tall tower of wood and iron, lashed together by ropes that would fail if the gods were careless.
+“City’s hungry,” he said. “Hungry walls. It eats men. Yours. Theirs. No favor. No whisper. I can’t see past the gate.”
 
-Skrixx Blazebinder stood on a cart, arms flailing, mouth open. He was shouting at his crew, but the wind carried only pieces.
+Thokk nodded once.
 
-“Left—no, you mud-brained—rotate!”
+“Then we cut the gate.”
 
-Thokk watched him, then looked away. Goblins were a tool. Useful, unreliable. He had agreed to the alliance because he needed their engines. He kept them at arm’s length because goblins always had a second plan.
+“Skrixx wants his toys close,” Grimtusk said.
 
-He raised his hand. The nearest captain stepped up. “Warlord?”
+“Skrixx wants his fire where it can chew.” Thokk watched smoke curl from the towers. “He can want. He’ll do it when I say.”
 
-“First wave,” Thokk said. “Heavy shields. No glory. Hold the line at the gate. Keep the ram moving.”
+The old orc made a low sound, almost a laugh, with no humor in it. “Goblins don’t wait for ‘say.’”
 
-The captain’s jaw tightened. “If we lose too many—”
+Thokk turned and looked at Grimtusk. “They wait for fear.”
 
-“We will,” Thokk said.
+Grimtusk’s lip pulled back. “Then make him fear.”
 
-The captain bowed and ran.
+Thokk looked back to the walls. The sun slid down and the light bled red across the stone. It made the towers look like fresh cuts. He had no love for light. He had love for time.
 
-Thokk turned back to the ridge. He let the view sit in him for a heartbeat. Not because it was pretty. Because a man should know what he was about to spend.
+He raised his hand. Two fingers.
 
-He had counted the dead in his head last night. If the gate held, if the defenders were even half what the scouts claimed, the first wave would break. He would lose more than he liked. He did not have the luxury of liking. The Ironclaw were starving in their valleys. The Veilfire sickness had poisoned the herds and stunted the game. Another winter would kill them. This winter would kill them if the siege failed.
+A runner broke from the line, sprinting down the slope. The horn barked again. The camps shifted.
 
-He looked at the gate again. His hand closed around the hilt of his axe.
+Below, the army woke like a beast being dragged to its feet. Orcs on the line took up shields. The Ironclaw banners lifted. Red handprints on black leather. Drums began, slow and heavy, not a song. A pulse.
 
-“Blood at the gate,” he said to no one.
+He walked down from the rise. His cloak dragged through dust. He could feel eyes on his back. He let them look. He let them draw the strength they needed from his shape, his size, the way he did not hurry.
 
-Below, the horn sounded again. This one was deeper.
+At the staging line, the first wave waited in a crouch. Warriors with scarred faces and burn marks along their arms. The young ones were further back. This was a cut meant to bite hard and die hard.
 
-The first wave began to move.
+A troll stood in the line, taller than all of them, a slab of muscle with a chain across his chest. His eyes were flat. He breathed through his nose, slow. A goblin perched on his shoulder like a rat on a ox, quick head, quick hands.
 
-*
+Skrixx was already there, in a leather harness blackened by soot. Small. Sharp. His ears twitched every time a drum beat hit the air. He held a charcoal stick and a scrap of hide with marks all over it. Lines and angles. He was mouthing to himself.
 
-The ground shook under their feet. The line came off the ridge in a steady march, shields forward, spears angled. The armor on their backs was mismatched. Plates taken from old wars. Leather from hunts. Iron torn from carts and reshaped. Thokk walked beside them, not in front. He did not lead a charge from horseback. He led with his boots in the dirt.
+Thokk did not like goblins. He did not hate them. He used them. He needed their machines.
 
-He kept his pace slow. The ram team needed space. The goblin engines creaked behind the orc line. Skrixx rode with them, shrieking at his crew.
+“Skrixx,” he said.
 
-“Faster! Faster!”
+The goblin whipped around, eyes bright. “Boss-krag. Big boss. You see it? You see the gate? Big iron, big stone. Big chew. We burn, we break. My crew ready. We need closer, though. The throwers—”
 
-The city loomed. The first arrows fell before they were halfway.
+“Not yet,” Thokk said.
 
-Shields took the brunt. A few arrows slipped low, found the gaps between plates. A grunt, a stumble. No one stopped. The line tightened. The ground changed underfoot from grass to hard-packed dirt to broken stone.
+Skrixx’s mouth moved in a fast line. “Not yet? But we—” He stopped when Thokk looked at him. The goblin’s spine went straight. “We wait.”
 
-The defenders were quiet. That told him something. A loud wall was a nervous wall. A quiet wall had done this before.
+“You throw when I say.”
 
-“Steady,” he called.
+Skrixx nodded, quick. “We throw when boss says. We throw hard. We throw ugly.”
 
-The orcs moved as a block, a tide with a spine. The ram rolled between them, a log capped with iron teeth. Goblins clung to its sides, squealing, their legs too short for the stride. It was a good machine, as good as goblins could make.
+Thokk stepped past him. The troll’s eyes followed. Thokk put his hand on the troll’s chest, felt the drum of its heart under knotted muscle.
 
-The first volley of siege stones arced overhead, black silhouettes against the smoke. One hit the lower wall, shattered a parapet. Stone dust rose. A cheer from the goblins. Thokk did not join it.
+“Hold,” he said.
 
-Then the gate was close.
+“Hold,” the troll said, slow and low, as if the word weighed something.
 
-Arrows thickened. A bolt slammed into the face of the orc two steps ahead of Thokk. The iron punched through his cheek and out the back of his skull. He fell without sound. The orc behind him took his place.
+Thokk moved down the line. The first wave had no cheers. They were quiet. They knew what the wall did.
 
-Thokk ducked a bolt that thudded into the shoulder of his cloak. He did not break stride. He lifted his shield and pushed.
+He stopped in front of a warrior with a cracked helm and a fresh scar across the chin. The orc’s eyes were steady. His name was Grom. Thokk had seen him cut a boar in half with a single stroke. He would not see that again.
 
-They reached the killing ground in front of the gate. The defenders had cleared the space to deny cover. It was bare stone, slick with old blood.
+“First in,” Thokk said.
 
-“Ram!” Thokk barked.
+“First in,” Grom said.
 
-The crew pushed. The ram swung. The iron head struck the gate. The impact shuddered up Thokk’s legs and into his bones.
+“Hold till the drums stop.”
 
-They hit again. And again.
+“Hold.”
 
-The wall above erupted. Rocks, hot tar, and heavy iron spiked balls were thrown down. The first spiked ball took two orcs in the chest and rolled away with their bodies still attached. Tar hissed as it splashed across shields and skin. A goblin screamed. Then another. The ram crew did not stop.
+Thokk looked at the ranks behind them. The second wave. The third. The goblin machines were dragged into place by teams of oxen and chained trolls. The wooden frames creaked. The buckets of black pitch glistened.
 
-Thokk’s shield took a rock. It cracked the edge and jolted his arm. He snarled and held.
+He could feel the army’s hunger. He could feel their fear under it.
 
-“Keep it moving!” he called.
+He drew in a breath and let it out slow.
 
-The defenders appeared over the gate. Rows of helmets, spears angled down. The orc line pressed forward. Spears met spears. Blood fell in thin sheets. The space shrank. The ram swung. The gate held.
+“You know the gate,” he said, not loud, but enough. “It holds. It’ll bite. It’ll take. You don’t break. You don’t run.”
 
-A body fell from the wall. It hit the ground hard, bone breaking, and did not rise. He could not tell if it was orc or human. It did not matter. The dead were all the same.
+No one answered. They did not need to. They had already bled for him. He had already bled for them.
 
-A shout went up. The left flank was faltering.
+“Take what you can,” he said. “Hold what you take.”
 
-Thokk turned his head and saw the problem. The goblin tower had been hit. The front wheels were crushed. It leaned, swaying. Goblins scrambled, screeching, trying to right it. The defenders above hurled another rock. It struck the tower’s side. The tower toppled, crushing two goblins and a pair of orcs beneath it.
+The drums shifted, faster now. Three beats. Pause. Three beats. The signal.
 
-Skrixx flung his arms, red-faced, eyes wide. His mouth opened. No words made it across the noise.
+He raised his fist.
 
-Thokk swore. The tower was lost. That was expected. The goblins did not build for longevity. They built for speed. Still, it was a cut.
+It came down.
 
-The ram struck the gate again. A crack spidered across the iron bands.
+The horns cried out. The first wave surged.
 
-Thokk’s chest tightened. Not yet. Not today. The gate was thicker than he wanted. He had known that.
+They moved as one black mass across the plain. Shields up. Axes low. The ground shook. Thokk walked with them for ten paces, then stopped. His place was not the line. His place was the eye.
 
-“Hold!” he shouted. “Hold the line!”
+He watched.
 
-The orcs locked shields. The defenders above shoved spearheads down between the gaps. Thokk saw a young orc take a point through the collarbone. The boy’s eyes met his for a heartbeat. Then the light went out. Thokk’s jaw clenched. The line did not move.
+The distance from camp to wall was open, no trees, no rocks. Emberfall’s defenders had burned the scrub. They wanted clean lines for arrows and fire.
 
-Arrows hammered the shields. Bolts thudded into the ram. The goblin crew squealed and pushed.
+The first volley came from the walls. It was not a storm. It was a measured line. Bolts. Heavy, thick. They punched through shields and men.
 
-“Again!” Thokk said.
+An orc fell. Another. A shield split. Blood sprayed out in a thin line. The wave did not slow. It thickened where men fell. It flowed around them.
 
-The ram hit. The gate shook. No break.
+More bolts. The wall’s rhythm steady. It was not fear fire. It was control.
 
-A horn sounded from the wall. The defenders were calling for reserves. That was a good sign. They were stretched. But the first wave was already bleeding out.
+The first wave hit the ditch. They dropped planks. The first orc to step on the plank took a bolt in the neck. He fell in the water, red blooming. The next stepped over him.
 
-Thokk weighed it. He could push the second wave now, in the hope of a break. Or pull back, save strength, and bring the second wave later.
+Thokk saw a warrior slip, go down on one knee, and be trampled. The wave moved.
 
-He chose the first. He had to. If he spent nothing today, he would spend everything tomorrow anyway.
+They reached the base of the wall. The ladders went up. Hooks bit into stone. Hands and boots found rungs.
 
-“Second wave!” he called. “Bring the ladders!”
+The defenders pushed them off. Long poles. Blades at the ends. Orcs fell backward. They hit the ditch, broke. Others climbed over their bodies.
 
-The next line surged. Ladders came over the shoulders of orcs. They ran into the killing ground, feet slipping on blood.
+Thokk watched the gate.
 
-The defenders above moved with drilled precision. The first ladder hit the wall. A spear tip pushed it sideways. It slid, fell. A second ladder went up. It stuck. Orcs climbed. The first head crested the edge. It was cut down. Another came. Another fell.
+Stone and iron. A seam. A mouth.
 
-Thokk pushed forward. He felt the weight of the wall pressing back, a living thing. This was not a raid. This was a grinder. He had known that, but knowing was not the same as standing in it.
+The battering ram rolled up, iron head shaped like a boar. It swung and hit. The sound was deep, hollow. The gate did not move.
 
-The ram hit again. The crack in the gate widened. The iron bands creaked.
+The ram hit again.
 
-He saw a shape above. A figure in dark armor, standing back from the edge. A human with a mask, perhaps. The figure raised a hand. The defenders shifted. A volley of bolts came in tight. The ram crew lost two goblins. The third goblin tried to keep it moving. He was small. The ram sagged.
+The gate held.
 
-Thokk shoved through the line, grabbed the ram’s side, and pushed. His boots slipped. He dug in and drove. The ram swung with his weight behind it.
+The first wave was on the ladders. Some made it up. A handful. He saw one orc get to the top and take a sword through his belly. He hung there, hands on the parapet, then slid down.
 
-The gate did not break.
+He watched the timing. The wall fire stayed even. The defenders did not overreach. They were trained.
 
-He tasted iron in his mouth. He had bitten the inside of his cheek.
+His jaw tightened.
 
-Another orc went down beside him. The defender’s spear withdrew. Thokk saw the blood, bright and thin. He did not look at the orc’s face. There was no time.
+A goblin shriek cut across the field as a wall bolt took him in the leg. He spun, went down, crawling, still dragging a rope tied to a siege ladder. His crew hauled him back as best they could. He screamed the whole way.
 
-The horn from the wall sounded again. The defenders’ rhythm quickened. The gate was not breaking. The ladders were falling. The first wave was bleeding out. The second wave was soaking in its blood.
+Skrixx’s machines were still, per his order. The goblins fidgeted around them, fingers on levers. Impatient.
 
-Thokk raised his arm.
+The ram hit again. The gate shook. No crack.
 
-“Pull back!” he roared.
+The drums stayed steady.
 
-The call moved down the line. The orcs backed in a rough order, shields high. The defenders threw rocks and bolts, but their pursuit did not come past the gate. The killing ground emptied in slow, stubborn steps.
+Then the wall’s sound changed. Not louder. Sharper. The hiss of burning oil.
 
-Thokk kept his back to the gate until the last of his line retreated. He then turned and walked away, shield up, axe low.
+A bucket tipped from the parapet. It fell in a thick black sheet and struck the base of a ladder. Flames roared up. Orcs on it screamed and flung themselves backward. One fell, on fire, into the ditch. The fire spread on the water, crawling.
 
-The first assault had failed.
+Thokk clenched his hand. He wanted to shout. He did not. The first wave knew it would burn. That was the cost.
 
-*
+He kept his eyes on the gate and the top of the wall, the pressure points. His mind counted. Ladders. Men. Gaps.
 
-The ridge was a table of stone stained with old blood. The line gathered there, wounded sprawled where they fell. Some screamed. Most did not. Medics moved among them with crude tools. Water was poured into mouths. Bandages were tightened. A few were too far gone. They were left.
+A horn from the wall. A change in the defenders. They were rotating. The defenders were not panicking. They were relieving men. That meant reserves. That meant order.
 
-Thokk walked among them. He did not announce himself. He did not need to. The orcs knew his gait. They looked up, saw him, and tried to rise. He pressed a hand to their chests and pushed them back down.
+He moved to the right, closer to the machines, to see the left flank. The orcs there had reached the base and were wedging iron spikes between stones. Trying to pull out blocks, to open a hole, to make a pocket.
 
-“Stay,” he said.
+A human with a red crest leaned over the parapet and pointed. Three archers shifted and put bolts through the first orc’s face. He fell with the spikes still in his hands.
 
-He crouched beside a fallen warrior with a split helm. The orc’s eyes were open. His mouth was full of blood.
+Thokk’s lips pressed into a line.
 
-Thokk recognized him. Rark, son of Juma. A good spear. He had eaten with him last night.
+This was not a wall that had seen one war. This was a wall that had seen many.
 
-“Warlord,” Rark said. It came out as a rasp.
+He raised his hand and made a low circle. The signal to the second wave to tighten and to the goblins to bring up the machines.
 
-“You fought,” Thokk said.
+Skrixx scuttled over, eyes bright, hair spiking from his head. “Now? Now? We burn now?”
 
-Rark tried to nod. It was a small motion.
+“Now,” Thokk said.
 
-“Good,” Thokk said.
+Skrixx barked at his crew in that fast, broken tongue. The goblins moved like spiders around the frames. They heaved and braced. They lit the pots of pitch.
 
-Rark’s eyes fluttered. The light dimmed. He exhaled, long and slow, and did not breathe again.
+The first engine threw. The pot arced, a black fat thing, and burst against the wall. Fire blossomed. It stuck to stone and to the men. A human screamed. Another slapped at his arm. He did not get it off. He fell backward.
 
-Thokk set his hand on Rark’s forehead. He closed the eyes. He stood and signaled to the nearest runner.
+The second engine threw. The pot hit the parapet and spilled down, a curtain of flame. Orcs at the base yelled, a guttural roar, and pushed ladders up into the smoke.
 
-“Bring the bone bowl,” he said.
+Thokk watched the gate. The ram swung again. A faint crack. Not the gate. The frame. The iron bands strained.
 
-The runner left at a sprint.
+He could feel the pull in his chest. If the gate broke now, if the wave got in, he could push, could wedge a wedge of iron in and hold it. That was the whole plan. Break, hold, pour in.
 
-Grimtusk appeared, moving with his staff in a slow circle. He looked tired.
+He waited.
 
-“Too many?” he asked.
+The defenders did not falter. A line of humans in black moved to the gate. They put shoulders to the inner brace. The ram hit and the gate flexed, but did not give.
 
-“Too many,” Thokk said.
+Thokk watched the top of the wall. The fire from the goblins was forcing the defenders back. Not far. They were using wet hides to beat at the flame. They were not screaming. They were working.
 
-Grimtusk dipped his head. He was not surprised.
+He saw something else then. A shape in heavy armor, moving along the parapet, not running, not shouting. He didn’t know the man. He did not need to. That was command. That was a leader on the wall. The line’s spine.
 
-The runner returned with a carved bowl made of pale bone, etched with old war marks. Thokk took it. He walked to the center of the ridge. He lifted the bowl, then knelt.
+Thokk’s throat tightened. Leaders on walls die. Good leaders know when to step away. This one was still there.
 
-His voice was low. He did not shout.
+The first wave hit their limit. Ladders snapped under the weight, burning. Orcs fell, some into the fire, some into the ditch. The ground at the base of the wall was slick with blood and mud.
 
-“Blood,” he said. “Steel. Earth.”
+The ram’s ropes frayed from heat. One snapped. The ram swung wild and hit the ground. The crew cursed and tried to reset. The gate stayed closed.
 
-He poured a little blood from his own cut hand into the bowl. It was a thin stream. It mixed with the dust. He dipped his fingers in and marked the foreheads of the nearest dead. One by one. He did not skip. He did not rush. Each mark was a weight. Each weight was his.
+He lifted his hand again. Two fingers. The signal to pull the first wave back to the line and let the second step forward.
 
-The orcs around him lowered their heads. The goblins watched from a distance, quiet for once.
+They did not pull.
 
-When he was done, he stood. He wiped his hand on his cloak. He lifted his axe and held it high, blade catching the orange light.
+Not all. Some were locked at the wall. Some could not move back. The ladders were too hot. The ditch was too filled. The line had no clean retreat.
 
-“Rark of the Ironclaw,” he said. “Kulla. Drass. Murd.” He named the dead he knew. He could not name them all, but he did not pretend to. He ended with the old words, the ones his father had used. “You are not forgotten.”
+He could hear their breath even from here. He could hear the change in the drums as the beat stumbled.
 
-The answer was a low, rough murmur. It was not a cheer. It was a promise.
+He snarled.
 
-He turned and looked back at Emberfall. The gate stood. The wall held. The defenders were smaller now, but still there. They were tired. But they were not broken.
+“Runner,” he said.
 
-He breathed in the smoke. He tasted ash.
+A young orc with a shaved head and a black stripe down his face came to his side. Thokk grabbed his shoulder and pushed him forward. “Tell Grom. Fall back. New wave in.”
 
-“We hit again,” he said.
+The runner sprinted.
 
-A captain stepped up, blood on his cheek. “Tomorrow?”
+Thokk watched him go. The boy dodged a falling ladder. He slid in mud. He got up and ran on. That is what they did. That is what they had to do.
 
-Thokk shook his head. “Night. We do not let them sleep.”
+The second wave surged, but it was not clean. It was a shove into a knot. It was bodies at the base of a wall, burning and bleeding.
 
-The captain grinned without teeth. “As you say.”
+He moved forward, close enough to see the faces. He would not be a leader who only watched. He would not be one who stayed clean.
 
-Thokk looked past him. The goblin engines were being pulled back. Skrixx was shrieking. Two goblins dragged a broken wheel. Another hammered at the ram’s side, cursing. Thokk watched them and saw their terror. If the siege failed, the goblins would die too. They knew it.
+A bolt hissed past him and thudded into the ground. Another grazed his shoulder, hot and sharp. He felt the sting, then the blood. He did not flinch.
 
-He looked back at the gate. He did not see the figure in dark armor now. The wall had pulled back. The defenders were re-forming.
+Grom was at the base, shouting. The helm was gone. His face was dark with soot and red streaks.
 
-He felt the cost in his shoulders, in his back, in the tightness between his ribs. It was not fear. It was weight.
+“Pull back!” Thokk roared.
 
-He had expected the gate to be hard. He had expected blood. He had expected the first wave to break. He had not expected the defenders to fight with that kind of quiet. He had not expected the wall to feel like a living thing.
+Grom looked up, eyes wide. He nodded once and shoved an orc off the ladder, not to kill him but to make room to get down. He grabbed the man’s collar, yanked him back, then slid down the rung himself. A bolt took him in the side. He grunted and kept moving.
 
-He would have to change the plan. He would have to make the next wave heavier. He would have to send more of his best into the killing ground.
+Thokk caught him at the bottom. He held him upright for a beat.
 
-He could do it. He would do it. That was the price of a future.
+“Hold,” Thokk said.
 
-He walked down the ridge, past the wounded, past the dead, toward the camp.
+Grom’s mouth opened, closed. He nodded.
 
-The first assault had failed. The siege was real now.
+Thokk pushed him back toward the line. “Go.”
+
+Grom went.
+
+The second wave pressed in. They took the ram rope and reset it. The ram swung. The gate shook. The inner brace held.
+
+Thokk saw the line on the parapet shift again. A new set of shields. Fresh men. The defense had depth.
+
+The first wave was thin now. Thokk could count the gaps where men had started and were now gone.
+
+He clenched his jaw until it hurt. He had expected loss. He had not expected how clean their line was.
+
+He called to Skrixx, “More fire.”
+
+Skrixx squealed and shoved his crew. The engines threw again. The fire licked the parapet. The defenders retreated a step, then came back. They did not yield the wall.
+
+Thokk watched the gate.
+
+It did not break.
+
+He lifted his hand. The signal to fall back. Three slow beats on the drum. A call to pull in and count. No shame. No panic. This was only the first bite.
+
+The horns blew. The orcs at the base began to pull back. Some were slow. Some were dragging wounded. The defenders on the wall threw down a last volley. The bolts punched into backs. Men fell. Others kept dragging.
+
+Thokk moved forward into the falling line. He grabbed a wounded orc by the arm, hauled him up.
+
+“Keep moving,” he said.
+
+The wounded orc’s eyes were glass. He coughed and stumbled. Thokk pushed him on.
+
+They pulled back to the staging line. The field between was littered with bodies. Orc and goblin. A few humans, too, thrown from the wall by the goblin fire. Not many.
+
+Thokk’s chest was tight. He could feel the heat of the day and the heat of the dead.
+
+He turned to the line and lifted his hand. The drums stopped.
+
+Silence came in.
+
+The orcs breathed. Some laughed, short, the way you do when you’re glad you’re not dead. Some sat down and stared at their hands.
+
+Thokk walked the line. He looked at each face. He said nothing. He did not need to. They could see the wall. They could see the gate still shut. They knew.
+
+A cry rose from the right. A small group was gathered around a fallen warrior. The man’s chest had been split by a bolt. His hands were open, empty.
+
+Thokk went to him and knelt. He set his hand on the dead man’s brow.
+
+“What’s his name?” he asked.
+
+“Rulk,” a warrior said. “He fought at Bloodtide.”
+
+Thokk nodded. Rulk. He had seen him once. Not enough to know him. Enough to feel the loss.
+
+He pulled the dead man’s axe from the mud. He placed it on the man’s chest. He touched his own forehead, then the dead man’s.
+
+“Go to the old fire,” he said. “Take your kills with you.”
+
+He reached into his belt and drew a small strip of red cloth. He tied it around the dead man’s wrist. The rite was simple. It had to be. There were too many.
+
+He stood. He looked at the others. “His blood feeds the clan,” he said.
+
+The warriors echoed it, low. “Blood feeds.”
+
+He moved on. Another dead. Another rite. Another name.
+
+It was slow work. It steadied his chest.
+
+Behind him, the goblins chattered. Skrixx was yelling at his crew, kicking at a jammed wheel, cursing in his sharp tongue. Thokk let him. The goblins needed their noise. The orcs needed his quiet.
+
+When the line was counted and the dead were marked, he went back to the rise.
+
+Grimtusk was there, leaning on his staff, bones clacking.
+
+“How bad?” the Bonechanter asked.
+
+“Bad,” Thokk said. “Not enough.”
+
+Grimtusk’s eyes were on the walls. “City’s strong.”
+
+“They’re trained.”
+
+“Ghosts on the wall,” Grimtusk said. “Old blood. Old stone. It holds.”
+
+Thokk looked down at Emberfall. The smoke from the goblin fire still curled, but the wall was quiet now. No movement. No cheers. No panic. The gate was shut. It was still shut.
+
+He could see his dead on the field. Dark shapes on gray dirt. The wall had not given them back.
+
+He felt the weight in his gut, heavy and familiar.
+
+“Tomorrow,” he said.
+
+Grimtusk nodded.
+
+Thokk stayed on the rise until the sun touched the line of the wall. The light turned red and then went out. The first assault had failed to break the gate.
+
+The siege was real now.
