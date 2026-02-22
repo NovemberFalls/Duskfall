@@ -1,293 +1,305 @@
-Gray light leaked over the inner wall like thin ash. It didn’t warm anything. It just made the soot on the stones visible again.
+November woke to iron and smoke.
 
-November stood in the staging yard with a line of other men. He wasn’t in uniform. He was a civilian in a coat that had been gray once, with a borrowed sword at his hip and a scrap of leather tied over his left forearm. He had slept, if you could call it that. A wall. A floor. Ten minutes at a time. He had woken to horns, then to a shout, then to the memory of a woman’s name turning in his mouth.
+Not the good kind. Not the forge’s clean, hot bite. This was damp metal, cold sweat, the sour edge of fear. He rolled off the cot and planted his feet on the stone. The world swayed. He let it. The stone didn’t move.
 
-He didn’t say it out loud. The air was full of other names already.
+Outside, horns were already calling shifts. Short blasts. Fewer words than usual. The siege had already changed how people spoke.
 
-The yard was packed. Soldiers, smiths, laborers, boys whose faces still held the softness of night. They lined up between the armory crates and the water barrels and waited for someone to decide where they would go. The inner wall cast a shadow over all of them.
+He pulled on his boots and stepped into the inner wall staging area.
 
-November rolled his shoulders. The bruises from Day One were there when he moved. A dull ache in his ribs. A sharp, small pain in his wrist where he’d caught the ground hard. He could still close his hand. That mattered.
+The corridor was a throat of soot-stained stone. Men and women moved through it with the same hollow speed. Not panic. Not calm. Motion without choice. A line of spears leaned against the wall, tips dulled from the first day’s drills. The armory line spilled around a corner, a quiet snake of bodies.
 
-A woman in a stained tunic moved between them with a bucket and a ladle. She wasn’t a healer. She wasn’t dressed like the Hall. She didn’t have Horus’s hands. She just poured water into tin cups and said, “Drink.”
+November joined the end of it. He hadn’t slept much, but his head was still. The stillness was the only thing he trusted right now.
 
-He drank.
+He wasn’t supposed to be here. He told himself that on every step. He was a civilian. A man who trained on bad days and patched wounds on worse ones. No papers, no oath. The wall was for soldiers.
 
-Across the yard, a captain stood on a crate with a slate board in one hand. He was reading names. There were too many. He looked tired. He had the look of a man who had slept in armor and then had to wake up and pretend that made him stronger.
+Then he saw the names on the casualty board.
 
-“Gate volunteers,” the captain said. “You take this line.”
+It was a slate nailed to the corridor wall. Chalked columns. Day 1. Names already smudged.
 
-November stepped out with the others. He didn’t look back.
+A healer’s name was not on it. That didn’t mean anything. The Hall of the Fallen kept its own list. No one knew where those lists were now.
 
-A man beside him hesitated. Older, gray hair, hands that had held tools more than weapons. November didn’t tell him what to do. The man swallowed and moved forward. The line closed.
+He kept his eyes off the board and let his hands do the work. He tightened his belt, adjusted the strap on the borrowed sword at his hip. He was not here to grieve. He was here to find. The best way to find was to be where the fighting was.
 
-They were marched toward the armory line. It was a thin line, and it didn’t move fast. They could hear the clang of iron inside and the sound of men swearing as straps snapped or buckles bent.
+A quartermaster in a dark leather jerkin stood behind a table. He slapped a short spear into a man’s hands, then a shield. He did it again. The rhythm had teeth.
 
-The armory sergeant was a block of a man with a beard like wire. He didn’t look up as he handed out gear.
-
-“Name.”
+“Name?” the quartermaster said when November stepped up.
 
 “November Falls.”
 
-The sergeant flicked his eyes up. There was no recognition. Just assessment. He looked down again and shoved a helmet into November’s chest.
+The man paused. “Volunteering?”
 
-“Take it or don’t. It won’t fit anyway.”
+“Yes.”
 
-It didn’t. The helmet wobbled and sat too high. The strap had lost its buckle. November tied it on with a strip of cloth and accepted the wobble.
+The quartermaster looked him over. No armor. Old bruises yellowing on his forearms. The hands of someone who worked. The eyes of someone who hadn’t slept much.
 
-“Next.”
+He slid a shield across the table. Worn iron boss, wood split and repaired at least twice. “You got training?”
 
-A boy stepped up. Nineteen, maybe. Thin. Black hair. Eyes a little too wide. He had a soldier’s tunic on, but it hung on him like a borrowed coat. He said his name and the sergeant pushed a short spear across.
+“Some.”
 
-“Edric Thane,” the boy said.
+“Right.” He looked past November. “Next.”
 
-The sergeant didn’t react. November did. The name meant nothing to him. The way the boy said it did. He said it like it mattered. Like it was supposed to open doors. It didn’t. He took the spear with both hands.
+November took the shield anyway.
 
-They moved to the side and waited. The line of volunteers thickened into a cluster. The captain waved them over to another man in a patched breastplate.
+He moved toward the armory line. A smith was fitting men with mismatched helmets. A woman in a mail coif used a hammer to knock a dent out of a breastplate while the next in line held it still.
 
-“This is your unit. Composite. You’re with him.”
+A man ahead of him glanced back. Young. Dark hair. Wide eyes. He was trying to act like the noise didn’t get to him.
 
-The man was older than the captain, a veteran by the look of his face. He had a broad nose that had been broken at least twice and a scar that dragged one eyebrow down. He watched them, quick and cold.
+“You volunteer too?” the man asked.
 
-“Name’s Garren,” he said. “If you can’t lift your weapon, drop it. If you can’t fight, don’t pretend. Stay behind the shield and do what you’re told.”
+November nodded.
 
-No speech. No welcome. Just a list of conditions.
+“Name?”
 
-He walked them toward the wall.
+“November.”
 
-The inner wall was a long spine of black stone. It had been built to stop a flood. It had never been meant for this. There were scorch marks on it already. Above them, a few archers watched the horizon, their faces smudged with soot. A smell of oil and smoke hung in the air. It got into November’s throat.
+“Edric,” the man said. He offered a hand. It shook a little.
 
-Edric walked beside him. The boy kept his spear tip up like he’d been told. He glanced at November, then looked away.
+November took it. “You with the Legion?”
 
-“You ever been on the wall?” Edric asked.
+“Assigned.” Edric’s grip tightened. He noticed his own hand and let go fast. “I— I’m gate garrison. Or was. They said composite unit now.”
 
-“No,” November said.
+“Composite?”
 
-“Me neither.”
+“Everyone left who can hold a shield. That’s what the sergeant said.” He tried to smile. It didn’t land. “You fight?”
 
-They walked in silence for a moment.
+“Not in a line.”
 
-“I’m not supposed to be on the gate,” Edric said. He said it like it was a confession.
+“Right.” Edric swallowed. “At least there’s a wall.”
 
-November didn’t answer. It wasn’t his business, and he didn’t know what to do with it.
+November didn’t answer. He watched the boy’s eyes flick toward the corridor mouth where the light changed. He looked like he was waiting for a name to be called, for someone to tell him this was a mistake and send him home.
 
-The wall position was a section between two squat towers. A parapet, a walkway, and a set of steps that ran down into the yard behind. There were stacks of rocks and bundles of broken weapons to throw. There were men already there, scarred and quiet.
+No one did.
 
-Garren pointed with his chin. “You’re on that line. Keep your head down. When they come up, you push. If you fall, don’t fall forward.”
+They moved forward together. A helmet was pushed into November’s hands. Too big. He set it on his head anyway. It sat low, pressing his ears.
 
-“Why?” Edric asked.
+A sergeant took a strip of parchment and barked names. “Composite Third. You’re with me. Name?”
 
-“You fall forward, you go over,” Garren said. “Then you die on the wrong side.”
+“Edric Thane.”
 
-That was the only reason.
+The sergeant’s eyes sharpened. “Thane?”
 
-They took their places. November stood on the inside of the parapet, sword in his right hand, leather scrap on his left forearm. He could feel the wall under his boots. It was cold. The stone drank the morning.
+“Yes, ser.”
 
-He looked out.
+“You related to Kael Veyne?”
 
-The field beyond the inner wall sloped down to the outer ring. Smoke rose from there. Somewhere beyond the smoke were the orc lines. He couldn’t see them. He could hear them. A low rumble, like a storm at the edge of hearing. A horn sounded in the distance. One note, then another.
+Edric blinked. “He’s my uncle.”
 
-Edric swallowed. He looked at his spear tip as if it were a question he didn’t know how to answer. November tightened his grip on the sword. The leather strap dug into his palm. He let it.
+The sergeant gave him a hard look. “Lucky you. Unlucky for him.”
 
-He checked his inner compass without thinking. Am I here? Yes. Am I doing what needs doing? Yes. That was enough.
+Edric swallowed. “Yes, ser.”
 
-The first impact came like a cough. A stone hit the wall to the left and exploded into chips. Men flinched. Another stone hit farther down. A third. The sound of it was not like thunder. It was more like a hammer in a forge, but muffled by distance and the thick wall.
+The sergeant turned to November. “Name?”
 
-Archers leaned out and began firing. Their arrows vanished into smoke. A few clattered back, spent. The horn sounded again, closer now.
+“November Falls.”
 
-“Up,” Garren said. “Shields.”
+“No relation to anybody I know.” The sergeant held a finger against the parchment. “You two. That wall section. We need bodies at the breach patch. Follow.”
 
-There were no shields for the volunteers. The regulars lifted iron. The rest lifted whatever they had. November raised his leather-wrapped arm and felt stupid doing it. He did it anyway.
+They did.
 
-The first ladders appeared like black teeth against the wall. Men shouted. Rocks went down. Oil was poured. A scream rose, cut short.
+The wall position was a walkway of stone and iron, a dark spine of Emberfall. The air smelled like oil and damp soot. Beyond the parapet, the morning was gray, but the horizon was already bruised with smoke.
 
-Then hands grabbed the parapet.
+November stood in a line of defenders, shoulder to shoulder with strangers. Above the merlons, the land beyond the walls was littered with movement. Orcs. Goblins. Shapes like ink. The siege engines crouched among them like broken teeth.
 
-An orc’s face came up, teeth bared, eyes yellow. It was closer than November expected. It smelled. The orc heaved, and its head crested. A spear jabbed into its chest from the side, and it fell backward without a sound. Edric’s spear. The boy’s face went pale. His mouth opened and closed like he was trying to breathe through water.
+He tried to find the Hall of the Fallen from up here. He couldn’t. Too much smoke. Too much distance.
 
-Another orc came up, then another. The wall went from empty to full in a breath.
+Edric moved to his left. A woman with a pitted helmet stood to his right. She leaned over and spat off the wall.
 
-“Push!” Garren shouted.
+“Never seen you,” she said.
 
-November stepped forward. The first orc he faced had a hook in its hand and a scar running from jaw to ear. It swung. November lifted his arm too late. The hook caught leather and bit through. Pain burned up his forearm. He swung his sword and hit bone, not blade. The sword jolted. The orc’s weapon tore free, taking leather and skin. November’s forearm went hot.
+“I’m not usually here.”
 
-He swung again. Clumsy. The orc leaned in and grabbed his collar. Its breath was rotten. It pulled. November stumbled. His sword arm flailed.
+“That’s fine.” She patted the wall. “We all are now.”
 
-Someone hit the orc from behind. The creature jerked, turned, and went down. November saw Edric’s spear shaft flex, heard the crack of ribs. Edric pulled the spear back and looked at the blood on it like it was a stain he didn’t know how to clean.
+A horn blew. A deeper blast. The sound went through the wall and into their bones.
 
-“Focus!” Garren’s voice cut through. “They’re up!”
+The sergeant shouted orders. “Shields up. Line tight. Don’t chase. Don’t be a hero. You’re here to stop them, not impress anyone.”
 
-More orcs climbed. The line surged. The wall became a pushing match with teeth.
+No one laughed.
 
-November moved because everyone else moved. He shoved. He stabbed. He missed. He hit stone. His sword skidded along the parapet and jolted his wrist. He didn’t drop it. His left arm bled under the leather. It wasn’t a deep cut, but it kept opening when he moved.
+Another horn. Closer. The clatter below the wall rose into a roar. The first ladders hit stone.
 
-A goblin crested the wall between two orcs. Smaller, quicker. It ducked under a swing and went for November’s legs. November tried to step back and found nothing. The wall behind him was there. He was already on it.
+November tightened his grip on the shield. It felt wrong, the weight and angle. He had trained with sticks and practice blades, not a slab of iron and wood on his arm. The shield pulled him off balance. He adjusted his stance, feet wider, knees bent.
 
-The goblin’s blade scraped his shin. He felt it more than he saw it. He lifted his foot and kicked. The goblin stumbled and a regular soldier’s spear came down through its shoulder. It shrieked and dropped.
+He watched the ladder to his right. Orcs climbed fast. Thick arms. Dirty tusks. Their hands were bare against the wood and they didn’t flinch. One reached the top.
 
-November’s stomach churned. He forced it down.
+The woman beside November stabbed down. Her spear went into the orc’s throat. He fell without a sound. A second orc climbed over the first and kept coming.
 
-He remembered the Creed. Not the words. Just the weight of it. We do not abandon. He looked to his right. A man there had gone down, his helmet cracked, blood in his eyes. He was trying to get up and couldn’t. An orc had seen him. It was coming over.
+Edric raised his spear. He was shaking. He did it anyway.
 
-November moved. He stepped into the gap and swung at the orc. He hit it in the arm, not the head. The blade bit. The orc grunted and swung back. The blow clipped November’s shoulder and almost spun him. Pain flared. He kept his feet.
+The orc cleared the wall and landed hard. It turned its head and found November.
 
-The orc came again. November lifted his forearm to block. The hook caught the raw cut and dug in. He felt his hand go numb. He screamed without sound and drove his sword forward, two-handed. It went into the orc’s belly and stuck. The orc fell backward and pulled the sword with it. November went forward, hands empty, and hit the parapet. He caught himself with his bleeding arm and tasted metal in his mouth.
+Up close, it was bigger. Not in the stories way. In the real way. Broad shoulders. A scar that cut across one eye. The eye that worked held a flat, animal focus.
 
-He reached for the sword. It was gone.
+November’s shield lifted too late. The orc’s axe caught the edge and jolted his arm. The impact rattled his teeth. He felt the line of pain from wrist to shoulder. The orc shoved forward.
 
-“Down!” Garren shouted.
+November stepped back and let the shield slide, using the move to bring his sword up. He slashed across the orc’s forearm. The blade bit shallow. The orc grunted and hit him with the haft.
 
-A rock sailed over the wall and smashed the stones behind them. Chips stung November’s cheek. Dust filled his mouth. He spat. Blood came with it. He didn’t know if it was his or the orc’s.
+It caught him in the ribs. He went down hard.
 
-He grabbed a fallen spear. It was heavy and the balance was wrong. He didn’t have time to think about that. Another orc was coming up.
+The stone knocked the breath out of him. For a second there was only light and pain. He heard someone shout his name. Or maybe it was just shouting.
 
-He thrust the spear. It scraped across armor. The orc snarled and struck back. The axe caught the spear shaft and knocked it aside. The orc surged onto the parapet. Its weight made the wall feel narrower.
+He rolled, trying to get his shield between him and the orc. The orc was already on him. He saw the axe rise. It was too fast.
 
-November tried to pull the spear back. It snagged on a broken stone. He yanked and the shaft cracked. The orc lifted its axe.
+Edric hit the orc from the side. The spear went into its flank and skidded. The orc snarled, turned, and chopped at Edric. Edric stumbled back. The axe clipped his arm. Blood spattered the wall.
 
-A hammer came down on the orc’s head from the side. It crumpled. A woman in a steel cap spat and moved on.
+November pushed himself up.
 
-November stood with half a spear in his hands.
+His ribs screamed. He ignored them. He shoved his shield into the orc’s chest and shoved again. The orc staggered. November drove his sword into the orc’s thigh. It wasn’t clean. It was ugly and wrong. The orc howled and swung.
 
-“Keep moving,” Garren said. His voice was dry. He had blood on his cheek and didn’t seem to notice.
+The axe hit the shield again, splitting the old wood. The boss held. November saw the opening. He drove his shoulder into the orc and the two of them went into the wall. The orc’s breath was hot and rancid. It groped for him with a hand the size of his head.
 
-The assault went on. The wall held. Or it didn’t, and then it did again. The line shifted. Bodies dropped. Men stepped over them.
+A spear thrust from the woman beside him struck the orc in the side of the neck. The orc made a wet sound and fell.
 
-Time stopped being time. It was just the next hand on the stone, the next breath, the next strike.
+November stumbled back, chest heaving. He tasted blood. He wasn’t sure if it was his.
 
-November took another hit. A blunt blow to his ribs. Something in him popped or bruised or both. He coughed and the breath came ragged. He kept moving because there was nowhere else to go.
+Edric leaned against the wall, clutching his arm. His face was white. “I— I’m fine.”
 
-He saw Edric again, a few steps down. The boy was fighting like someone in a dream. His spear shook. His feet kept sliding. He looked terrified. He didn’t run.
+“You’re bleeding.”
 
-A goblin grabbed Edric’s spear and yanked. The boy stumbled forward. An orc reached for his collar. November stepped in and shoved the spear butt into the orc’s face. The orc’s nose broke. It fell back and took the goblin with it. Edric regained his footing. He didn’t say thank you. He just fought.
+“Not bad.” Edric looked down at his arm and swayed.
 
-The wall stank. Sweat and smoke and the sharp copper of blood. The sun climbed a little, but the smoke turned it into a pale coin.
+November grabbed him by the shoulder and shoved him toward the walkway’s inner edge. “Sit. Now.”
 
-At some point, the horn changed. A different note. A signal. The ladders stopped coming. The pressure eased. Men slumped against the parapet. Some slid down and didn’t get back up. The archers stopped firing. The field below was littered with bodies.
+Edric sat. The wall was slick with blood and smoke. November peeled back Edric’s sleeve. The wound was a gash, not deep but long. He tore a strip from his own shirt and wrapped it tight.
 
-“Back,” Garren said. “Water. Check wounds. Don’t sit unless you’re staying.”
+“You were in front of him,” Edric said. “He was going to—”
 
-November backed away from the parapet and leaned against the wall. His left arm was slick with blood. The cut had opened wider. He should have wrapped it. He didn’t. He looked down and flexed his fingers. They moved. That was enough for now.
+“Stop talking.”
 
-Edric came over and dropped onto the stone beside him. He was pale. There was blood on his hands that wasn’t his. He looked at it, then at November.
+Edric shut up. He watched the blood seep into the cloth.
 
-“Are you hurt?” he asked.
+A goblin voice yapped up from the ladder. “Up, up! ‘Eavy boy! Move it!”
 
-“Yeah.”
+A goblin climbed, smaller, faster. It had a hooked blade and a grin too wide for its face. It popped over the edge and saw November.
 
-“Where?”
+“Human,” it hissed. “Wall’s ours.”
 
-“Arm.”
+It darted in. The blade was quick, cutting at November’s leg. He tried to block. The shield was cracked and slow.
 
-Edric nodded, as if that was a list of tasks. He pulled a strip of cloth from his own sleeve and held it out.
+The blade bit his thigh. Fire ran down to his knee.
 
-November took it. His hands shook when he tied it. He didn’t think about how that looked. He tied it anyway.
+He swung at the goblin and missed. The goblin laughed. It danced back and came again, the knife flicking toward his hip.
 
-“First time?” Edric asked.
+November moved forward instead of back. He used his shield like a battering ram and slammed the goblin in the chest. The goblin hit the parapet and gasped. November’s sword caught it in the shoulder. The blade stuck.
 
-“First time on the wall,” November said.
+He yanked. The goblin grabbed the sword with both hands, screeching. Its eyes were wild, its teeth too sharp.
 
-Edric let out a breath that sounded like a laugh that didn’t want to be.
+“Let go,” November said.
 
-“Did you think you’d be good?”
+The goblin spat blood and laughed.
 
-November looked at him. The boy was waiting. Not for reassurance. Just for truth.
+He drove his knee into the goblin’s stomach. The goblin folded. He pulled the sword free and shoved the goblin over the parapet.
 
-“No,” November said.
+It fell screaming.
 
-Edric nodded as if that helped.
+The wall around him roared as more ladders hit, more bodies climbed. The sergeant yelled for a line shift. November moved with it. He dragged his shield behind him. The splinters bit his forearm.
 
-They sat in silence for a moment. Then a cry went up below. A man had fallen from the parapet and landed in the yard. He was alive, but his leg was wrong. A few of them moved toward him.
+More orcs came. A ladder to his left. A ladder to his right. The wall was alive with movement. It was a knot of bodies, a crush of steel and breath and noise.
 
-November pushed himself up and went. He didn’t think about it. The man was breathing and reaching for his own leg like he could put it back.
+He fought badly. He swung too wide. He stabbed too late. He relied on the shield until it failed, then he had to learn to move without it. He took a hit to the shoulder that numbed his arm. He took another to the thigh that sent him limping.
 
-“Hold him,” someone said.
+He stayed.
 
-November knelt and took the man’s shoulders. The man thrashed. November held him down.
+There was a moment when the line broke. The orcs surged onto the wall and for a breath it felt like the wall would empty. Men stepped back. Someone shouted to fall back. A hand grabbed his sleeve.
 
-The healer who wasn’t from the Hall came and set the leg with a crack that made November’s stomach twist. The man screamed. November held him through it. Then he let go. His hands were wet.
+“Move!” a soldier yelled.
 
-He went back to the wall and picked up the half-spear again. It felt like a tool, not a weapon. He didn’t have his sword. He didn’t look for it. There were too many bodies on the parapet. He knew he wouldn’t find it. Not now.
+November looked at the gap where the orcs were climbing. He saw a young woman stumble there, her spear knocked out of her hands. An orc was on her, axe raised.
 
-Another horn sounded. The attack wasn’t done. It was just a breath.
+He moved toward her.
 
-Garren’s voice cut through the yard. “Back to the line.”
+It was stupid. It was all he could do.
 
-They went.
+He collided with the orc and they both went down. His shoulder took the impact. The pain was bright. He shoved his sword into the orc’s side. It hit bone. He pushed harder. The orc slammed its head into his and for a second the world went white.
 
-The second push was worse. The ladders came in a rush. The goblins were faster this time, getting under the throwing arcs. The orcs came over two at a time. The line wavered. A soldier to November’s left took an axe to the neck. Blood sprayed and hit November’s cheek. He didn’t wipe it. There was no time.
+He felt the orc go slack. He rolled off it. The woman stared at him with wide eyes, then grabbed her spear and got up.
 
-He used the broken spear like a club, smashing hands and faces. He did not win. He did not beat anyone clean. He bought seconds.
+“Thanks,” she said. It was automatic. She was already moving.
 
-An orc got over with a shield. It shoved into the line and pushed men back. November jabbed at its shield and the spear snapped further. He let it fall and grabbed the orc’s shield rim with his good hand. His arm screamed. He shoved and the shield moved an inch. The orc hit him in the face with its elbow. Stars went off behind his eyes. He stumbled. The parapet edge bit into his hip.
+He got up too.
 
-Edric screamed. November heard the fear in it. He looked. Edric was tangled with a goblin, the spear between them. The goblin had a knife and was working it toward Edric’s side. Edric’s hands shook and his face went white.
+The sergeant was shouting again. “Line up! Tight! Tight!”
 
-November moved. He shoved the goblin’s shoulder. The goblin twisted and slashed. The blade caught November’s forearm, the same cut. He hissed and used his other hand to drive the goblin’s head into the parapet. It went limp. He let it drop.
+Edric was back on his feet, one arm bound and hanging useless. He held his spear in the other. It wobbled but he kept it upright. He saw November and his face eased.
 
-Edric was breathing hard. He looked at November and then away. He didn’t say anything. He just lifted his spear again.
+November nodded. That was all. The nod meant: still here.
 
-The line held. It was ugly. It was inches. It was men bracing their boots against slick stone and pushing until their legs shook. It was hands pulling others back from the edge. It was a man saying “Hold” because he had nothing else left to say.
+They fought for hours. Time was broken into hits and breaths and small choices. The wall became a strip of stone that existed only in front of him. The rest of the world fell away.
 
-November took another hit. A rock caught his shoulder and drove him to his knees. Pain shot up his neck. He tasted blood and realized he’d bitten his tongue. He spat. The ground was red.
+He did not win any fight. He survived them.
 
-“Get up,” someone said.
+He took another hit, this one from a goblin’s sling stone that cracked off his cheek. Blood ran into his mouth. He spit it out. The taste was bitter and copper.
 
-He didn’t know who. He didn’t look. He got up.
+He kept moving.
 
-His left arm was nearly numb now. The cloth was soaked and slippery. He tried to tighten it and couldn’t. He gave up. He kept his right hand on the parapet and waited for the next ladder.
+Somewhere in the middle of it, the Creed came into his head. Not as words, not as a phrase. As a weight on his chest. As the pressure to stay even when the body told him no. It didn’t make him stronger. It made him steadier.
 
-He thought of Horus again, not as a memory but as a fact. She was out there somewhere. Or she was not. He didn’t know. He was here because he didn’t know. He was here because if he left, he would be the man he had been before, and he had killed that man.
+He saw a legionnaire try to pull a wounded man out of the line and fail. The wounded man’s leg was gone below the knee. Blood poured onto the stone. The legionnaire was struggling with the weight.
 
-We do not abandon.
+November moved. He grabbed the wounded man under the arms. The man’s head lolled. His eyes were open but empty. November hauled him back behind the line. His thigh burned. His ribs burned. He did it anyway.
 
-The thought was a stone in his chest. He carried it. It did not make him stronger. It just made leaving impossible.
+He set the man down behind the parapet. A healer darted in and pressed cloth to the stump. “Thank you,” she said without looking up.
 
-The final push broke in the early midmorning light. A horn. A retreat. The ladders dropped away. The field below the wall was thick with bodies and smoke. The sound of the orc drums faded. The wall went quiet except for the breathing.
+He turned back to the wall.
 
-November leaned on the parapet and realized his hands were shaking. He forced them to still. He looked down at the yard. Men were carrying bodies toward the center. Not just the dead. The wounded, too. The line of stretchers went toward the Hall of the Fallen.
+The assault finally ebbed. The orcs pulled back first, dragging their dead. Goblins disappeared in the smoke. The ladders were shoved away. The wall stayed standing.
 
-He didn’t see Horus. That meant nothing. It meant everything.
+The horn blew again, different this time. The sound was thin. A lull. Not a victory.
 
-Garren walked down the line, counting heads. He stopped at November. He looked at the blood on November’s sleeve and the rawness of the cut. He looked at November’s face.
+November leaned against the parapet and closed his eyes. His breathing came in short, sharp pulls.
 
-“You should be in the yard,” Garren said.
+Edric sat beside him. “You okay?”
 
-“I can stand,” November said.
+“No.”
 
-“You can bleed,” Garren said. “Do both in the yard.”
+Edric huffed a small laugh. “Me neither.”
 
-November didn’t move. He wanted to. He wanted to lie down and let someone else take the wall. He didn’t.
+They sat in the dark light of a smoke-choked morning. The stones under them were warm from bodies and sun. The wall smelled like blood and iron and wet ash.
 
-Garren stared at him for a moment. Then he nodded once and moved on.
+The sergeant moved down the line, counting. He looked at November, then at Edric. “You two still breathing?”
 
-Edric sank to the stone beside November. He was pale. He had a cut above his brow that bled down his cheek.
+“Yes, ser.”
 
-“You okay?” November asked.
+“Good.” He slapped November’s shoulder, then stopped as if he realized he’d hit a bruise. “We’ll need you again.”
 
-Edric nodded. It wasn’t convincing.
+“Understood.”
 
-“You did good,” November said.
+The sergeant moved on.
 
-Edric looked at him as if he didn’t understand the sentence.
+Edric stared at his bandaged arm. “I killed one.”
 
-“I didn’t—” He stopped. He swallowed. “I almost—”
+“Did you?”
 
-“You didn’t,” November said.
+“Yeah.” His voice had a shake. “I don’t know if that’s a good thing.”
 
-Edric looked down at his spear. His hands were still shaking.
+November looked out over the wall. The field was dotted with bodies. Some moved. Some didn’t.
 
-“First time,” he said.
+“I don’t know either.”
 
-“Yeah,” November said.
+Edric glanced at him. “Why are you here?”
 
-They sat in silence. The wall beneath them was warm now, not from the sun but from the bodies that had pressed against it. November took slow breaths. His ribs hurt. His arm throbbed. His mouth tasted like metal.
+November could have lied. He could have said the creed or duty or the city. All of that was true, and none of it was the whole truth.
 
-He could hear the yard behind them. Orders. Crying. A hammer on iron. A prayer spoken too quietly to be heard.
+“She’s missing,” he said. “The healer. She was in the Hall. The blast hit. I need to find her.”
 
-He had blood on his teeth. He knew it because he could feel the grit when he closed his mouth. He didn’t wipe it away. He wasn’t sure when he’d started bleeding there. It didn’t matter.
+Edric nodded. He didn’t ask for a name. He didn’t need it. “We’ll keep an eye out.”
+
+November felt the weight of the promise. He didn’t correct it. He couldn’t.
+
+The line was quiet now. Men and women slumped against the wall, hands shaking as they drank from canteens. Some sat with their heads between their knees. One stared at his hands as if they weren’t his.
+
+November looked down at his own hands. They were red. Not all of it was his. He wiped them on his trousers.
+
+His thigh throbbed. His shoulder was a dead limb. His mouth tasted like iron and smoke. His teeth hurt.
 
 He was still standing.
 
-Not because he was good. Not because he won.
+He turned his face toward the inner wall. The city was hidden by smoke and the low rooftops. Somewhere below, the Hall of the Fallen was a quiet box of stone in a city that wouldn’t stop burning.
 
-Because he stayed.
+He would go there when the line allowed. He would search until his legs failed. He would look in every cot and every row of the wounded.
+
+For now, he was on the wall.
+
+For now, he stayed.
+
+The horn called again. The lull was over.
