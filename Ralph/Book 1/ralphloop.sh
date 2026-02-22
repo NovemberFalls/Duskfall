@@ -27,8 +27,8 @@ for ((i=1; i<=ITERATIONS; i++)); do
 
     CHAPTER=$(echo "$TASK" | grep -o "C[0-9][0-9]")
 
-    CHAPTER_DIR="Book 1/Chapters/$CHAPTER"
-    DECISION_DIR="Book 1/Chapters/Decisions"
+    CHAPTER_DIR="Chapters/$CHAPTER"
+    DECISION_DIR="Chapters/Decisions"
     mkdir -p "$CHAPTER_DIR"
     mkdir -p "$DECISION_DIR"
 
@@ -39,9 +39,16 @@ for ((i=1; i<=ITERATIONS; i++)); do
         CONTEXT+="$(cat "$FILE")"$'\n\n'
     done
 
+    CLARIFY_FILE="$DECISION_DIR/$CHAPTER - Clarify.md"
+    CLARIFY_TEXT=""
+    if [ -f "$CLARIFY_FILE" ]; then
+        CLARIFY_TEXT=$'\n\nCLARIFICATIONS:\n'"$(cat "$CLARIFY_FILE")"
+    fi
+
     PROMPT="$CONTEXT
 
 TASK: $TASK
+$CLARIFY_TEXT
 
 Write full draft (3,000–5,000 words).
 
