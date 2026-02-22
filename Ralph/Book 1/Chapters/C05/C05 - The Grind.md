@@ -1,225 +1,287 @@
-**C05 — The Grind**
+The Hall of the Fallen never slept. It only changed its rhythm.
 
-The Hall of the Fallen never had time to cool.
+Midday. The air was hot with bodies and oil-lamps. Not the clean heat of a forge, but the damp, used heat of blood and sweat trapped in stone. Kael Veyne moved between cots. He had done this for years. He could do it blind. He could have done it in the dark, because the work was the same even when sight failed. A hand on a brow. A word over a mouth. A line of blessed ash on a torn bandage. A prayer at the edge of an ear.
 
-Kael Veyne moved through heat and smoke and the damp breath of too many bodies. Lanterns hissed on hooks. The stone floor held old blood that no one could scrub away. The air tasted of iron and bile.
+“By Tyr’s judgment, you are seen,” he said, voice low, steady. “By Tyr’s hand—”
 
-He washed his hands. He dried them on a linen that was already stained. He did it anyway. The habit mattered.
+The boy on the cot to his left rolled his head, eyes half-open, lips cracking. He had lost a leg. The stump was fresh-wrapped, the blood still seeped through the cloth in dark, steady blooms.
 
-The first man in the line had a split scalp. The second had no leg. The third clutched his chest with a look that said his ribs were not what hurt. Kael didn't ask names. He asked faith.
+Kael did not stop.
 
-"Do you still believe?" he asked the boy with the split scalp.
+“—you are held.”
 
-The boy nodded. It might have been a lie. It might have been shock.
+He pressed his thumb to the boy’s forehead. The boy flinched. Kael lifted his hand. He did not look away.
 
-Kael pressed his palm to the boy's forehead. He spoke the words he had spoken a hundred times before the siege. They came out steady. They had weight. They had to.
+Another cot. Another mouth. Another breath.
 
-"Order, grant you peace."
+A woman with her arm gone at the shoulder. A man with a red, pulsing line across his neck where the blade had kissed him and then slid. A young soldier with a shattered cheekbone, teeth showing through swollen skin. Kael’s prayers did not change the shape of their wounds. They never had. That wasn’t the point.
+
+He moved with a rhythm that matched the chaos. There were too many to pause. Too many to feel. He had learned to measure each rite in breaths. Three breaths. Five breaths. Ten if the dying were alone.
+
+“By Tyr’s light, you are not alone.”
+
+A groan. A spasm. A shudder. A hand that reached and fell.
+
+He kept moving. The wounded came in waves, carried on doors ripped from hinges, on ladders, on shoulders. The siege had settled into its grind. Day Three. The fighting was not a single clash now. It was a river that did not stop.
+
+Kael’s robe was dark at the hem. Blood splashed his cuffs. He did not mind. Tyr did not mind. The Inquisition taught that purity was intention, not cloth.
+
+A runner from the gates stumbled into the Hall, helmet missing, hair matted with soot. “More coming,” he said. “Four carts. Behind them—” He coughed, wiped his mouth with the back of his hand. “We’re using the north arch now. South is blocked.”
+
+Kael nodded. “Tell the apothecary.”
+
+The runner stared at him for a moment, face blank, then pushed back into the press.
+
+Kael turned and walked toward the apothecary’s table. Alira had been a healer in the Hall longer than Kael had been an Inquisitor Adept. Her hair was gray now, her hands still quick. She did not look up when he approached. She was tightening a bandage around a man’s chest with her teeth, pulling with a surgeon’s brutality.
+
+“North arch,” Kael said.
+
+“I heard.” She tied the knot and shoved the man’s shoulder. “You, sit. You, move.”
+
+She did not need his words. She did not need his rite. He stopped, watched her for two breaths, then moved on.
+
+He could feel the prayer in his mouth before he said it. The same words, same cadence. A liturgy worn smooth by repetition. It was steadiness in a room full of chaos.
+
+The Hall’s stone floor was slick near the center. Blood, water, oil. He stepped carefully. His boots left prints.
+
+He stopped at a cot where a young soldier stared at the ceiling, eyes wide, breath shallow. The boy’s arm was gone below the elbow. The stump had been cauterized. The smell of burned flesh mixed with the sweat and oil.
+
+“Name?” Kael asked.
+
+“Bran,” the boy said.
+
+“Do you fear?”
+
+“Yes.”
+
+Kael nodded once. “Do you believe?”
+
+The boy swallowed. “I don’t know.”
+
+Kael felt the answer in his chest and kept his face smooth. “Faith is not certainty,” he said. “It is what you do with doubt.”
+
+He leaned down. “By Tyr’s judgment, you are seen. By Tyr’s hand, you are held.”
+
+Bran’s lips moved, soundless. Kael did not pretend it mattered. He did not pretend it did not.
 
 He moved on.
 
-The legless man had already fainted. A healer knelt at his side, fingers buried in meat, trying to stop the bleeding. Kael put his hand on the man's shoulder and said the words for the dead. He didn't wait to see if the man stayed alive.
+The Hall was a river of sound: moans, metal, footsteps, murmurs, shouted names. Above it all, the distant thud of siege engines, the grind of the city under assault. The stone of the Cathedral held the sound and gave it back, a low echo that never stopped.
 
-By midday, the line never ended. It didn't move like a line. It spilled. The doors opened and the wounded came in waves. The worst of them were carried. The rest crawled. Some limped in with their own arms as crutches, a broken spear or a friend's body to keep them upright. Kael did not look away.
+Kael’s voice was steady when he prayed. It had to be. He had spent years training it, shaping it so it carried calm. He could feel it now, a shield of cadence.
 
-He walked. He prayed. He bled time.
+“By Tyr’s judgment…”
 
-A lieutenant stumbled in with his face burned black and his eyes two wet holes. His mouth worked. No sound came out. Kael knelt and spoke the rite for those who cannot speak. The man clutched his sleeve. Kael held his wrist until the grip slackened.
+He lifted his hand. Ash to brow. A quick line across a bandage.
 
-"Go in order," Kael whispered, even as the man died.
+“—you are seen.”
 
-There was no time for grief. There was no room for it.
+His eyes flicked left. A man sat upright, pants torn, thigh a ruined mess of muscle and red. He was watching Kael, jaw clenched.
 
-The Hall's long tables were full. The floor had bodies now, laid side by side like billets of wood. Healers moved among them with knives and needle. The ones with nothing to offer moved slower. The ones with something to do moved fast. Kael watched them, grateful for their work, ashamed he could not do it.
+“Do you want the rite?” Kael asked.
 
-A young woman with a shattered arm met his eyes. "Is Tyr watching?" she asked.
+The man’s mouth opened. No sound came. He nodded once.
 
-Kael was not supposed to hesitate. He had been trained for this. He had stood in the Warded Archive while older priests questioned heretics. He had watched a man burn for false doctrine and felt the rightness of it.
+Kael knelt.
 
-He did not feel rightness now. He felt the weight of her question.
+“By Tyr’s hand—”
 
-"He is," Kael said. He placed his hand on her head and said the blessing. The words did not change the bone.
+The man coughed blood. A red spray across Kael’s sleeve. Kael did not flinch. He finished the line. He held the man’s gaze until it slid shut.
 
-He moved on.
+He could not count how many he had done. He did not want to.
 
-The next hours were blood and smoke and the names of the dead. Kael heard them from the lips of others, and sometimes he spoke them himself. The rites did not heal wounds. The rites did not stop bleeding. They did not carry men off the tables. The rites did not keep the doors from opening again.
+A pressure built behind his eyes. Not tears. Not grief. Something heavier. He pushed it down and focused on the next face. The next breath. The next name.
 
-There was a rhythm to it, a grind. Kael had always respected rhythm. He found it in the chants. He found it in the marches of the faithful in the Emberheart.
+“Alen.”
 
-This rhythm was teeth on stone.
+“By Tyr’s judgment…”
 
-He washed his hands again. The water ran red. He did not know if it was all his.
+He was not alone. Other priests moved through the Hall. Not Inquisitors—just brothers and sisters of the Cathedral, their robes hitched up, sleeves tied. They spoke the same rites. Their voices overlapped. It should have been a choir. It sounded like rain on a roof. Constant. Thin. It could not fill the room.
 
-A bell rang in the Cathedral corridor. It was not the time for bells. It meant something new. Kael stepped out into the passage. Stone. Shadow. The smell of incense clung to the pillars like old habit.
+Kael made his way toward the Cathedral corridor. The corridor connected the Hall to the inner sanctum and the north stair. It was quieter there, the air cooler. He stepped into it, pulled his robe away from his mouth to breathe.
 
-A runner skidded to a halt, face smeared with ash. "Inquisitor Adept," he said. "The west breach is holding, but the wounded are coming faster than we can move them."
+A man leaned against the wall, head low, hands pressed together. He was a guardsman, armor stained, a gash across his temple. He did not look up.
 
-Kael nodded. "Send them to the Hall."
+Kael paused. “You’re bleeding.”
 
-"They already are."
+“I know.”
 
-Kael watched the runner go. He stood for a moment in the corridor and let the weight settle. The Cathedral had been built for quiet. The quiet was gone.
+“Do you need a healer?”
 
-He took the side stair and climbed to the high window above the Hall. The opening was narrow, made for light, not for watching. He had to lean out to see.
+“No.”
 
-He saw the wall.
+Kael listened to his own reply before he said it. “Then go to the wall.”
 
-The Sundered Gate was a smear of black stone under a sky of smoke. Men moved along its top like insects. He could see the flags. He could see the motion. He could not hear the fighting from here, but he could feel it. The city trembled under each strike.
+The guardsman lifted his eyes. They were glassy, but there was something else there too. He nodded and pushed away from the stone.
 
-Kael's eyes searched without his permission. He knew where to look. He had done it yesterday. He had done it this morning. He looked for the figure that was too young for the line.
+Kael watched him limp down the corridor, leaving a line of dark drops on the floor. He turned back toward the Hall, then stopped. The sound of a horn came from the walls, low and long. Not a rally. A warning. The rhythm of the siege engines changing, the cadence of the assault shifting. Midday to night. The grind did not stop. It only deepened.
 
-Edric was there.
+He moved toward the north stair. He needed to see the wall, if only to remind himself what this all was. He needed to see the line, the men, the scale. He needed to see his nephew.
 
-He was a small shape at this distance. A helmet. A spear. A head turning. Kael could not tell if it was his nephew by face. He could tell by the way he held himself. Edric was too upright. Too rigid. Trying to be iron. Not iron yet.
+The stair was narrow. He took it two at a time, robe gathered in his hand. The stone was cool against his palm. He could feel the tremor in it, the vibration of the siege outside. It was like standing on a drum.
 
-Kael's hands tightened on the stone edge.
+He emerged into the open air. Smoke hung over the city. The light was dulled, gray with ash. He walked along the parapet toward a gap in the crenellation where he could see the Sundered Gate.
 
-He could go to the wall. He could pull rank. He could take Edric down and assign him elsewhere. There were plenty of duties in the Hall. Carrying water. Holding men down for stitches. It would be safer.
+He did not find Edric at first. There were too many men, too many helmets. He scanned the line. Men in iron and leather, backs bent under the weight of their own exhaustion. He saw men he had blessed hours earlier. He saw new faces, fresh from the inner ring, pushed forward to replace the fallen.
 
-He thought of the rules. He thought of the last time he had used his position to bend an assignment for Edric in the first place. He had believed he was doing right by his family. He had believed proximity to the Warden would make the boy into steel. He had not believed the wall would become a grinder.
+Then he saw the boy. Edric was at the center-left, on the second tier of the wall, leaning forward, spear in hand, eyes locked on the field below. His helmet was too big. His jaw was set. He had the posture of a boy pretending to be a man. He was not pretending anymore.
 
-He exhaled. The breath was short.
+Kael’s throat tightened. He did not call out. He knew the rule. The wall did not care about family. It did not care about names. It cared about bodies and the will to hold.
 
-If he pulled Edric now, he would be doing what he condemned in others. He would be making a private exception in a public war. He would be choosing blood over order.
+He could call down. He could tell Edric to come to the Cathedral, to report for a rite, a blessing. He could pull him off the line for an hour, for a moment. He could use his rank. He had done it before for others. He had never done it for his own blood.
 
-He closed his eyes for a moment and felt the edges of the prayer he would have offered. It did not come.
+His hand tightened on the stone.
 
-Kael let his hands drop. He stepped back from the window.
+He watched Edric thrust the spear down, pull it back, thrust again. He did not see the orc beneath, but he saw the motion. He saw the tremor in Edric’s arm when he pulled it free. He saw the boy’s shoulders lift when he caught his breath.
 
-Down in the Hall, a healer called his name. He returned to the grind.
+Kael looked away. He could not give himself the luxury of watching. He could not let his will drift. Duty was the only thing that held him upright. He had said that sentence a thousand times in his mind. It had always sounded like truth. Now it felt like something else—something measured, something cold.
 
-A man with an arrow through his neck was shaking. Kael held his head so the healer could pull. The healer yanked. Blood sprayed across Kael's sleeve. The man choked and died. Kael said the rite. His voice was steady. It had to be.
+“Father.” A voice behind him.
 
-The next man stared at him with a look that asked why. Kael had no answer.
+Kael turned. It was Brother Ellin, a young priest with soot on his face and blood on his hands. “They need you in the Hall,” Ellin said. “The wounded from the north arch are coming in.”
 
-The hours pushed into evening. The candles burned lower. The lanterns were re-lit. Healers fell asleep standing, snapped awake, kept working. Kael moved among them, a quiet presence with prayers on his lips and too little in his hands.
+“I’m coming,” Kael said.
 
-A roar of horns rolled through the city. It was not the enemy. It was a signal from the walls. Kael looked up, reflex, as if he could see the answer in the rafters. There was only smoke and shadow.
+He looked once more at Edric. The boy looked up, not toward Kael, but toward the smoke. He did not see his uncle. He did not look for him.
 
-The doors opened again. This wave came with a rank of discipline. Men in Legion armor carried stretchers in a line. A commander at their head was tall, broad, and not looking at Kael when he entered. Stoneveil.
+Kael turned and went back down.
 
-Warden Alric Stoneveil did not enter the Hall. He stayed in the corridor, just inside the arch. He wore soot and grime like a cloak. His jaw was set. His gaze measured the room, the bodies, the healers, the number of hands. He did not greet Kael. He did not need to.
+The Hall was louder now. The carts had arrived. Men were being lifted out, laid on the stone, moved to cots when available, or to the floor when not. Alira shouted orders. The apothecaries moved like blades, slicing and stitching. The priests’ voices were strained.
 
-Kael approached him.
+Kael stepped into the crush and did not stop moving. He knelt at a man whose hand was crushed. He said the rite, his fingers brushing the man’s forehead. He stood, stepped over a pool of blood, and moved to the next.
 
-"Warden."
+He could not keep count. He could not keep names.
 
-Stoneveil's eyes flicked to him. "Inquisitor."
+A woman grabbed his sleeve. “My son,” she said, eyes wide. “He was with the third line.”
 
-"They need more hands," Kael said.
+Kael looked at her. “Name?”
 
-"They need better hands," Stoneveil said. His voice was flat.
+“Perrin.”
 
-Kael followed his gaze to the stretchers. "What happened at the west breach?"
+Kael closed his eyes for a breath. He did not know. He did not have time to find out. He could have asked a runner. He could have sent a brother. He did not.
 
-"Heat and bodies," Stoneveil said. "We held. For now."
+“Go to the north arch,” he said. “Ask the apothecary. They have the lists.”
 
-A healer rushed past them with a bowl of water that was too red to be water. Stoneveil did not look. He pointed toward a stretcher where a man gasped with an opened abdomen. "Who is that?"
+She shook her head, a small, violent motion. “Please.”
 
-"Legionnaire, I think," Kael said.
+Kael felt something like rage rise in him, and he crushed it. “Go,” he said, softer. “I will pray for him.”
 
-Stoneveil stepped closer. He looked at the man for a second, then at the healer nearest him. "That one goes to the back."
+She let go. She disappeared into the press.
 
-The healer hesitated. "Warden—"
+Kael moved on.
 
-"His gut is out. His pulse is gone," Stoneveil said. "Save the ones you can."
+He found himself at the triage table. Stoneveil stood there, armor dusted with ash, face unreadable. His cloak was draped across the edge of the table, a map spread beneath it, pinned by a dagger. He was speaking to Alira, his voice low.
 
-Kael watched the man's eyes as he was rolled to the back. They followed the healer's hands, then went distant. Kael put his palm to the man's head as he passed and said the rite under his breath.
+“Send these to the north arch,” Stoneveil said, tapping the map. “The outer wall is thinning. We will need them before nightfall.”
 
-Stoneveil didn't hear or didn't care. He moved to the next stretcher. He tapped two men on the shoulder, told them to stand, told them to return to the wall. They protested. One had blood running down his arm. The other had a limp. Stoneveil told them to go anyway. They went.
+“These men can’t walk,” Alira said. She did not look up from her work.
 
-Kael felt the words rise in his throat. He swallowed them down.
+“They can hold a spear,” Stoneveil said.
 
-"Is this the line you draw now?" Kael asked quietly.
+Kael stopped, the words catching him like a hook. He had seen this before. It was not new. But the bluntness of it in this place, among these bodies, was a new weight.
 
-Stoneveil turned his head. His eyes were on Kael without expression. "This is the line I have to hold," he said.
+“They’re bleeding,” Alira said.
 
-Kael held the gaze. He saw a man who had drawn too many lines. He saw a man who had not flinched from any of them.
+“So is the wall,” Stoneveil replied.
 
-Stoneveil moved on. He never touched a wounded man's hand. He never spoke a name. He did not have time.
+Kael watched the exchange. Stoneveil’s face did not move. His eyes were on the map, the line of the city, the gates, the narrowing rings. He was not cruel. Kael knew that. Stoneveil was doing math. That was the cost of command.
 
-Kael turned back into the Hall. He worked until the Warden left.
+Alira tied a bandage, then looked up. “If I send them now, they die on the wall.”
 
-The grind continued. Kael counted breaths. He counted steps. He counted the names he could not remember.
+Stoneveil nodded once. “If you keep them, they die here, and the wall falls.”
 
-He tried to pray between tasks. The prayers were full of gaps.
+Alira’s jaw tightened. She looked past Stoneveil to Kael, eyes hard. “Is this your judgment?”
 
-"Order guide their hands," he whispered over a healer who was stitching skin to skin with blood running down her wrist. "Order hold this roof," he whispered under the rafters as they shook.
+Kael was not a commander. He could refuse. He could say that his faith did not permit it, that the wounded were sacred, that the Hall of the Fallen was not a reservoir of bodies. He could say it. He did not.
 
-He felt the words crack at the edges. He kept saying them.
+He felt the words in his throat and watched them crumble.
 
-At dusk, the hall was full of quiet for a moment. Not peace. Just exhaustion. Men slept. Healers leaned against tables. Kael sat on the edge of a bench, hands on his knees. He could not sit still long. The need to move itched under his skin.
+“Do it,” he said.
 
-He stood. He walked down the line of bodies and paused at a young man with a bandaged head. The boy's eyes opened. "Is it night?" he asked.
+Alira’s eyes flicked away. She turned and shouted to her assistants. “You, you, you. We move.”
 
-"Almost," Kael said.
+Kael did not look at Stoneveil. He did not look at the men being lifted from their cots. He did not look at the fear on their faces when they realized they were being marched back to the wall.
 
-"Did we hold?"
+Stoneveil folded the map. “They’ll hold,” he said. It was not reassurance. It was statement.
 
-"For now."
+Kael nodded. The movement felt like betrayal.
 
-The boy closed his eyes. "Tell my mother I did."
+He moved back into the Hall. He found a cot with a woman whose eyes were fixed on the ceiling. Her mouth moved, soundless. He knelt, put ash on her brow.
 
-Kael felt something tighten inside him. "I will," he said.
+“By Tyr’s judgment…”
 
-He had no idea if the mother was alive. He said it anyway. He had always believed words mattered. He believed it now because it was all he had.
+He stopped. The words were right there. He could say them. He had said them all day. He could feel them now in his mouth, but they came slower. He saw the woman’s eyes. They were empty, not of life, but of hope. He saw her hands. They were covered in blood, not her own.
 
-The night came. The Hall never stopped. The wounded kept coming, but slower. The fighting on the wall had settled into a steady rumble, distant, relentless. Kael could feel it through the stone.
+He said the rite. He forced each word out. He did not know if she heard him.
 
-He went to the basin again. He washed his hands. He watched the water run clear. It wasn't.
+He moved to another cot. A boy, no older than fifteen, with a ragged tear across his abdomen. He was pale, lips blue. Kael touched his forehead and felt the cold.
 
-A messenger came from the Cathedral corridor. "Inquisitor Adept," she said. "High Inquisitor requests your presence."
+“Do you want the rite?” Kael asked.
 
-Kael set down the cloth. He did not want to go. He did.
+The boy’s eyes fluttered. He nodded once.
 
-High Inquisitor Varian Marrow stood in the corridor as if he had been carved there. His robes were clean. His hands were unmarked.
+“By Tyr’s judgment, you are seen.”
 
-"You are needed in the Archive," Marrow said. His voice was calm. "There are matters of integrity."
+The boy’s mouth moved, a question without sound.
 
-Kael looked past him to the Hall. "There are matters of blood."
+Kael swallowed. “By Tyr’s hand, you are held.”
 
-Marrow's eyes narrowed. "Order is more than blood, Kael."
+He stayed with the boy until the breath stopped. He had done that too many times. He stood. His knees cracked.
 
-Kael did not answer. He nodded once. He moved around Marrow and back toward the Hall instead of toward the Archive.
+A bell rang somewhere in the Cathedral. It should have called to prayer. It was a warning. The sound was thin and lost in the noise of the Hall.
 
-Marrow caught his arm. "Do not let the siege become your excuse," he said.
+Kael moved toward the corridor again. The air there was cooler. He leaned his back against the stone for a moment and closed his eyes. He could hear the Hall behind him. He could hear the distant roar of the wall. He could hear his own breath.
 
-Kael looked at the hand on his sleeve. He did not pull away. "It is not an excuse," he said. "It is the siege."
+He pressed his fingers to his forehead. The ash there was dry, flaking.
 
-Marrow released him. "You will report before dawn."
+“By Tyr’s judgment,” he whispered.
 
-Kael nodded again. He did not promise. He went back to the Hall.
+He stopped.
 
-A man screamed. A healer held him down. Kael took the man's hand. The man bit his wrist. Kael did not pull away.
+The words did not fit. They were not false. They were not true. They were something between, and he did not know how to hold something between.
 
-"Order grant you peace," Kael said. His voice was a whisper. "Order grant you..."
+He opened his eyes and pushed away from the wall.
 
-The man spat blood and passed out. Kael's wrist throbbed. He pressed his hand to the bite, feeling the wet.
+Night came without ceremony. The light in the Hall turned from gray to dim, oil-lamps filling the edges with thick yellow. The air was heavier. The wounded slowed only because there were no more hands to carry them.
 
-He moved on.
+Kael’s robe was stiff with dried blood now. His throat was raw. He had spoken thousands of words and none of them felt like they had done anything.
 
-At some point, he looked out from the same narrow window. The wall was still there. The sky was red with fires. The men on the wall were hunched shadows in the glow. He looked for Edric. He did not see him. He waited longer. He saw a figure with a spear and a stance that was too rigid. He could not tell.
+A soldier stumbled in, helmet in his hands. He was weeping quietly, breath shaking. He looked at Kael and shook his head.
 
-He told himself that not knowing was better than knowing. He did not believe it.
+“I killed a boy,” he said.
 
-He went back inside. He found a boy no older than Edric with a shattered jaw. The boy's eyes followed him. Kael leaned close. "Do you know the words?" he asked.
+Kael did not ask why. He did not ask who. He knew. “Do you want the rite?”
 
-The boy moved his lips around blood. Kael heard nothing. He said the rite anyway. It was the same rite. It did not feel the same.
+The soldier nodded.
 
-Kael's thoughts went in tight circles. Faith. Function. Order. Blood. The prayers did not stop the bleeding. The rites did not keep the walls. Yet men asked for them. Healers asked for them. The dead were laid out and waited on him. If he left, no one else would speak the words.
+Kael raised his hand, ash in his palm, and began. “By Tyr’s judgment, you are—”
 
-He could not call his work useless while his hands were on a dying man's head.
+He stopped. The word refused him. He tried again.
 
-He returned to the center of the Hall. He stood between the tables, between the moans and the coughs and the quiet. He lifted his hands. He began the prayer he had used to begin every day.
+“By Tyr’s judgment…”
 
-"By the measure of the Law, we stand," he said. "By the light of—"
+Silence stretched between them. The soldier looked at him, eyes red.
 
-His voice caught. He breathed in. The air was smoke and blood. He tried again.
+Kael swallowed. He placed his hand on the man’s head without the words. The soldier closed his eyes.
 
-"By the light of—"
+Kael’s lips moved. He forced the prayer out, but the cadence was broken, the line stumbling.
 
-The words did not come.
+“—you are seen,” he finished.
 
-He stood in the Hall of the Fallen with his hands raised, mouth open, and no sound. He lowered his hands slowly.
+He stepped away. The soldier lowered himself to a bench, hands over his face.
 
-"By the light of—"
+Kael stood, feeling the weight of the Hall around him. The prayers did not change the blood. The rites did not change the gates. The faith he carried did not make the decisions smaller. It did not make the math kinder.
+
+He turned toward the inner sanctum. He did not go in. He stopped in the corridor, alone for a moment.
+
+He began the prayer again, for himself, a reflex, an anchor.
+
+“By Tyr’s judgment, you are seen. By Tyr’s hand—”
+
+The words broke in his mouth.
+
+He closed his eyes.
+
+“—you are…” he whispered.
+
+It ended there.
