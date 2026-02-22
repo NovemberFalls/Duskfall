@@ -1,10 +1,10 @@
-# DUSKFALL — BOOK 1
+﻿# DUSKFALL â€” BOOK 1
 # LAYER 1 DRAFT ENGINE
 
 GLOBAL RULES:
 - One task per iteration.
 - Draft only.
-- 3,000–5,000 words.
+- 3,000â€“5,000 words.
 - Follow Writing Rules strictly.
 - November Personality Profile is law.
 - No revision of previous chapters.
@@ -15,10 +15,10 @@ Chapter:
 Context:
 Options:
 
-PHASE 1 — Chapters 1–5
+PHASE 1 â€” Chapters 1â€“5
 
 - [x] C01 Draft
-- [x] C02 Draft
-- [x] C03 Draft
-- [x] C04 Draft
-- [x] C05 Draft
+- [ ] C02 Draft
+- [ ] C03 Draft
+- [ ] C04 Draft
+- [ ] C05 Draft
