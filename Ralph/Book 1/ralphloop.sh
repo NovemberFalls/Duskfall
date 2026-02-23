@@ -4,6 +4,8 @@ set -euo pipefail
 ITERATIONS="$1"
 MODEL="gpt-5.2-codex"
 OUTPUT_SUFFIX="${OUTPUT_SUFFIX:-}"
+BASE_SUFFIX="${BASE_SUFFIX:-_v2}"
+AUDIO_MODE="${AUDIO_MODE:-0}"
 
 PRD_FILE="prd.md"
 PROGRESS_FILE="progress.txt"
@@ -34,6 +36,7 @@ for ((i=1; i<=ITERATIONS; i++)); do
     mkdir -p "$DECISION_DIR"
 
     CLARIFY_FILE="$DECISION_DIR/$CHAPTER - Clarify.md"
+    DECISION_FILE="$DECISION_DIR/$CHAPTER - Decision.md"
 
     TITLE=""
     if [ -f "$CLARIFY_FILE" ]; then
@@ -56,16 +59,47 @@ for ((i=1; i<=ITERATIONS; i++)); do
         CLARIFY_TEXT=$'\n\nCLARIFICATIONS:\n'"$(cat "$CLARIFY_FILE")"
     fi
 
+    DECISION_TEXT=""
+    if [ -f "$DECISION_FILE" ]; then
+        DECISION_TEXT=$'\n\nDECISION RESOLUTION (follow this):\n'"$(cat "$DECISION_FILE")"
+    fi
+
+    BASE_TEXT=""
+    if [ "$AUDIO_MODE" = "1" ]; then
+        if [ -n "$TITLE" ]; then
+            BASE_FILE="$CHAPTER_DIR/$CHAPTER - $TITLE${BASE_SUFFIX}.md"
+        else
+            BASE_FILE="$CHAPTER_DIR/$CHAPTER - Draft${BASE_SUFFIX}.md"
+        fi
+        if [ -f "$BASE_FILE" ]; then
+            BASE_TEXT=$'\n\nBASE_TEXT (rewrite for audio pacing, keep content and POV):\n'"$(cat "$BASE_FILE")"
+        else
+            echo "Audio mode requested but base file not found: $BASE_FILE"
+            exit 1
+        fi
+        if [ -z "$OUTPUT_SUFFIX" ]; then
+            OUTPUT_SUFFIX="_audio"
+            if [ -n "$TITLE" ]; then
+                OUTPUT_FILE="$CHAPTER_DIR/$CHAPTER - $TITLE${OUTPUT_SUFFIX}.md"
+            else
+                OUTPUT_FILE="$CHAPTER_DIR/$CHAPTER - Draft${OUTPUT_SUFFIX}.md"
+            fi
+        fi
+    fi
+
     PROMPT="$CONTEXT
 
 TASK: $TASK
 $CLARIFY_TEXT
+$DECISION_TEXT
+$BASE_TEXT
 
 Write full draft (3,000-5,000 words).
 
 Follow Writing Rules strictly.
 Do not revise previous chapters.
 Do not write files or run tools. Output only the draft text.
+If AUDIO_MODE is on, rewrite BASE_TEXT for audiobook pacing and clarity. Do not add new plot. Keep POV and tense.
 Avoid repetition. Vary sentence structure and imagery; no echoing phrases within a scene.
 
 LANGUAGE & VOICE BY RACE:
