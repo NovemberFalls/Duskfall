@@ -1,0 +1,40 @@
+﻿# ElevenLabs Audio Book Reference (Studio + API)
+
+Purpose
+- Use this as the project reference for pushing chapters to ElevenLabs Studio (audiobook workflow) and via API.
+
+Studio Workflow (UI)
+- Create a Studio project and enable Chapters.
+- Import a document with clear chapter headings to auto-detect chapters, or add chapters manually.
+- Edit text, assign voices, and generate audio per chapter.
+- Export chapters individually or as a full audiobook.
+
+API Workflow (Studio)
+- Create a Studio project from a document, URL, or structured JSON.
+- Add chapters programmatically and push text into chapter blocks.
+- Configure voice_id, model_id, and project metadata.
+
+Key API endpoints (official docs)
+- Create Studio Project: POST /v1/studio/projects
+- Create Chapter: POST /v1/studio/projects/{project_id}/chapters
+
+Chapter Content via API
+- You can initialize a project or chapter with structured content.
+- Content is structured as blocks with nodes containing text and voice_id.
+
+Metadata and settings
+- Project metadata supports title, author, description, genre, target audience, language, fiction/non-fiction, mature content.
+- You can set quality_preset (standard/high/ultra/ultra_lossless).
+- Voice settings can be overridden per project via voice_settings JSON.
+
+Audio Text Guidelines (v3)
+- v3 does not support SSML break tags. Use punctuation and audio tags for pauses.
+- Use tags sparingly. Every dialogue line should have a tag in audio mode.
+- Avoid overly fragmented, single-line sentences. Aim for novel-like paragraphs.
+
+Official Docs (reference)
+- Studio overview and chapters: https://elevenlabs.io/docs/product/projects/overview
+- Add chapters in Studio (UI): https://help.elevenlabs.io/hc/en-us/articles/33783851933713-How-do-I-add-chapters-to-a-Studio-project
+- Create Studio Project (API): https://elevenlabs.io/docs/api-reference/studio/add-project
+- Create Chapter (API): https://elevenlabs.io/docs/api-reference/studio/add-chapter
+

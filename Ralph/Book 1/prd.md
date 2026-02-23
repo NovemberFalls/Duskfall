@@ -17,7 +17,7 @@ Options:
 
 PHASE 1 â€” Chapters 1â€“5
 
-- [x] C01 Draft
+- [ ] C01 Draft
 - [x] C02 Draft
 - [x] C03 Draft
 - [x] C04 Draft

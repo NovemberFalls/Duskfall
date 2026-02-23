@@ -6,6 +6,9 @@ MODEL="gpt-5.2-codex"
 OUTPUT_SUFFIX="${OUTPUT_SUFFIX:-}"
 BASE_SUFFIX="${BASE_SUFFIX:-_v2}"
 AUDIO_MODE="${AUDIO_MODE:-0}"
+AUDIO_BOOK_MODE="${AUDIO_BOOK_MODE:-0}"
+AUDIO_BOOK_SUFFIX="${AUDIO_BOOK_SUFFIX:-_audio_book}"
+SKIP_GIT="${SKIP_GIT:-0}"
 
 PRD_FILE="prd.md"
 PROGRESS_FILE="progress.txt"
@@ -17,6 +20,7 @@ WORLD_FILES=(
     "World/03 - November Falls - Character Bible.md"
     "World/04 - Writing Rules.md"
     "World/05 - November Falls - Personality Profile.md"
+    "../../Lore/Wars/The Veilfire War/Bloodhollow/Crimsonmarch/0099-09-01 - Emberfall - The Blackroot Siege.md"
 )
 
 for ((i=1; i<=ITERATIONS; i++)); do
@@ -64,7 +68,19 @@ for ((i=1; i<=ITERATIONS; i++)); do
         DECISION_TEXT=$'\n\nDECISION RESOLUTION (follow this):\n'"$(cat "$DECISION_FILE")"
     fi
 
+    AUDIO_TAG_GUIDE=""
+    if [ -f "ElevenLabs_Audio_Meta_Tag_Guide_v3.md" ]; then
+        AUDIO_TAG_GUIDE=$'\n\nAUDIO TAG GUIDE (follow in AUDIO_MODE):\n'"$(cat "ElevenLabs_Audio_Meta_Tag_Guide_v3.md")"
+    fi
+    AUDIO_BOOK_GUIDE=""
+    if [ -f "World/07 - Eleven Labs Audio Book" ]; then
+        AUDIO_BOOK_GUIDE=$'\n\nAUDIO BOOK GUIDE (follow in AUDIO_BOOK_MODE):\n'"$(cat "World/07 - Eleven Labs Audio Book")"
+    fi
+
     BASE_TEXT=""
+    if [ "$AUDIO_BOOK_MODE" = "1" ]; then
+        AUDIO_MODE="1"
+    fi
     if [ "$AUDIO_MODE" = "1" ]; then
         if [ -n "$TITLE" ]; then
             BASE_FILE="$CHAPTER_DIR/$CHAPTER - $TITLE${BASE_SUFFIX}.md"
@@ -78,7 +94,11 @@ for ((i=1; i<=ITERATIONS; i++)); do
             exit 1
         fi
         if [ -z "$OUTPUT_SUFFIX" ]; then
-            OUTPUT_SUFFIX="_audio"
+            if [ "$AUDIO_BOOK_MODE" = "1" ]; then
+                OUTPUT_SUFFIX="$AUDIO_BOOK_SUFFIX"
+            else
+                OUTPUT_SUFFIX="_audio"
+            fi
             if [ -n "$TITLE" ]; then
                 OUTPUT_FILE="$CHAPTER_DIR/$CHAPTER - $TITLE${OUTPUT_SUFFIX}.md"
             else
@@ -93,6 +113,8 @@ TASK: $TASK
 $CLARIFY_TEXT
 $DECISION_TEXT
 $BASE_TEXT
+$AUDIO_TAG_GUIDE
+$AUDIO_BOOK_GUIDE
 
 Write full draft (3,000-5,000 words).
 
@@ -100,7 +122,11 @@ Follow Writing Rules strictly.
 Do not revise previous chapters.
 Do not write files or run tools. Output only the draft text.
 If AUDIO_MODE is on, rewrite BASE_TEXT for audiobook pacing and clarity. Do not add new plot. Keep POV and tense.
+If AUDIO_MODE is on, embed ElevenLabs meta tags from the guide. REQUIRE: every spoken line of dialogue must have a tag immediately before it (same line, directly preceding the quote). If any dialogue line lacks a tag, rewrite until all dialogue lines are tagged. Add tags to narration only when sentiment/intent is clear and it improves delivery. Do not tag every paragraph.
+If AUDIO_MODE is on, keep paragraph flow novel-like. Avoid breaking into many single-line sentences. Only use single-line sentences when they are intentionally powerful. Combine short beats into fuller paragraphs while preserving rhythm.
+If AUDIO_MODE is on, use punctuation (ellipses, em dashes, commas) to control micro-pauses instead of SSML breaks (not supported in v3).
 Avoid repetition. Vary sentence structure and imagery; no echoing phrases within a scene.
+If AUDIO_BOOK_MODE is on, optimize for ElevenLabs Studio audiobook ingestion: consistent paragraph breaks, no headings unless present in BASE_TEXT, no extra metadata, and use tags sparingly but on every dialogue line.
 
 LANGUAGE & VOICE BY RACE:
 - Orcs: rough, clipped, low-grammar. Short clauses, hard consonants. No polished English.
@@ -150,7 +176,12 @@ Options:
 
     echo "[$(date '+%Y-%m-%d %H:%M')] $MODEL | $CHAPTER | Draft Complete" >> "$PROGRESS_FILE"
 
-    git add .
-    git commit -m "Layer 1 Draft $CHAPTER"
+    if [ "$AUDIO_MODE" = "1" ]; then
+        SKIP_GIT="1"
+    fi
+    if [ "$SKIP_GIT" != "1" ]; then
+        git add .
+        git commit -m "Layer 1 Draft $CHAPTER"
+    fi
 
 done

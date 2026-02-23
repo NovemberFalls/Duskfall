@@ -7,6 +7,7 @@ Maps/To Review/*.zip
 *.zip
 *.dungeondraft_pack
 *.wonderdraft_map
+.env
 
 # Claude Code local config
 .claude/
