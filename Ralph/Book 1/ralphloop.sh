@@ -144,6 +144,12 @@ TONE UPGRADE:
 - Grimdark, dreadful, almost horrific, but with a thin line of light in the darkness.
 - Bitter-sweet: small human warmth amid ruin, never undercutting stakes.
 - Prose should be sharp and tactile; no purple flourishes, no generic fantasy phrasing.
+PACING PRIORITY:
+- Scene economy matters. Build a clear arc with escalation; avoid a day-in-the-life collage.
+- Limit civilian-helping vignettes to at most one short beat unless plot-critical.
+- Include one or two specific intimacy/domestic moments only if they intensify later loss.
+- Preserve a strong tragic engine: if the protagonist leaves a safe place before the strike, it should seed guilt later.
+- Signal siege stakes early (the wall, the orcs, rumors) without heavy exposition.
 If moral crossroads appears, output:
 
 DECISION REQUIRED:
