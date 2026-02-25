@@ -8,6 +8,8 @@ BASE_SUFFIX="${BASE_SUFFIX:-_v2}"
 AUDIO_MODE="${AUDIO_MODE:-0}"
 AUDIO_BOOK_MODE="${AUDIO_BOOK_MODE:-0}"
 AUDIO_BOOK_SUFFIX="${AUDIO_BOOK_SUFFIX:-_audio_book}"
+AUDIO_TAG_STYLE="${AUDIO_TAG_STYLE:-cinematic}"
+CONTINUITY_GATE="${CONTINUITY_GATE:-1}"
 SKIP_GIT="${SKIP_GIT:-0}"
 
 PRD_FILE="prd.md"
@@ -21,6 +23,9 @@ WORLD_FILES=(
     "World/04 - Writing Rules.md"
     "World/05 - November Falls - Personality Profile.md"
     "../../Lore/Wars/The Veilfire War/Bloodhollow/Crimsonmarch/0099-09-01 - Emberfall - The Blackroot Siege.md"
+    "World/08 - Scene Architecture.md"
+    "World/09 - Character Tracker.md"
+    "../../Bloodhollow/NPC - Leaders/Humans.md"
 )
 
 for ((i=1; i<=ITERATIONS; i++)); do
@@ -68,6 +73,27 @@ for ((i=1; i<=ITERATIONS; i++)); do
         DECISION_TEXT=$'\n\nDECISION RESOLUTION (follow this):\n'"$(cat "$DECISION_FILE")"
     fi
 
+    # Load previous chapter for continuity and reader emotional state
+    PREV_CHAPTER_TEXT=""
+    PREV_NUM=$((10#${CHAPTER:1} - 1))
+    if [ "$PREV_NUM" -gt 0 ]; then
+        PREV_CHAPTER=$(printf "C%02d" "$PREV_NUM")
+        PREV_DIR="Chapters/$PREV_CHAPTER"
+        if [ -d "$PREV_DIR" ]; then
+            PREV_FILE=$(ls -t "$PREV_DIR"/*.md 2>/dev/null | grep -v '_audio' | grep -v '_audio_book' | head -1 || true)
+            if [ -n "$PREV_FILE" ]; then
+                PREV_CHAPTER_TEXT=$'\n\nPREVIOUS CHAPTER (the reader just experienced this — use for continuity, emotional state, and contrast. Do NOT retell or summarize it. Use it to inform your opening tone, what the reader already knows, and what emotional temperature they arrive at):\n'"$(cat "$PREV_FILE")"
+            fi
+        fi
+    fi
+
+    # Load revision lessons from C01 iteration history
+    REVISION_LESSONS=""
+    REVISION_FILE="Chapters/C01/C01 - The Last Good Morning_v5_4_README.md"
+    if [ -f "$REVISION_FILE" ]; then
+        REVISION_LESSONS=$'\n\nREVISION LESSONS (craft insights from iterating C01 — apply these to every chapter):\n'"$(cat "$REVISION_FILE")"
+    fi
+
     AUDIO_TAG_GUIDE=""
     if [ -f "ElevenLabs_Audio_Meta_Tag_Guide_v3.md" ]; then
         AUDIO_TAG_GUIDE=$'\n\nAUDIO TAG GUIDE (follow in AUDIO_MODE):\n'"$(cat "ElevenLabs_Audio_Meta_Tag_Guide_v3.md")"
@@ -113,6 +139,8 @@ TASK: $TASK
 $CLARIFY_TEXT
 $DECISION_TEXT
 $BASE_TEXT
+$PREV_CHAPTER_TEXT
+$REVISION_LESSONS
 $AUDIO_TAG_GUIDE
 $AUDIO_BOOK_GUIDE
 
@@ -122,7 +150,7 @@ Follow Writing Rules strictly.
 Do not revise previous chapters.
 Do not write files or run tools. Output only the draft text.
 If AUDIO_MODE is on, rewrite BASE_TEXT for audiobook pacing and clarity. Do not add new plot. Keep POV and tense.
-If AUDIO_MODE is on, embed ElevenLabs meta tags from the guide. REQUIRE: every spoken line of dialogue must have a tag immediately before it (same line, directly preceding the quote). If any dialogue line lacks a tag, rewrite until all dialogue lines are tagged. Add tags to narration only when sentiment/intent is clear and it improves delivery. Do not tag every paragraph.
+If AUDIO_MODE is on, embed ElevenLabs meta tags from the guide. Dialogue and narration do NOT need a tag on every line; baseline delivery is valid. Apply tags when sentiment/intent is clear and it improves delivery. Be liberal but not noisy: cluster tags around emotional turns, tension spikes, or intimacy beats. Avoid tagging every paragraph. Target ~50 tags per chapter (not strict).
 If AUDIO_MODE is on, keep paragraph flow novel-like. Avoid breaking into many single-line sentences. Only use single-line sentences when they are intentionally powerful. Combine short beats into fuller paragraphs while preserving rhythm.
 If AUDIO_MODE is on, use punctuation (ellipses, em dashes, commas) to control micro-pauses instead of SSML breaks (not supported in v3).
 Avoid repetition. Vary sentence structure and imagery; no echoing phrases within a scene.
@@ -144,6 +172,17 @@ TONE UPGRADE:
 - Grimdark, dreadful, almost horrific, but with a thin line of light in the darkness.
 - Bitter-sweet: small human warmth amid ruin, never undercutting stakes.
 - Prose should be sharp and tactile; no purple flourishes, no generic fantasy phrasing.
+TONE REFERENCE (cadence target):
+- Use hard, declarative rhythm when conviction or despair peaks. Escalating anaphora (I will... I will...) is allowed sparingly.
+- Moral rot should be stated plainly when it matters. No euphemism in key moments.
+CONTINUITY:
+- Before final output, audit for continuity. Any physical marks, injuries, objects, or references must be established earlier in the scene. If not, fix them in-text.
+RACE VOICE:
+- Orcs: rough, clipped, low-grammar. Short clauses, hard consonants. No polished English.
+- Goblins: quick, fractured, sly. Choppy rhythm, slangy, implied cunning. No polished English.
+- Elves: elevated diction, precise vocabulary, controlled cadence.
+- Trolls/others: simple, blunt, reduced syntax. Keep them distinct from orcs/goblins.
+- If unsure about a race's voice, stop and ask for clarification.
 PACING PRIORITY:
 - Scene economy matters. Build a clear arc with escalation; avoid a day-in-the-life collage.
 - Limit civilian-helping vignettes to at most one short beat unless plot-critical.
@@ -177,6 +216,18 @@ Options:
     fi
 
     echo "$RESPONSE" > "$OUTPUT_FILE"
+
+    if [ "$CONTINUITY_GATE" = "1" ]; then
+        if [ -f "scripts/continuity_gate.py" ]; then
+            python "scripts/continuity_gate.py" "$OUTPUT_FILE"
+        fi
+    fi
+
+    if [ "$AUDIO_MODE" = "1" ]; then
+        if [ -f "scripts/audio_tagging.py" ]; then
+            python "scripts/audio_tagging.py" "$OUTPUT_FILE" "$OUTPUT_FILE" "$AUDIO_TAG_STYLE"
+        fi
+    fi
 
     sed -i '0,/\[ \] C/ s/\[ \] C/\[x\] C/' "$PRD_FILE"
 

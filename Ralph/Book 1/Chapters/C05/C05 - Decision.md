@@ -279,3 +279,12 @@ He stopped. His mouth moved without sound.
 He closed his eyes and bowed his head.
 
 “By the…” he said, and the prayer broke mid-sentence.
+
+DECISION REQUIRED:
+Chapter: C05 — “The Grind”
+Context: Kael sees Edric on the wall and feels the pull to remove him from the line, knowing it would violate duty and compromise the chain of command.
+Options:
+1. Kael does not intervene, remains bound to duty. (Recommended)
+2. Kael pulls Edric off the wall despite the rules, accepting the corruption of his role.
+
+Kael is lawwful neutral, he does not intervene.
